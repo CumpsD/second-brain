@@ -14,10 +14,10 @@ Gemailed of ze die voor alleen ook in pure vegan optie willen aanbieden.
 
 ### #food
 
-> Scheepsdalelaan 37 /
-> 8000 Brugge /
-> +32 50 70 76 70 /
-> https://www.facebook.com/foodbrugge/ /
+> Scheepsdalelaan 37 \
+> 8000 Brugge \
+> +32 50 70 76 70 \
+> https://www.facebook.com/foodbrugge/ \
 > http://www.hashtagfood.be/
 
 > We willen graag een plek zijn, waar iedereen zich welkom mag voelen: we werken **volledig melk- en glutenvrij**, zonder dat we willen beperken in smaak of beleving.
@@ -55,10 +55,10 @@ Veel vegan opties, nu met corona-tijden overgeschakelt op boxen. In de toekomst 
 
 #### Bistro 144
 
-> Gistelsteenweg 144 /
-> 8490 Varsenare /
-> +32 468 54 15 87 /
-> https://www.facebook.com/bistro144/ /
+> Gistelsteenweg 144 \
+> 8490 Varsenare \
+> +32 468 54 15 87 \
+> https://www.facebook.com/bistro144/ \
 > https://www.bistro144.be/
 
 Enkel vegetarisch, niet veganistisch. 🙁
@@ -75,10 +75,10 @@ Ooit gedaan, geen reactie op en zijn ermee gestopt. 🙁
 
 #### Keurslagerij Hanne
 
-> Constant Permekelaan 29 /
-> 8490 Jabbeke /
-> +32 50 81 54 05 /
-> https://www.facebook.com/Keurslagerij-Hanne-1907130029398750/ /
+> Constant Permekelaan 29 \
+> 8490 Jabbeke \
+> +32 50 81 54 05 \
+> https://www.facebook.com/Keurslagerij-Hanne-1907130029398750/ \
 > https://www.keurslagerhanne.be/
 
 Verkopen geen veganistische schotels.
