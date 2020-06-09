@@ -8,7 +8,7 @@
 
 Keuze uit menu's voor 2 of alleen. Voor 2 zijn er pure vegan menu's. Voor alleen helaas niet.
 
-Gemailed of ze die voor alleen ook in pure vegan optie willen aanbieden.
+Gemailed of ze die voor alleen ook in pure vegan optie willen aanbieden. 🤞
 
 ## Brugge
 
