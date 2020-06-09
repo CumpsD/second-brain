@@ -19,7 +19,7 @@ Gemailed of ze die voor alleen ook in pure vegan optie willen aanbieden.
 > +32 50 38 60 98 \
 > https://www.facebook.com/natuurbakkerij/
 
-Elke dinsdag, een veganistische lasagne (soms met lasagne bladen, soms met aardappelen).
+Elke dinsdag, een veganistische lasagne (soms met lasagne bladen, soms met aardappelen). 👍
 
 ## Oostende
 
@@ -31,7 +31,7 @@ Elke dinsdag, een veganistische lasagne (soms met lasagne bladen, soms met aarda
 > https://www.facebook.com/albrechtoostende/ \
 > https://www.albrecht-oostende.be/
 
-Veel vegan opties, nu met corona-tijden overgeschakelt op boxen. In de toekomst mogelijk box te customizen.
+Veel vegan opties, nu met corona-tijden overgeschakelt op boxen. In de toekomst mogelijk box te customizen. 🤞
 
 ## Geen vegan opties
 
@@ -45,7 +45,7 @@ Veel vegan opties, nu met corona-tijden overgeschakelt op boxen. In de toekomst 
 > https://www.facebook.com/ontbijt.lunch.Varsenare/ \
 > https://www.herman-varsenare.be/
 
-Ooit gedaan, geen reactie op en zijn ermee gestopt.
+Ooit gedaan, geen reactie op en zijn ermee gestopt. 🙁
 
 #### Oud Gemeentehuis
 
