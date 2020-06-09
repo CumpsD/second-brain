@@ -22,7 +22,12 @@ Gemailed of ze die voor alleen ook in pure vegan optie willen aanbieden. 🤞
 
 > We willen graag een plek zijn, waar iedereen zich welkom mag voelen: we werken **volledig melk- en glutenvrij**, zonder dat we willen beperken in smaak of beleving.
 
-Automaat voor deur van restaurant, Deliveroo, afhaal. [Zie voorbeeld menu (Zomer 2020)](https://github.com/CumpsD/second-brain/blob/master/assets/hashtagfood-Summer-20-met-take-away.pdf).
+Automaat voor deur van restaurant, Deliveroo, afhaal. [Zie voorbeeld menu (Zomer 2020)](https://github.com/CumpsD/second-brain/blob/master/assets/hashtagfood-Summer-20-met-take-away.pdf). Alles met een rode prijs is beschikbaar voor take-out.
+
+Automaat:
+> Er zitten 9 drankjes in, geschenkbonnen, een 5-tal tapa's (dips), zo'n 8 desserts (Snickerz, Rrraider, Bonty, Pimm's in a jar, mousses, taart), 8 hoofdgerechten om op te warmen (erg wisselend: lasagnes, stoofpotjes, salades, curry's, ...)
+
+Dinsdag en woensdag gesloten, enkel automaat dan.
 
 Nog uit te proberen.
 
