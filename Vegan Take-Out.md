@@ -22,7 +22,7 @@ Gemailed of ze die voor alleen ook in pure vegan optie willen aanbieden.
 
 > We willen graag een plek zijn, waar iedereen zich welkom mag voelen: we werken **volledig melk- en glutenvrij**, zonder dat we willen beperken in smaak of beleving.
 
-Automaat voor deur van restaurant, Deliveroo, afhaal.
+Automaat voor deur van restaurant, Deliveroo, afhaal. [Zie voorbeeld menu (Zomer 2020)](https://github.com/CumpsD/second-brain/blob/master/assets/hashtagfood-Summer-20-met-take-away.pdf)
 
 Nog uit te proberen.
 
