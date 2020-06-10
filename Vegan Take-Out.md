@@ -6,9 +6,9 @@
 
 > https://foodmaker.be/
 
-Keuze uit menu's voor 2 of alleen. Voor 2 zijn er pure vegan menu's. Voor alleen helaas niet.
+Keuze uit menu's voor 2 of alleen. Voor 2 zijn er pure vegan menu's. Voor alleen helaas niet, ook niet na navraag per email. 🙁
 
-Gemailed of ze die voor alleen ook in pure vegan optie willen aanbieden. 🤞
+Nog uit te proberen.
 
 ## Brugge
 
