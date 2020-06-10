@@ -36,7 +36,7 @@ Nog uit te proberen.
 ### Het Pastinaakje
 
 > Gistelse-steenweg 576 \
-> 8200 Brugge, Belgium \
+> 8200 Brugge \
 > +32 50 38 60 98 \
 > https://www.facebook.com/natuurbakkerij/
 
