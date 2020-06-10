@@ -42,6 +42,20 @@ Nog uit te proberen.
 
 Elke dinsdag, een veganistische lasagne (soms met lasagne bladen, soms met aardappelen). 👍
 
+## Jabbeke / Varsenare
+
+### En Route 367
+
+> Gistelsteenweg 20 \
+> 8490 Jabbeke
+> https://www.facebook.com/enroute367/ \
+> https://enroute367.be/
+
+Niet hun specialiteit, ze hebben geen vraag er naar. 🙁 \
+Er is enkel een groentencurry beschikbaar met courgettes, paprika en cocosroom met oa cury en currypasta.
+
+Nog uit te proberen.
+
 ## Oostende
 
 ### Albrecht
