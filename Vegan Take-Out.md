@@ -47,7 +47,7 @@ Elke dinsdag, een veganistische lasagne (soms met lasagne bladen, soms met aarda
 ### En Route 367
 
 > Gistelsteenweg 20 \
-> 8490 Jabbeke
+> 8490 Jabbeke \
 > https://www.facebook.com/enroute367/ \
 > https://enroute367.be/
 
