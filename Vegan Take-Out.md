@@ -110,6 +110,5 @@ Verkopen geen veganistische schotels.
 > +32 50 38 73 13 \
 > http://www.oudgemeentehuisvarsenare.be/
 
-Geen veganistische opties te bespeuren op de take away kaart.
-
-Gepolst op Facebook, wachtend op antwoord.
+Geen veganistische opties te bespeuren op de take away kaart. 🙁 \
+Gepolst op Facebook, antwoord was om de website te lezen.
