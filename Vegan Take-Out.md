@@ -28,8 +28,7 @@ Dinsdag en woensdag gesloten, enkel automaat dan.
 
 > Er zitten 9 drankjes in, geschenkbonnen, een 5-tal tapa's (dips), zo'n 8 desserts (Snickerz, Rrraider, Bonty, Pimm's in a jar, mousses, taart), 8 hoofdgerechten om op te warmen (erg wisselend: lasagnes, stoofpotjes, salades, curry's, ...)
 
-
-Nog uit te proberen.
+Verschillende uitgeprobeerd uit automaat (Stoofpot van vergeten groenten, Marokkaanse schotel, Chili Sin Carne). Eenvoudig op te warmen. Smaken verschillen van gerecht tot gerecht. 👍
 
 ## Sint-Andries
 
