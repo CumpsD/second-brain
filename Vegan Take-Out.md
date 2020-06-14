@@ -109,4 +109,5 @@ Verkopen geen veganistische schotels.
 > http://www.oudgemeentehuisvarsenare.be/
 
 Geen veganistische opties te bespeuren op de take away kaart. 🙁 \
-Gepolst op Facebook, antwoord was om de website te lezen.
+Gepolst op Facebook, antwoord was om de website te lezen. \
+Gingen nog opbellen maar niets meer gehoord.
