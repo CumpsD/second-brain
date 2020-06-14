@@ -8,6 +8,8 @@
 
 Keuze uit menu's voor 2 of alleen. Voor 2 zijn er pure vegan menu's. Voor alleen helaas niet, ook niet na navraag per email. 🙁
 
+![Foodmaker Dinner for Two - Plant Based](https://github.com/CumpsD/second-brain/raw/master/assets/foodmaker.png "Foodmaker Dinner for Two - Plant Based")
+
 Nog uit te proberen. Dinner for two - Plant based besteld.
 
 ## Brugge
