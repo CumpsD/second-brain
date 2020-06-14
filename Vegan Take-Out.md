@@ -52,9 +52,8 @@ Elke dinsdag, een veganistische lasagne (soms met lasagne bladen, soms met aarda
 > https://enroute367.be/
 
 Niet hun specialiteit, ze hebben geen vraag er naar. 🙁 \
-Er is enkel een groentencurry beschikbaar met courgettes, paprika en cocosroom met oa cury en currypasta.
-
-Nog uit te proberen.
+Er is enkel een groentencurry beschikbaar met courgettes, paprika en cocosroom met oa cury en currypasta. 👍 \
+Bereid om nieuwe dingen uit te proberen bij genoeg op voorhand vragen.
 
 ## Oostende
 
