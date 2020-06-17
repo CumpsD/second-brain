@@ -41,7 +41,8 @@ Verschillende uitgeprobeerd uit automaat (Stoofpot van vergeten groenten, Marokk
 > +32 50 38 60 98 \
 > https://www.facebook.com/natuurbakkerij/
 
-Elke dinsdag, een veganistische lasagne (soms met lasagne bladen, soms met aardappelen). 👍
+Elke dinsdag, een veganistische lasagne (soms met lasagne bladen, soms met aardappelen). 👍 \
+Minstens een dag op voorhand bestellen!
 
 ## Jabbeke / Varsenare
 
