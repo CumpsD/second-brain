@@ -10,7 +10,7 @@ Keuze uit menu's voor 2 of alleen. Voor 2 zijn er pure vegan menu's. Voor alleen
 
 ![Foodmaker Dinner for Two - Plant Based](https://github.com/CumpsD/second-brain/raw/master/assets/foodmaker.png "Foodmaker Dinner for Two - Plant Based")
 
-Dinner for two - Plant based besteld. Alle drie waren goed. 👍
+`Dinner for two - Plant based` besteld. Alle drie waren goed. 👍
 
 ## Brugge
 
@@ -57,6 +57,16 @@ Minstens een dag op voorhand bestellen!
 Niet hun specialiteit, ze hebben geen vraag er naar. 🙁 \
 Er is enkel een groentencurry beschikbaar met courgettes, paprika en cocosroom met oa cury en currypasta. 👍 \
 Bereid om nieuwe dingen uit te proberen bij genoeg op voorhand vragen.
+
+### Friet Sebiet
+
+> Gistelsteenweg 133B \
+> 8490 Jabbeke \
+> +32 50 73 78 53 \
+> https://www.facebook.com/frietsebiet/
+
+Allergielijst opgevraagd. Komt neer op friet en veggie burger. \
+Meeste saus is ok behalve giant saus (vis), stoofvleessaus (vlees, melk) en warme pepersaus (melk).
 
 ## Oostende
 
