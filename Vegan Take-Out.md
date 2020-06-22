@@ -66,7 +66,8 @@ Bereid om nieuwe dingen uit te proberen bij genoeg op voorhand vragen.
 > https://www.facebook.com/frietsebiet/
 
 Allergielijst opgevraagd. Komt neer op friet en veggie burger. \
-Meeste saus is ok behalve giant saus (vis), stoofvleessaus (vlees, melk) en warme pepersaus (melk).
+Meeste saus is vegetarisch (ei) behalve giant saus (vis), stoofvleessaus (vlees, melk) en warme pepersaus (melk). \
+Met andere woorden: ketchup, curry ketchup, pickles, mosterd, zigeunersaus, loempiasaus, bickysaus ketchup en bickysaus hot is ok.
 
 ## Oostende
 
