@@ -65,7 +65,7 @@ Bereid om nieuwe dingen uit te proberen bij genoeg op voorhand vragen.
 > +32 50 73 78 53 \
 > https://www.facebook.com/frietsebiet/
 
-Allergielijst opgevraagd. Komt neer op friet en veggie burger. \
+Allergielijst opgevraagd. Komt neer op friet en veggie burger (is eigenlijk vegan burger). \
 Meeste saus is vegetarisch (ei) behalve giant saus (vis), stoofvleessaus (vlees, melk) en warme pepersaus (melk). \
 Met andere woorden: ketchup, curry ketchup, pickles, mosterd, zigeunersaus, loempiasaus, bickysaus ketchup en bickysaus hot is ok.
 
