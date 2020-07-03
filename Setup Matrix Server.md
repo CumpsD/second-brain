@@ -144,3 +144,26 @@ Apply changes:
 ```bash
 ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
 ```
+
+### Shared Secret
+
+Update `vars.yml`
+
+```
+matrix_synapse_ext_password_provider_shared_secret_auth_enabled: true
+matrix_synapse_ext_password_provider_shared_secret_auth_shared_secret: xxx
+```
+
+Apply changes:
+
+```bash
+ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
+```
+
+### Hangouts
+
+Update `vars.yml`
+
+```
+matrix_mautrix_hangouts_enabled: true
+```
