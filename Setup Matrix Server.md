@@ -176,6 +176,8 @@ ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
 
 ### WhatsApp
 
+Update `vars.yml`
+
 ```
 matrix_mautrix_whatsapp_enabled: true
 ```
@@ -186,7 +188,60 @@ Apply changes:
 ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
 ```
 
+### Skype
+
+Update `vars.yml`
+
+```
+matrix_mx_puppet_skype_enabled: true
+```
+
+Apply changes:
+
+```bash
+ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
+```
+
+### Twitter
+
+Create an app on https://developer.twitter.com/en/apps
+
+Update `vars.yml`
+
+```
+matrix_mx_puppet_twitter_enabled: true
+matrix_mx_puppet_twitter_consumer_key: ''
+matrix_mx_puppet_twitter_consumer_secret: ''
+matrix_mx_puppet_twitter_access_token: ''
+matrix_mx_puppet_twitter_access_token_secret: ''
+matrix_mx_puppet_twitter_environment: ''
+```
+
+Apply changes:
+
+```bash
+ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
+```
+
+### Slack
+
+Update `vars.yml`
+
+```
+matrix_mx_puppet_slack_enabled: true
+matrix_mx_puppet_slack_client_id: ""
+matrix_mx_puppet_slack_client_secret: ""
+```
+
+Apply changes:
+
+```bash
+ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
+```
+
 ### Facebook
+
+Update `vars.yml`
 
 ```
 matrix_mautrix_facebook_enabled: true
