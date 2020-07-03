@@ -104,10 +104,10 @@ matrix_s3_media_store_region: "eu-west-1"
 
 ```bash
 # you'll need to rerun setup-all and start tags again if you edit vars later
-ansible-playbook -K -i inventory/hosts setup.yml --tags=setup-all
-ansible-playbook -K -i inventory/hosts setup.yml --tags=start
-ansible-playbook -K -i inventory/hosts setup.yml --tags=self-check
-ansible-playbook -K -i inventory/hosts setup.yml --extra-vars='username=cumpsd password=xxx admin=yes' --tags=register-user
+ansible-playbook -i inventory/hosts setup.yml --tags=setup-all
+ansible-playbook -i inventory/hosts setup.yml --tags=start
+ansible-playbook -i inventory/hosts setup.yml --tags=self-check
+ansible-playbook -i inventory/hosts setup.yml --extra-vars='username=cumpsd password=xxx admin=yes' --tags=register-user
 ```
 
 ### Configure Identity
