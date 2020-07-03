@@ -8,16 +8,16 @@ Also create an S3 bucket.
 
 ### Security Group
 
-* 80/tcp (HTTP webserver)
-* 443/tcp (HTTPS webserver)
-* 3478/tcp (TURN over TCP)
-* 3478/udp (TURN over UDP)
-* 5349/tcp (TURN over TCP)
-* 5349/udp (TURN over UDP)
-* 8448/tcp (Matrix Federation API HTTPS webserver)
-* the range 49152-49172/udp (TURN over UDP)
-* 4443/tcp (Jitsi Harvester fallback)
-* 10000/udp (Jitsi video RTP)
+* `80/tcp` (HTTP webserver)
+* `443/tcp` (HTTPS webserver)
+* `3478/tcp` (TURN over TCP)
+* `3478/udp` (TURN over UDP)
+* `5349/tcp` (TURN over TCP)
+* `5349/udp` (TURN over UDP)
+* `8448/tcp` (Matrix Federation API HTTPS webserver)
+* the range `49152-49172/udp` (TURN over UDP)
+* `4443/tcp` (Jitsi Harvester fallback)
+* `10000/udp` (Jitsi video RTP)
 
 ## Configure Instance
 
@@ -67,6 +67,13 @@ nano inventory/hosts
 nano inventory/host_vars/matrix.cumps.be/vars.yml
 ```
 
+#### hosts
+
+```
+[matrix_servers]
+matrix.cumps.be ansible_host=x.x.x.x ansible_ssh_user=ubuntu become=true become_user=root ansible_connection=local
+```
+
 #### vars.yml
 
 ```
@@ -77,6 +84,8 @@ matrix_ssl_lets_encrypt_support_email: david@cumps.be
 matrix_coturn_turn_static_auth_secret: "xxx"
 
 matrix_synapse_macaroon_secret_key: "xxx"
+
+matrix_coturn_turn_external_ip_address: "x.x.x.x"
 
 matrix_riot_web_themes_enabled: true
 
