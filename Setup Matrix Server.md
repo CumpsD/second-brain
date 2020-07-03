@@ -190,6 +190,14 @@ ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
 
 ```
 matrix_mautrix_facebook_enabled: true
+
+matrix_synapse_configuration_extension_yaml: |
+  enable_group_creation: true
+  group_creation_prefix: "unofficial/"
+
+matrix_mautrix_facebook_configuration_extension_yaml: |
+  bridge:
+    community_template: "unofficial/facebook_{localpart}={server}"
 ```
 
 Apply changes:
