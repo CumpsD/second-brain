@@ -174,6 +174,9 @@ Apply changes:
 ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
 ```
 
+* Direct message `@hangoutsbot:cumps.be`
+* Send `login`
+
 ### WhatsApp
 
 Update `vars.yml`
@@ -188,42 +191,16 @@ Apply changes:
 ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
 ```
 
-### Skype
-
-Update `vars.yml`
-
-```
-matrix_mx_puppet_skype_enabled: true
-```
-
-Apply changes:
-
-```bash
-ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
-```
-
-### Twitter
-
-Create an app on https://developer.twitter.com/en/apps
-
-Update `vars.yml`
-
-```
-matrix_mx_puppet_twitter_enabled: true
-matrix_mx_puppet_twitter_consumer_key: ''
-matrix_mx_puppet_twitter_consumer_secret: ''
-matrix_mx_puppet_twitter_access_token: ''
-matrix_mx_puppet_twitter_access_token_secret: ''
-matrix_mx_puppet_twitter_environment: ''
-```
-
-Apply changes:
-
-```bash
-ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
-```
+* Direct message `@whatsappbot:cumps.be`
+* Send `login`
 
 ### Slack
+
+* Create an app on https://api.slack.com/apps
+* `Oauth & Permissions -> Scopes -> User Token Scopes -> Add an Oauth Scope` add an `admin` scope.
+* On the same page add a redirect URL to `https://mydomain.com/slack/oauth`.
+* Install the app to a workspace (big green button at the top)
+* From `Basic Information`, copy the client ID and client secret to the bridge's `config.json`
 
 Update `vars.yml`
 
@@ -238,6 +215,10 @@ Apply changes:
 ```bash
 ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
 ```
+
+* Direct message `@_slackpuppet_bot:cumps.be`
+* Send a message to the bot that just says `link`, and then follow the url it responds with to get a slack token.
+* Then `link <token>`
 
 ### Facebook
 
@@ -260,3 +241,46 @@ Apply changes:
 ```bash
 ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
 ```
+
+* Direct message `@facebookbot:cumps:be`
+* Send `login`, or `login-cookie`
+* It will take a lot of attempts before Facebook's security lets you.
+
+### Skype
+
+Update `vars.yml`
+
+```
+matrix_mx_puppet_skype_enabled: true
+```
+
+Apply changes:
+
+```bash
+ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
+```
+
+* Did not get working yet
+
+### Twitter
+
+Create an app on https://developer.twitter.com/en/apps
+
+Update `vars.yml`
+
+```
+matrix_mx_puppet_twitter_enabled: true
+matrix_mx_puppet_twitter_consumer_key: ''
+matrix_mx_puppet_twitter_consumer_secret: ''
+matrix_mx_puppet_twitter_access_token: ''
+matrix_mx_puppet_twitter_access_token_secret: ''
+matrix_mx_puppet_twitter_environment: ''
+```
+
+Apply changes:
+
+```bash
+ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
+```
+
+* Did not get working yet
