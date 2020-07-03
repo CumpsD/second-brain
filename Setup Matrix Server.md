@@ -167,3 +167,33 @@ Update `vars.yml`
 ```
 matrix_mautrix_hangouts_enabled: true
 ```
+
+Apply changes:
+
+```bash
+ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
+```
+
+### WhatsApp
+
+```
+matrix_mautrix_whatsapp_enabled: true
+```
+
+Apply changes:
+
+```bash
+ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
+```
+
+### Facebook
+
+```
+matrix_mautrix_facebook_enabled: true
+```
+
+Apply changes:
+
+```bash
+ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
+```
