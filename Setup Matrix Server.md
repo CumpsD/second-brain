@@ -246,6 +246,33 @@ ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
 * Send `login`, or `login-cookie`
 * It will take a lot of attempts before Facebook's security lets you.
 
+### Jitsi
+
+Update `vars.yml`
+
+```
+matrix_jitsi_enabled: true
+matrix_jitsi_jicofo_component_secret: xx
+matrix_jitsi_jicofo_auth_password: xx
+matrix_jitsi_jvb_auth_password: xx
+matrix_jitsi_jibri_recorder_password: xx
+matrix_jitsi_jibri_xmpp_password: xx
+matrix_jitsi_enable_auth: true
+matrix_jitsi_enable_guests: true
+```
+
+Apply changes:
+
+```bash
+ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
+```
+
+Add User:
+
+```bash
+docker exec matrix-jitsi-prosody prosodyctl --config /config/prosody.cfg.lua register cumpsd matrix-jitsi-web xx
+```
+
 ### Skype
 
 Update `vars.yml`
