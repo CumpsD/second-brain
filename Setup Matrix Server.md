@@ -113,3 +113,34 @@ ansible-playbook -i inventory/hosts setup.yml --extra-vars='username=cumpsd pass
 ### Configure Identity
 
 Copy `/.well-known/matrix/server` and `/.well-known/matrix/client` from the Matrix server (e.g. `matrix.cumps.be`) to your base domain's server (`cumps.be`). You can find these files on URLs like this: `https://matrix.example.com/.well-known/matrix/server` (same for `client`).
+
+## Using
+
+### Synapse
+
+Check https://matrix.cumps.be
+
+### Riot
+
+Check https://riot.cumps.be
+
+### Dimension
+
+```bash
+ansible-playbook -i inventory/hosts setup.yml --extra-vars='username=dimension password=xxx admin=no' --tags=register-user
+```
+
+Update `vars.yml`
+
+```
+matrix_dimension_enabled: true
+matrix_dimension_admins:
+  - "@cumpsd:{{ matrix_domain }}"
+matrix_dimension_access_token: "xxx"
+```
+
+Apply changes:
+
+```bash
+ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
+```
