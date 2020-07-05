@@ -242,7 +242,7 @@ Apply changes:
 ansible-playbook -i inventory/hosts setup.yml --tags=setup-all,start
 ```
 
-* Direct message `@facebookbot:cumps:be`
+* Direct message `@facebookbot:cumps.be`
 * Send `login`, or `login-cookie`
 * It will take a lot of attempts before Facebook's security lets you.
 
