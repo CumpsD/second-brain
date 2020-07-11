@@ -32,6 +32,12 @@ Find the right fuse cable plug, unplug the fuse, plug it in the cable and plug t
 
 Tidy up the cables with the supplied velcro strips and put them away nicely.
 
+## Connect the ground cable
+
+TODO: Still have to do this step
+
+Find a nice bolt without paint, and attach the ground cable to it.
+
 ## Test everything
 
 TODO: Still have to do this step
@@ -43,3 +49,10 @@ Set the battery in hardwire mode. Turn on the engine and check if the battery ch
 TODO: Still have to do this step
 
 Close everything and congratulations!
+
+## Resources
+
+* [How To Identify Your Vehicle's Fuse Type](https://www.thedashcamstore.com/how-to-identify-your-vehicles-fuse-type/)
+* [How To Identify Constant And Switched Fuses](https://www.thedashcamstore.com/how-to-identify-constant-and-switched-fuses/)
+* [How To Identify A Proper Ground Point](https://www.thedashcamstore.com/how-to-identify-a-proper-ground-point/)
+* [YouTube: 2019+ Ram 1500 Dash Cam Hardwire](https://www.youtube.com/watch?v=1s39yIc9a50)
