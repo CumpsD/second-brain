@@ -155,7 +155,6 @@ $ gpg2 --edit-key <key_id>
  Your decision? 5
  Do you really want to set this key to ultimate trust? (y/N) y
  
-
  pub  4096R/D37A732F  created: 2019-08-22  expires: 2020-08-21  usage: SC  
                       trust: ultimate      validity: ultimate
  sub  4096R/7C7D2187  created: 2019-08-22  expires: 2020-08-21  usage: E   
