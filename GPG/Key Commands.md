@@ -169,7 +169,6 @@ $ gpg2 --edit-key <email_address>
 ## Keyserver
 
 ```bash
-$ gpg2 --export --armor --output public.asc <email_address>
 $ gpg2 --send-keys <email_address>
 ```
 
@@ -189,6 +188,3 @@ $ gpg2 --import all-public-keys.asc
 $ gpg2 --import all-secret-keys.asc
 $ gpg2 --import-ownertrust otrust.txt
 ```
-$ gpg --edit-key john@delrosario.org
-$ gpg --export --armor john@delrosario.org > john@delrosario.org.pub
-$ gpg --send-keys john@delrosario.org
