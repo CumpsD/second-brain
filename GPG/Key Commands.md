@@ -228,3 +228,15 @@ $ gpg2 --import all-public-keys.asc
 $ gpg2 --import all-secret-keys.asc
 $ gpg2 --import-ownertrust otrust.txt
 ```
+
+## Passphrase
+
+```bash
+gpg --edit-key <key_id>
+> passwd
+> save
+
+gpg2 --edit-key <key_id>
+> passwd
+> save
+```
