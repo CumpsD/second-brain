@@ -176,6 +176,8 @@ $ gpg2 --refresh-keys
 
 $ gpg2 --send-keys <key_id>
  gpg: sending key 0x9D771C7A03413FB3 to hkps://keys.openpgp.org
+ 
+$ gpg2 --send-keys --keyserver keyserver.ubuntu.com <key_id>
 ```
 
 At this point you can find your key online too: [keys.openpgp.org/search?q=0x9D771C7A03413FB3](https://keys.openpgp.org/search?q=0x9D771C7A03413FB3)
