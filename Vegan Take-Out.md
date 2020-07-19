@@ -8,7 +8,7 @@
 
 Keuze uit menu's voor 2 of alleen. Voor 2 zijn er pure vegan menu's. Voor alleen helaas niet, ook niet na navraag per email. 🙁
 
-![Foodmaker Dinner for Two - Plant Based](https://github.com/CumpsD/second-brain/raw/master/assets/foodmaker.png "Foodmaker Dinner for Two - Plant Based")
+![Foodmaker Dinner for Two - Plant Based](https://github.com/CumpsD/second-brain/raw/main/assets/foodmaker.png "Foodmaker Dinner for Two - Plant Based")
 
 `Dinner for two - Plant based` besteld. Alle drie waren goed. 👍
 
@@ -25,7 +25,7 @@ Keuze uit menu's voor 2 of alleen. Voor 2 zijn er pure vegan menu's. Voor alleen
 > We willen graag een plek zijn, waar iedereen zich welkom mag voelen: we werken **volledig melk- en glutenvrij**, zonder dat we willen beperken in smaak of beleving.
 
 Automaat voor deur van restaurant, Deliveroo, afhaal. \
-[Zie voorbeeld menu (Zomer 2020)](https://github.com/CumpsD/second-brain/blob/master/assets/hashtagfood-Summer-20-met-take-away.pdf). Alles met een rode prijs is beschikbaar voor take-out. \
+[Zie voorbeeld menu (Zomer 2020)](https://github.com/CumpsD/second-brain/blob/main/assets/hashtagfood-Summer-20-met-take-away.pdf). Alles met een rode prijs is beschikbaar voor take-out. \
 Dinsdag en woensdag gesloten, enkel automaat dan.
 
 > Er zitten 9 drankjes in, geschenkbonnen, een 5-tal tapa's (dips), zo'n 8 desserts (Snickerz, Rrraider, Bonty, Pimm's in a jar, mousses, taart), 8 hoofdgerechten om op te warmen (erg wisselend: lasagnes, stoofpotjes, salades, curry's, ...)
