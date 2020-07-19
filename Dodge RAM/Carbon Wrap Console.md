@@ -35,3 +35,11 @@ For some reason, they have a gold/brown-ish inset. Nowhere else does this color 
 * Once your pieces are wrapped, re-assemble everything by reversing the steps:
 
 ![8](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/8.png "8")
+
+## Wrapping
+
+Wrap to use: [3M™ Wrap Film Series 1080 - Matrix Black (Replaced by 3M™ 2080)](https://www.rvinyl.com/3M-Wrap-Film-Series-1080-Matrix-Back-MX12.html) or [3M™ Wrap Film Series 2080 - Carbon Fiber Black](https://www.rvinyl.com/3M-Wrap-Film-Series-2080-Carbon-Fiber-Black-Vinyl.html)
+
+## Resources
+
+* [Dash Insert Removal](https://5thgenrams.com/community/threads/dash-insert-removal.10742/page-2)
