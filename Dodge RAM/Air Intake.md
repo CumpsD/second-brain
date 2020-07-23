@@ -2,7 +2,7 @@
 
 ## aFe Momentum GT
 
-* [Momentum GT Cold Air Intake System w/Pro 5R Filter Media #50-70013R](https://afepower.com/afe-power-50-70013r-momentum-gt-pro-5r-cold-air-intake-system)
+* [Momentum GT Cold Air Intake System w/Pro DRY S Filter Media #50-70013D](https://afepower.com/afe-power-50-70013d-momentum-gt-pro-dry-s-cold-air-intake-system)
 * [2019 RAM 1500 5.7L AFE Momentum GT Cold Air Intake w/ Pro DRY S Filter Review & Install](https://www.youtube.com/watch?v=csO0Q41DZkg)
 * [aFe Luftfilter Cold Air Power Box RAM 1500 Bj:2019+ 5,7L (Gen.5) +14PS (TÜV](https://www.power-parts.shop/aFe-Luftfilter-Cold-Air-Power-Box-RAM-1500-Bj-2019-57L-Gen5-14PS-TUeV)
 
