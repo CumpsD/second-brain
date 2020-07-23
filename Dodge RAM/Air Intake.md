@@ -1,5 +1,12 @@
 # Air Intake
 
+## K&N
+
+* [K&N PERFORMANCE AIR INTAKE SYSTEM #77-1578KP](https://www.knfilters.com/77-1578kp-performance-air-intake-system)
+* [More Power for 2019 RAM 1500 5.7L V8s with K&N Cold Air Intakes](https://www.knfilters.com/blog/more-power-and-torque-for-2019-ram-1500-5-7l-v8-models-with-kn-cold-air-intakes/)
+* [Learn How to Install K&N Air Intake System #77-1578KP on your Ram 1500 5.7L](https://www.youtube.com/watch?v=mZAAbdI5tZg)
+* [2009-2018 Ram K&N Series 77 High Flow Performance Cold Air Intake 5.7L Review & Dyno](https://www.youtube.com/watch?v=_ufIjCPDjPQ)
+
 ## aFe Momentum GT
 
 * [Momentum GT Cold Air Intake System w/Pro DRY S Filter Media #50-70013D](https://afepower.com/afe-power-50-70013d-momentum-gt-pro-dry-s-cold-air-intake-system)
