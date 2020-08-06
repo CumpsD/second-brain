@@ -43,3 +43,25 @@ Wrap to use: [3M™ Wrap Film Series 1080 - Matrix Black (Replaced by 3M™ 2080
 ## Resources
 
 * [Dash Insert Removal](https://5thgenrams.com/community/threads/dash-insert-removal.10742/page-2)
+
+## Result
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1798.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1810.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1811.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1812.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1813.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1814.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1815.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1816.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1817.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1842.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1843.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1844.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1845.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1846.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1847.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1848.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1849.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1850.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1853.jpg "a")
