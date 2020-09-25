@@ -1,11 +1,5 @@
 # Air Intake
 
-## S&B
-
-* [COLD AIR INTAKE FOR 2019-2020 DODGE RAM 1500 / 2500 / 3500 5.7L HEMI (NEW BODY STYLE)](https://www.sbfilters.com/cold-air-intakes/dodge-ram-5-7-hemi-intake-75-5124?variant_id=422)
-* [INSTALL INSTRUCTIONS FOR 75-5124](https://www.sbfilters.com/75-5124install)
-* [2009-2018 RAM 1500 5.7L S&B Cold Air Intake w/ Oiled Cleanable Cotton Filter Review & Install](https://www.youtube.com/watch?v=2XLzALW1kVQ)
-
 ## K&N
 
 * [K&N PERFORMANCE AIR INTAKE SYSTEM #77-1578KP](https://www.knfilters.com/77-1578kp-performance-air-intake-system)
@@ -13,16 +7,44 @@
 * [Learn How to Install K&N Air Intake System #77-1578KP on your Ram 1500 5.7L](https://www.youtube.com/watch?v=mZAAbdI5tZg)
 * [2009-2018 Ram K&N Series 77 High Flow Performance Cold Air Intake 5.7L Review & Dyno](https://www.youtube.com/watch?v=_ufIjCPDjPQ)
 
-## aFe Momentum GT
+## Result
 
-* [Momentum GT Cold Air Intake System w/Pro DRY S Filter Media #50-70013D](https://afepower.com/afe-power-50-70013d-momentum-gt-pro-dry-s-cold-air-intake-system)
-* [2019 RAM 1500 5.7L AFE Momentum GT Cold Air Intake w/ Pro DRY S Filter Review & Install](https://www.youtube.com/watch?v=csO0Q41DZkg)
-* [aFe Luftfilter Cold Air Power Box RAM 1500 Bj:2019+ 5,7L (Gen.5) +14PS (TÜV](https://www.power-parts.shop/aFe-Luftfilter-Cold-Air-Power-Box-RAM-1500-Bj-2019-57L-Gen5-14PS-TUeV)
+* [Installation Manual](https://github.com/CumpsD/second-brain/raw/main/assets/ram/air-intake/KNN-77-1578_inst.pdf)
 
-## Research
+### Parts unpacked
 
-* [Mopar’s “Ram Airflow” Cold-Air Intake System For Ram 1500](https://5thgenrams.com/community/threads/mopar%E2%80%99s-%E2%80%9Cram-airflow%E2%80%9D-cold-air-intake-system-for-ram-1500.11037/page-8)
-* [Vararam](http://www.vararam.com/products.html), [Air Grabber](https://www.lmperformance.com/1041977/vr-grabber-5th-vararam-4g-air-grabber-5th-gen-57l-hemi-trucks.html)
-* [77-1578KP K&N PERFORMANCE AIR INTAKE SYSTEM](https://www.knfilters.com/77-1578kp-performance-air-intake-system)
-* [aFe Momentum GT Cold Air Intake System w/Pro 5R Filter Media](https://afepower.com/afe-power-50-70013r-momentum-gt-pro-5r-cold-air-intake-system)
-* [aFe Magnum FORCE Stage-2 Cold Air Intake System w/Pro 5R Filter Media](https://afepower.com/afe-power-54-13020r-magnum-force-stage-2-pro-5r-col-air-intake-system)
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/air-intake/1.jpg "a")
+
+### Factory air intake
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/air-intake/2.jpg "a")
+
+### Factory air intake removed
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/air-intake/3.jpg "a")
+
+### Broken PVC Elbow Part #088028
+
+While attaching the PVC intake tube it broke.
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/air-intake/4.jpg "a")
+
+### Fixing the intake tube
+
+Superglue didn't fix it, so I resorted to creating a different part
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/air-intake/5.jpg "a")
+
+### Intake tube replacement created
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/air-intake/6.jpg "a")
+
+### Installed pipe
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/air-intake/7.jpg "a")
+
+### Installed air filter
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/air-intake/8.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/air-intake/9.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/air-intake/10.jpg "a")

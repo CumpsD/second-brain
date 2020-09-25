@@ -4,7 +4,7 @@
 
 > We can install a Magnaflow 2 or 3 for 900 EUR. Work included.
 
-Asked them for specs.
+Asked them for specs. They were unable to provide any, saying they only used a part of Magnaflow and the rest was done in house. Decided to find somebody else to supply a full system.
 
 ## Research
 
@@ -31,3 +31,11 @@ Asked them for specs.
 | Tip Finish | Black Coated |
 | Tip Diameter | 5" |
 | Tip Length | 13" |
+
+### Flowmaster
+
+[FLOWMASTER OUTLAW CAT-BACK EXHAUST SYSTEM](https://www.holley.com/products/exhaust/exhaust_systems/flowmaster/outlaw_series/parts/817936)
+
+[Sound sample](https://www.youtube.com/watch?time_continue=1&v=a0msv7FzOao&feature=emb_title)
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/exhaust/specs.jpg "a")

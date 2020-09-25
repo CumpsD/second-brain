@@ -16,6 +16,8 @@ The RAM uses 98 EU, so we can select a 93 US tune.
 
 ## Result
 
+### Installing the security bypass
+
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/1.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/2.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/3.jpg "a")
@@ -23,18 +25,27 @@ The RAM uses 98 EU, so we can select a 93 US tune.
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/5.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/6.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/7.jpg "a")
+
+### Installing the console
+
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/8.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/9.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/10.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/11.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/12.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/13.jpg "a")
+
+### Installing the PCM
+
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/14.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/15.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/16.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/17.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/22.jpg "a")
+
+### Applying tune
+
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/18.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/19.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/20.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/21.jpg "a")
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/tune/22.jpg "a")

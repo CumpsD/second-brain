@@ -47,6 +47,8 @@ Close everything and congratulations!
 
 ## Result
 
+### Finding a fuse
+
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/dashcam/1.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/dashcam/2.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/dashcam/3.jpg "a")
@@ -55,7 +57,13 @@ Close everything and congratulations!
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/dashcam/6.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/dashcam/7.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/dashcam/8.jpg "a")
+
+### Hardwiring the battery
+
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/dashcam/9.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/dashcam/10.jpg "a")
+
+### Checking on the app
+
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/dashcam/11.png "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/dashcam/12.png "a")

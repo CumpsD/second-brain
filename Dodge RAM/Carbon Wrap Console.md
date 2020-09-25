@@ -46,8 +46,13 @@ Wrap to use: [3M™ Wrap Film Series 1080 - Matrix Black (Replaced by 3M™ 2080
 
 ## Result
 
+### Stock Look
+
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1798.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1810.jpg "a")
+
+### Applying the wrap to the top
+
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1811.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1812.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1813.jpg "a")
@@ -55,11 +60,20 @@ Wrap to use: [3M™ Wrap Film Series 1080 - Matrix Black (Replaced by 3M™ 2080
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1815.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1816.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1817.jpg "a")
+
+### Taking off the bottom panels
+
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1842.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1843.jpg "a")
+
+### Applying the wrap to the botom panels
+
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1844.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1845.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1846.jpg "a")
+
+### Finished result
+
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1847.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1848.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/carbon-console/img_1849.jpg "a")
