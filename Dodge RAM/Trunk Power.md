@@ -12,3 +12,8 @@ I ordered some marine components to be sure of the waterproof aspect of it.
 
 * [Blue Sea Systems Weatherproof 12V DC Socket](https://www.12voltplanet.co.uk/blue-sea-systems-weatherproof-12v-dc-socket.html)
 * [Blue Sea Systems Weatherproof 12V DC Plug](https://www.12voltplanet.co.uk/blue-sea-systems-weatherproof-12v-dc-plug.html)
+
+## Result
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/12v/12v-1.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/12v/12v-2.jpg "a")
