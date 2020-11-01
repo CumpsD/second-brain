@@ -5,6 +5,7 @@
 | Tent | |
 | Sleeping Bags | [Nemo Disco 15 Long](https://www.nemoequipment.com/product/disco-mens/) |
 | Sleeping Pad | |
+| Pillow | [Klymit Drift Camping Pillow, Reversible Cover for Travel and Sleep, Shredded Memory Foam Comfort with Durable Shell](https://www.amazon.com/dp/B082116CML) |
 | Socks | [Darn Tough Hiker Micro Crew Cushion Sock](https://www.amazon.com/dp/B074ZGP37B)<br>[Farm to Feet Cascade Locks 3/4 Technical Hike Merino Wool Crew Socks](https://www.amazon.com/dp/B07ND16VMV) |
 | Underwear | |
 | Shorts | |
