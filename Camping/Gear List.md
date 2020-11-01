@@ -7,12 +7,13 @@
 | Sleeping Pad | |
 | Pillow | [Klymit Drift Camping Pillow, Reversible Cover for Travel and Sleep, Shredded Memory Foam Comfort with Durable Shell](https://www.amazon.com/dp/B082116CML) |
 | Socks | [Darn Tough Hiker Micro Crew Cushion Sock](https://www.amazon.com/dp/B074ZGP37B)<br>[Farm to Feet Cascade Locks 3/4 Technical Hike Merino Wool Crew Socks](https://www.amazon.com/dp/B07ND16VMV) |
-| Underwear | |
-| Shorts | |
-| Shirt | |
-| Belt | |
+| Underwear | [Smartwool Merino 150 Pattern Boxer Brief - Men's](https://www.amazon.com/dp/B01HMZMG1Q) |
+| Shorts | [Men's Baggies™ Shorts - 5"](https://www.patagonia.com/product/mens-baggies-shorts-5-inch/57021.html) |
+| Shirt | [Black Diamond Rhythm T-Shirt - Men's](https://www.rei.com/product/149229/black-diamond-rhythm-t-shirt-mens) |
+| Belt | [Mountain Khakis Men's Webbing Belt](https://www.amazon.com/dp/B002MX9LEY) |
 | Boots | |
 | Shoes | |
+| Watch | [Casio Pro Trek Touchscreen Outdoor Smart Watch Resin Strap](https://www.amazon.com/Casio-Stainless-Steel-Quartz-Watch/dp/B07H4J34S1) |
 | Fire Starter | [Light My Fire FireSteel Army Magnesium Firestarter BIO](https://www.amazon.com/dp/B07NQF38K4)<br>[Light My Fire Swedish FireSteel 2.0 Scout 3,000 Strike Fire Starter with Emergency Whistle](https://www.amazon.com/dp/B004410N4E)<br>[Jumbo Cotton balls - 210 ct (3 packs of 70) - Premium Quality, 100% Biodegradable, Super Soft & Absorbent](https://www.amazon.com/Jumbo-Cotton-balls-Biodegradable-Absorbent/dp/B07NDN212P/) |
 | Fire Pockets | [POPULAR MECHANICS FIRE STARTER POUCHES](https://www.instafire.com/collections/popular-mechanics-products/products/22-packs-popular-mechanics-fire-starter) |
 | Lighter | [UST TekFire LED Fuel-Free Lighter with Convenient, Lightweight, Rugged Construction and Emergency Paracord Lanyard for Camping, Backpacking, Hiking and Outdoor Survival](https://www.amazon.com/dp/B07C9JS1RQ) |
@@ -30,3 +31,4 @@
 | Trash Can | |
 | Carry Box | [Plano Storage Trunk - 108 Quart w/ Wheels (1919) - Black](https://www.amazon.com/dp/B00HVCPT4W) |
 | Power Source | [GOAL ZERO YETI 200X PORTABLE POWER STATION](https://www.goalzero.com/shop/portable-power/goal-zero-yeti-200x/) |
+| Solar Panel | |
