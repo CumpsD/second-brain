@@ -18,7 +18,7 @@
 | Pots & Pans | |
 | Mug | |
 | Utensils | |
-| First Aid Kit | |
+| First Aid Kit | [Bergfreunde.eu](https://www.bergfreunde.eu/first-aid/) |
 | Headlamp | [Black Diamond Icon Headlamp](https://www.amazon.com/dp/B01LE9Z8PW)<br>[PETZL - Swift RL Headlamp 900 lumens, Reactive Lighting Technology](https://www.amazon.com/dp/B07SB1Y46M) |
 | Blanket | [MATADOR POCKET BLANKET™ 2.0](https://matadorup.com/products/pocket-blanket-2-0?variant=34861130950) |
 | Chair | |
