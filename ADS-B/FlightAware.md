@@ -3,8 +3,9 @@
 ## Commands
 
 ```bash
-sudo systemctl status dump978-fa
-sudo systemctl status piaware
+sudo systemctl status piaware  
+sudo systemctl status dump1090-fa  
+sudo systemctl status dump978-fa 
 sudo piaware-config
 ```
 
