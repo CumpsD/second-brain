@@ -8,7 +8,7 @@
 
 ## Extra Info
 
-* Drone Flight Controllers usually want Micro USB
+* Drone Flight Controllers want Micro USB or USB-C
 * DJI Air Unit wants USB-C
 * Taranis still uses Mini USB
 * An iPhone/iPad has Lightning
