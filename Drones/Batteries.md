@@ -14,7 +14,7 @@ Store LiPo's at 3.75V-3.80V
 ## TinyHawk II
 
 * [Emax - 1S - 450mAh - 80C - 3.8/4.35V HV - 12.6g - JST-PHR PH2.0](https://emaxmodel.com/products/emax-tinyhawk-indoor-fpv-racing-drone-spare-part-1s-80c-160c-hv-450mah-lipo-battery) ✔️
-* [Emax - 2S1P - 300mAh - 50C - 7.6/8.7V HV - 15.3g - PH2.0](https://emaxmodel.com/collections/tinyhawk-ii-series-parts/products/emax-tinyhawks-spare-part-2s-7-4v-300mah-35c-lipo-battery-for-rc-drone-fpv-racing) ✔️ (For some reason, the page shows the old batteries, but I got sent the new version)
+* [Emax - 2S1P - 300mAh - 50C - 7.6/8.7V HV - 15.3g - PH2.0](https://emaxmodel.com/collections/tinyhawk-ii-series-parts/products/emax-tinyhawks-spare-part-2s-7-4v-300mah-35c-lipo-battery-for-rc-drone-fpv-racing) ✔️ (The page shows the old batteries, but I got sent the new version)
 
 ## Titan H3
 
