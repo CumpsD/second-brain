@@ -1,8 +1,8 @@
 # Batteries
 
-## Storage
+> ⚠️ ⚠️ Store LiPo's at **3.75V-3.80V** ⚠️ ⚠️
 
-> ⚠️ Store LiPo's at **3.75V-3.80V**!
+## Storage
 
 * [Steel ammo crate for storing LiPo's](https://droneshop.nl/stalen-munitiekistje-voor-lipo) ✔️
 * [LiPo Safe Bag - Large - 23x30cm (Black)](https://droneshop.nl/lipo-safe-bag-large-23x30cm-zwart) ✔️
