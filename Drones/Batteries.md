@@ -1,6 +1,6 @@
 # Batteries
 
-> ⚠️ ⚠️ Store LiPo's at **3.75V-3.80V** ⚠️ ⚠️
+⚠️ ⚠️ Store LiPo's at **3.75V-3.80V** ⚠️ ⚠️
 
 ## Storage
 
