@@ -8,6 +8,11 @@
 * [iFlight BumbleBee HD V2 CineWhoop 3" FPV Racing Drone (w/ DJI Digital HD FPV System)](https://shop.iflight-rc.com/index.php?route=product/product&path=25_31_105&product_id=1256) ✔️
 * [iFlight Chimera7 7" 6S LR HD Freestyle Quadcopter (w/ DJI Digital HD FPV System)](https://shop.iflight-rc.com/index.php?route=product/product&path=25_325_328&product_id=1337) ✔️
 
+## Useful
+
+* [Ethix Prop Tool](https://droneshop.nl/ethix-propeller-tool) ✔️
+* [Ethix Prop Organizer](https://droneshop.nl/ethix-propeller-organizer) ✔️
+
 ## Resources
 
 * [NanoHawk](https://emaxmodel.freshdesk.com/support/solutions/folders/63000233945)
