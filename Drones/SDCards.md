@@ -10,7 +10,9 @@
 
 ## Goggles
 
+## Storage
 
+* [Ethix SD Card Holder for 10 cards](https://droneshop.nl/ethix-sd-card-holder) ✔️
 
 <!--
 https://www.amazon.de/gp/product/B00U0XG63W Lexar Professional 32 GB Class 10 High Performance Micro SDHC UHS-II Memory Card -->
