@@ -16,8 +16,10 @@
 
 ### Firmware
 
+* [OpenTX](http://www.open-tx.org/downloads)
 * [Updating OpenTX Firmware to Taranis, T16, TX16S](https://oscarliang.com/flash-opentx-firmware-taranis/)
 * [How to Update Taranis Bootloader](https://oscarliang.com/update-taranis-bootloader/)
+* [Amber Soundpack](http://hmvc.eu/Amber22.rar)
 
 ### Configuration
 
