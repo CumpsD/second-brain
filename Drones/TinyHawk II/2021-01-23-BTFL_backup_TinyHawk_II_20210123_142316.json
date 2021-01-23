@@ -1,6 +1,6 @@
 {
 	"generatedBy": "10.7.0",
-	"apiVersion": "1.42.0",
+	"apiVersion": "1.43.0",
 	"profiles": [
 		{
 			"PID": {
@@ -57,7 +57,8 @@
 				"pitch_rate_limit": 1998,
 				"yaw_rate_limit": 1998,
 				"throttleLimitType": 0,
-				"throttleLimitPercent": 100
+				"throttleLimitPercent": 100,
+				"rates_type": 0
 			},
 			"AccTrim": [
 				0,
@@ -656,7 +657,8 @@
 				"pitch_rate_limit": 1998,
 				"yaw_rate_limit": 1998,
 				"throttleLimitType": 0,
-				"throttleLimitPercent": 100
+				"throttleLimitPercent": 100,
+				"rates_type": 0
 			},
 			"AccTrim": [
 				0,
@@ -1255,7 +1257,8 @@
 				"pitch_rate_limit": 1998,
 				"yaw_rate_limit": 1998,
 				"throttleLimitType": 0,
-				"throttleLimitPercent": 100
+				"throttleLimitPercent": 100,
+				"rates_type": 0
 			},
 			"AccTrim": [
 				0,
@@ -2281,7 +2284,7 @@
 		"gyroOffsetYaw": 0,
 		"gyroCheckOverflow": 2,
 		"debugMode": 0,
-		"debugModeCount": 60
+		"debugModeCount": 63
 	},
 	"LED_MODE_COLORS": [
 		{
@@ -2780,8 +2783,7 @@
 				}
 			],
 			"_featureMask": 843317264,
-			"_analyticsChanges": {},
-			"_featureChanges": {}
+			"_analyticsChanges": {}
 		}
 	},
 	"MOTOR_CONFIG": {
