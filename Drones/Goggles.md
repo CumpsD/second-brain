@@ -24,3 +24,4 @@
 * [Enable FCC mode on DJI FPV System (700mW 8 Channels)](https://oscarliang.com/dji-fpv-system-fcc-700mw/)
 * [Enable 50Mbps Bitrate in DJI FPV Goggles](https://oscarliang.com/50mbps-bitrate-dji-fpv/)
 * [Enable 1200mW Output On DJI FPV System](https://oscarliang.com/dji-fpv-system-1200mw-output/)
+* [DJI FPV System FAQ – Common Issues, Questions and Tips](https://oscarliang.com/dji-fpv-system-faq/)
