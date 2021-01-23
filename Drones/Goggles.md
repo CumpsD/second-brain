@@ -10,6 +10,7 @@
 * [BDI Digital Adapter - Analog Adapter](https://www.getfpv.com/bdi-digital-adapter-analog-adapter-for-dji-hd-fpv-goggles.html) ✔️
 * [TBS Fusion](https://www.team-blacksheep.com/products/prod:tbs_fusion) ✔️
 * [TBS Fusion Antenna Pack](https://www.team-blacksheep.com/products/prod:fusion_ant_pack) ✔️
+* [Ethix Goggle Strap V3](https://www.team-blacksheep.com/products/prod:ethix_gs_3_wh)
 
 ## Software
 
