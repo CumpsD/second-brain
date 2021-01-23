@@ -16,3 +16,11 @@
 ## Drones
 
 * [ ] Is the Betaflight CLI backed up?
+
+## Goggles
+
+* [ ] Is the DJI FPV Firmware up to date?
+
+## Air Unit
+
+* [ ] Is the DJI FPV Firmware up to date?
