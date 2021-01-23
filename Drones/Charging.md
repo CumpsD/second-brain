@@ -9,3 +9,9 @@
 * [ISDT PC-4860 Charging Board](https://droneshop.nl/isdt-pc-4860-charging-board) ✔️
 * [EMAX 4-port 1-2S Lipo Battery Charger USB 4.35V HV](https://emaxmodel.com/products/emax-charger-1-2s-lipo-battery-charger-usb-port-for-rc-drone-fpv-racing-for-tinyhawk-series-hv-4-35v) ✔️ (LED blinks when idle, stays solid when charging, and turns off when done)
 * [FancyWhoop 1S charger](https://www.amazon.de/gp/product/B073QNF8XX) + [Power Supply DC 12V, 12.5A](https://www.amazon.de/gp/product/B07QV8W4DQ) ✔️
+
+## Extra Info
+
+* [Best Lipo Chargers 2021](https://fpvfrenzy.com/best-lipo-charger/)
+* [All about lipo balance connectors](http://www.tjinguytech.com/charging-how-tos/balance-connectors)
+* [Lipo Voltage Chart: Show the Relationship of Voltage and Capacity](https://blog.ampow.com/lipo-voltage-chart/)
