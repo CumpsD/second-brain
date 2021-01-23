@@ -255,6 +255,7 @@ feature -ESC_SENSOR
 feature -ANTI_GRAVITY
 feature -DYNAMIC_FILTER
 feature MOTOR_STOP
+feature TELEMETRY
 feature OSD
 feature AIRMODE
 feature RX_SPI
@@ -262,33 +263,33 @@ feature ANTI_GRAVITY
 feature DYNAMIC_FILTER
 
 # beeper
-beeper -GYRO_CALIBRATED
-beeper -RX_LOST
-beeper -RX_LOST_LANDING
-beeper -DISARMING
-beeper -ARMING
-beeper -ARMING_GPS_FIX
+beeper GYRO_CALIBRATED
+beeper RX_LOST
+beeper RX_LOST_LANDING
+beeper DISARMING
+beeper ARMING
+beeper ARMING_GPS_FIX
 beeper ARMING_GPS_NO_FIX
-beeper -BAT_CRIT_LOW
-beeper -BAT_LOW
-beeper -GPS_STATUS
-beeper -RX_SET
-beeper -ACC_CALIBRATION
-beeper -ACC_CALIBRATION_FAIL
-beeper -READY_BEEP
+beeper BAT_CRIT_LOW
+beeper BAT_LOW
+beeper GPS_STATUS
+beeper RX_SET
+beeper ACC_CALIBRATION
+beeper ACC_CALIBRATION_FAIL
+beeper READY_BEEP
 beeper MULTI_BEEPS
-beeper -DISARM_REPEAT
-beeper -ARMED
-beeper -SYSTEM_INIT
+beeper DISARM_REPEAT
+beeper ARMED
+beeper SYSTEM_INIT
 beeper -ON_USB
-beeper -BLACKBOX_ERASE
-beeper -CRASH_FLIP
-beeper -CAM_CONNECTION_OPEN
-beeper -CAM_CONNECTION_CLOSE
-beeper -RC_SMOOTHING_INIT_FAIL
+beeper BLACKBOX_ERASE
+beeper CRASH_FLIP
+beeper CAM_CONNECTION_OPEN
+beeper CAM_CONNECTION_CLOSE
+beeper RC_SMOOTHING_INIT_FAIL
 
 # beacon
-beacon -RX_LOST
+beacon RX_LOST
 beacon RX_SET
 
 # map
@@ -931,8 +932,8 @@ set esc_sensor_halfduplex = OFF
 set esc_sensor_current_offset = 0
 set frsky_spi_autobind = OFF
 set frsky_spi_tx_id = 97,216
-set frsky_spi_offset = -36
-set frsky_spi_bind_hop_data = 5,53,103,153,203,18,68,118,168,218,33,83,135,183,233,48,98,148,198,13,63,113,163,213,28,78,128,178,228,43,93,143,193,8,58,108,158,208,21,73,123,173,223,38,88,138,188,255,255,255
+set frsky_spi_offset = -46
+set frsky_spi_bind_hop_data = 5,53,103,153,203,18,68,118,168,218,33,83,135,183,233,48,98,148,198,13,63,113,163,213,28,78,128,178,228,43,93,143,193,8,58,108,158,208,23,73,123,173,223,38,88,138,188,255,255,255
 set frsky_x_rx_num = 1
 set frsky_spi_a1_source = VBAT
 set cc2500_spi_chip_detect = OFF

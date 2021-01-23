@@ -2782,7 +2782,7 @@
 					"name": "DYNAMIC_FILTER"
 				}
 			],
-			"_featureMask": 843317248,
+			"_featureMask": 843318272,
 			"_analyticsChanges": {}
 		}
 	},
@@ -2938,7 +2938,7 @@
 					"visible": true
 				}
 			],
-			"_beeperMask": 514
+			"_beeperMask": 0
 		}
 	},
 	"MODE_RANGES_EXTRA": [

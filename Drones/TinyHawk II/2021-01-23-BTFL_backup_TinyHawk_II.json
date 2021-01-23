@@ -2782,7 +2782,7 @@
 					"name": "DYNAMIC_FILTER"
 				}
 			],
-			"_featureMask": 843317264,
+			"_featureMask": 843318288,
 			"_analyticsChanges": {}
 		}
 	},
@@ -2922,7 +2922,7 @@
 					"visible": true
 				}
 			],
-			"_beeperMask": 8380415
+			"_beeperMask": 131072
 		},
 		"dshotBeaconTone": 1,
 		"dshotBeaconConditions": {
@@ -2938,7 +2938,7 @@
 					"visible": true
 				}
 			],
-			"_beeperMask": 2
+			"_beeperMask": 0
 		}
 	},
 	"MODE_RANGES_EXTRA": [
