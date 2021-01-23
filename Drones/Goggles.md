@@ -25,3 +25,4 @@
 * [Enable 50Mbps Bitrate in DJI FPV Goggles](https://oscarliang.com/50mbps-bitrate-dji-fpv/)
 * [Enable 1200mW Output On DJI FPV System](https://oscarliang.com/dji-fpv-system-1200mw-output/)
 * [DJI FPV System FAQ – Common Issues, Questions and Tips](https://oscarliang.com/dji-fpv-system-faq/)
+* [DJI FPV System | How to Link the Components](https://www.youtube.com/watch?v=nptTbbWKMZs)
