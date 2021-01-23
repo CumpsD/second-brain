@@ -27,6 +27,7 @@
 * [Fixing Channel Map in Betaflight and OpenTX](https://oscarliang.com/channel-map/)
 * [How to Setup Switches in OpenTX Mixer/Inputs](https://oscarliang.com/setup-switch-opentx/) (ARM MODE BEEP FREE)
 * [FrSky Taranis X9D Plus SE 2019 Switch Setup and Configuration in Betaflight](https://upinthesky.github.io/2020/01/15/frsky-taranis-x9d-plus-se-2019-switch-setup-and-configuration-in-betaflight.html)
+* [How to Adjust Transmitter Channel End Point and Mid Point](https://oscarliang.com/adjust-tx-channel-mid-end-point/)
 
 ### Timers
 

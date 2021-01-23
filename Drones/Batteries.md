@@ -18,8 +18,8 @@
 
 ## Titan H3
 
-<!-- 4S 650mAh/850mAh Lipo
-* [4S1P - TATTU 14.8 V 850 mAh 95C LiPo Battery XT30](https://www.amazon.de/dp/B07GNJ9C8V) -->
+* [Tattu - 4S1P - 850mAh - 95C - 14.8/16.8V - 104g - XT30](https://www.amazon.de/dp/B07GNJ9C8V) ✔️
+* [Tattu - 4S1P - 450mAh - 75C - 14.8/16.8V - 55g - XT30](https://www.amazon.de/dp/B06ZY2GBFX) ✔️
 
 ## BumbleBee V2
 
