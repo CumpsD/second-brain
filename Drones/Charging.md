@@ -1,5 +1,7 @@
 # Charging
 
+⚠️ ⚠️ Charge at 1C -> **mAh / 1000** ⚠️ ⚠️
+
 ## Hardware
 
 * [ISDT T8](https://www.amazon.de/-/nl/gp/product/B07QHTW9TM) ✔️
