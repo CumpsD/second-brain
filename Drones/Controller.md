@@ -20,6 +20,7 @@
 * [Updating OpenTX Firmware to Taranis, T16, TX16S](https://oscarliang.com/flash-opentx-firmware-taranis/)
 * [How to Update Taranis Bootloader](https://oscarliang.com/update-taranis-bootloader/)
 * [Amber Soundpack](http://hmvc.eu/Amber22.rar)
+* [Switching Internal Module between EU-LBT Mode and FCC Firmware](https://fjp.at/projects/fpv/taranis#switching-internal-module-between-eu-lbt-mode-and-fcc-firmware)
 
 ### Configuration
 
