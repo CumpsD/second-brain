@@ -2783,7 +2783,8 @@
 				}
 			],
 			"_featureMask": 843318288,
-			"_analyticsChanges": {}
+			"_analyticsChanges": {},
+			"_featureChanges": {}
 		}
 	},
 	"MOTOR_CONFIG": {

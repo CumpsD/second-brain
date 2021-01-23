@@ -1,6 +1,3 @@
-dump all
-###WARNING: NO CUSTOM DEFAULTS FOUND###
-
 # version
 # Betaflight / STM32F411 (S411) 4.2.0 Jun 14 2020 / 03:04:43 (8f2d21460) MSP API: 1.43
 ###ERROR: dump: NO CONFIG FOUND###
@@ -10,7 +7,7 @@ batch start
 board_name MATEKF411RX
 manufacturer_id MTKS
 mcu_id 004b003c3439511336383737
-signature 
+signature
 
 # name: NanoHawk
 
@@ -234,7 +231,6 @@ smix reset
 feature -RX_PPM
 feature -INFLIGHT_ACC_CAL
 feature -RX_SERIAL
-feature -MOTOR_STOP
 feature -SERVO_TILT
 feature -SOFTSERIAL
 feature -GPS
@@ -246,14 +242,10 @@ feature -RX_MSP
 feature -RSSI_ADC
 feature -LED_STRIP
 feature -DISPLAY
-feature -OSD
 feature -CHANNEL_FORWARDING
 feature -TRANSPONDER
-feature -AIRMODE
-feature -RX_SPI
 feature -ESC_SENSOR
-feature -ANTI_GRAVITY
-feature -DYNAMIC_FILTER
+feature MOTOR_STOP
 feature TELEMETRY
 feature OSD
 feature AIRMODE
@@ -1439,4 +1431,4 @@ rateprofile 0
 
 # save configuration
 save
-# 
+#

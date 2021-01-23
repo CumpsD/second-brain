@@ -2782,8 +2782,9 @@
 					"name": "DYNAMIC_FILTER"
 				}
 			],
-			"_featureMask": 843318272,
-			"_analyticsChanges": {}
+			"_featureMask": 843318288,
+			"_analyticsChanges": {},
+			"_featureChanges": {}
 		}
 	},
 	"MOTOR_CONFIG": {
