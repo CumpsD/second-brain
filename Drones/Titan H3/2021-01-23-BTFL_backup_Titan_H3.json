@@ -61,8 +61,8 @@
 				"rates_type": 0
 			},
 			"AccTrim": [
-				0,
-				0
+				6,
+				-8
 			],
 			"ServoConfig": [
 				{
@@ -145,31 +145,31 @@
 					"auxChannelIndex": 1,
 					"range": {
 						"start": 900,
+						"end": 1275
+					}
+				},
+				{
+					"id": 2,
+					"auxChannelIndex": 1,
+					"range": {
+						"start": 1300,
+						"end": 1700
+					}
+				},
+				{
+					"id": 27,
+					"auxChannelIndex": 3,
+					"range": {
+						"start": 1800,
 						"end": 2100
 					}
 				},
 				{
-					"id": 0,
-					"auxChannelIndex": 0,
+					"id": 13,
+					"auxChannelIndex": 2,
 					"range": {
-						"start": 900,
-						"end": 900
-					}
-				},
-				{
-					"id": 0,
-					"auxChannelIndex": 0,
-					"range": {
-						"start": 900,
-						"end": 900
-					}
-				},
-				{
-					"id": 0,
-					"auxChannelIndex": 0,
-					"range": {
-						"start": 900,
-						"end": 900
+						"start": 1800,
+						"end": 2100
 					}
 				},
 				{
@@ -661,8 +661,8 @@
 				"rates_type": 0
 			},
 			"AccTrim": [
-				0,
-				0
+				6,
+				-8
 			],
 			"ServoConfig": [
 				{
@@ -745,31 +745,31 @@
 					"auxChannelIndex": 1,
 					"range": {
 						"start": 900,
+						"end": 1275
+					}
+				},
+				{
+					"id": 2,
+					"auxChannelIndex": 1,
+					"range": {
+						"start": 1300,
+						"end": 1700
+					}
+				},
+				{
+					"id": 27,
+					"auxChannelIndex": 3,
+					"range": {
+						"start": 1800,
 						"end": 2100
 					}
 				},
 				{
-					"id": 0,
-					"auxChannelIndex": 0,
+					"id": 13,
+					"auxChannelIndex": 2,
 					"range": {
-						"start": 900,
-						"end": 900
-					}
-				},
-				{
-					"id": 0,
-					"auxChannelIndex": 0,
-					"range": {
-						"start": 900,
-						"end": 900
-					}
-				},
-				{
-					"id": 0,
-					"auxChannelIndex": 0,
-					"range": {
-						"start": 900,
-						"end": 900
+						"start": 1800,
+						"end": 2100
 					}
 				},
 				{
@@ -1261,8 +1261,8 @@
 				"rates_type": 0
 			},
 			"AccTrim": [
-				0,
-				0
+				6,
+				-8
 			],
 			"ServoConfig": [
 				{
@@ -1345,31 +1345,31 @@
 					"auxChannelIndex": 1,
 					"range": {
 						"start": 900,
+						"end": 1275
+					}
+				},
+				{
+					"id": 2,
+					"auxChannelIndex": 1,
+					"range": {
+						"start": 1300,
+						"end": 1700
+					}
+				},
+				{
+					"id": 27,
+					"auxChannelIndex": 3,
+					"range": {
+						"start": 1800,
 						"end": 2100
 					}
 				},
 				{
-					"id": 0,
-					"auxChannelIndex": 0,
+					"id": 13,
+					"auxChannelIndex": 2,
 					"range": {
-						"start": 900,
-						"end": 900
-					}
-				},
-				{
-					"id": 0,
-					"auxChannelIndex": 0,
-					"range": {
-						"start": 900,
-						"end": 900
-					}
-				},
-				{
-					"id": 0,
-					"auxChannelIndex": 0,
-					"range": {
-						"start": 900,
-						"end": 900
+						"start": 1800,
+						"end": 2100
 					}
 				},
 				{
@@ -1804,10 +1804,10 @@
 		}
 	],
 	"RCMAP": [
-		0,
 		1,
-		3,
 		2,
+		3,
+		0,
 		4,
 		5,
 		6,
@@ -2808,7 +2808,7 @@
 					"name": "DYNAMIC_FILTER"
 				}
 			],
-			"_featureMask": 809763848,
+			"_featureMask": 809763864,
 			"_analyticsChanges": {}
 		}
 	},
@@ -2979,17 +2979,17 @@
 			"linkedTo": 0
 		},
 		{
-			"id": 0,
+			"id": 2,
 			"modeLogic": 0,
 			"linkedTo": 0
 		},
 		{
-			"id": 0,
+			"id": 27,
 			"modeLogic": 0,
 			"linkedTo": 0
 		},
 		{
-			"id": 0,
+			"id": 13,
 			"modeLogic": 0,
 			"linkedTo": 0
 		},

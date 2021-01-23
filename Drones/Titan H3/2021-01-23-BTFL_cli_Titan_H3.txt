@@ -1,6 +1,7 @@
 # version
-# Betaflight / STM32F7X2 (S7X2) 4.2.0 Jun 14 2020 / 03:05:26 (8f2d21460) MSP API: 1.43
-###ERROR: dump: NO CONFIG FOUND###
+# Betaflight / STM32F7X2 (S7X2) 4.2.6 Jan  5 2021 / 19:08:42 (a4b6db1e7) MSP API: 1.43
+# config: manufacturer_id: IFRC, board_name: IFLIGHT_F722_TWING, version: bc19b7dc, date: 2020-04-01T04:37:12Z
+
 # start the command batch
 batch start
 
@@ -277,6 +278,7 @@ feature -ESC_SENSOR
 feature -ANTI_GRAVITY
 feature -DYNAMIC_FILTER
 feature RX_SERIAL
+feature MOTOR_STOP
 feature TELEMETRY
 feature OSD
 feature AIRMODE
@@ -314,7 +316,7 @@ beacon RX_LOST
 beacon RX_SET
 
 # map
-map AETR1234
+map TAER1234
 
 # serial
 serial 20 1 115200 57600 0 115200
@@ -428,10 +430,10 @@ mode_color 7 0 3
 
 # aux
 aux 0 0 0 1700 2100 0 0
-aux 1 1 1 900 2100 0 0
-aux 2 0 0 900 900 0 0
-aux 3 0 0 900 900 0 0
-aux 4 0 0 900 900 0 0
+aux 1 1 1 900 1275 0 0
+aux 2 2 1 1300 1700 0 0
+aux 3 27 3 1800 2100 0 0
+aux 4 13 2 1800 2100 0 0
 aux 5 0 0 900 900 0 0
 aux 6 0 0 900 900 0 0
 aux 7 0 0 900 900 0 0
@@ -481,10 +483,10 @@ adjrange 28 0 0 900 900 0 0 0 0
 adjrange 29 0 0 900 900 0 0 0 0
 
 # rxrange
-rxrange 0 1000 2000
-rxrange 1 1000 2000
-rxrange 2 1000 2000
-rxrange 3 1000 2000
+rxrange 0 1000 1999
+rxrange 1 1000 1999
+rxrange 2 1000 1999
+rxrange 3 1000 1999
 
 # vtxtable
 vtxtable bands 6
@@ -557,8 +559,8 @@ set dyn_lpf_gyro_max_hz = 650
 set gyro_filter_debug_axis = ROLL
 set acc_hardware = AUTO
 set acc_lpf_hz = 10
-set acc_trim_pitch = 0
-set acc_trim_roll = 0
+set acc_trim_pitch = 6
+set acc_trim_roll = -8
 set acc_calibration = 33,-56,-17,1
 set align_mag = DEFAULT
 set mag_align_roll = 0
@@ -809,6 +811,7 @@ set osd_warn_no_gps_rescue = ON
 set osd_warn_gps_rescue_disabled = ON
 set osd_warn_rssi = OFF
 set osd_warn_link_quality = OFF
+set osd_warn_rssi_dbm = OFF
 set osd_warn_over_cap = OFF
 set osd_rssi_alarm = 20
 set osd_link_quality_alarm = 80
