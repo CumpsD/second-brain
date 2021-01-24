@@ -11,7 +11,8 @@ Using 2x [Lumenier AXII 2 5.8GHz Antenna - SKITZO Hydro Dip SE (LHCP)](https://w
 Using 1x [3D Printed TPU Camera Lens Protective Mount](https://www.banggood.com/3D-Printed-TPU-Camera-Lens-Protective-Mount-For-DJI-FPV-Air-Unit-Compatible-Stinger-TransTEC-Laser-HD-Mark-HD-RC-Drone-Frame-p-1657849.html) ✔️
 * [iFlight Chimera7 7" 6S LR HD Freestyle Quadcopter (w/ DJI Digital HD FPV System)](https://shop.iflight-rc.com/index.php?route=product/product&path=25_325_328&product_id=1337) ✔️ ([XING X2806.5 1300KV](https://shop.iflight-rc.com/index.php?route=product/product&product_id=1001))\
 Using 2x [Lumenier Double AXII 2 Long Range 5.8GHz Antenna (LHCP)](https://www.getfpv.com/lumenier-double-axii-2-long-range-5-8ghz-antenna-lhcp.html) ✔️ \
-Using 1x [3D Printed TPU Camera Lens Protective Mount](https://www.banggood.com/3D-Printed-TPU-Camera-Lens-Protective-Mount-For-DJI-FPV-Air-Unit-Compatible-Stinger-TransTEC-Laser-HD-Mark-HD-RC-Drone-Frame-p-1657849.html) ✔️
+Using 1x [3D Printed TPU Camera Lens Protective Mount](https://www.banggood.com/3D-Printed-TPU-Camera-Lens-Protective-Mount-For-DJI-FPV-Air-Unit-Compatible-Stinger-TransTEC-Laser-HD-Mark-HD-RC-Drone-Frame-p-1657849.html) ✔️\
+Using [DAL Fold F7 Props](https://www.amazon.com/Dalprop-Folding-Propeller-Freestyle-Quadcopter/dp/B08M5R1PQT) ✔️
 
 ## Useful
 
