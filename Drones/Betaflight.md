@@ -19,6 +19,8 @@
 ## Useful Info
 
 * [Betaflight 4.2 YouTube Series](https://www.youtube.com/playlist?list=PLwoDb7WF6c8k_Bpx8QsRHX1mcFjN5lGuw)
+  * #1 [Five ways Betaflight 4.2 will surprise you!](https://www.youtube.com/watch?v=nALPi8cTXGY&list=PLwoDb7WF6c8k_Bpx8QsRHX1mcFjN5lGuw&index=1) \
+    Try to use Actual Rates
 
 ## Binding via CLI
 
