@@ -1,5 +1,10 @@
 # Betaflight
 
+## GitHub
+
+* https://github.com/betaflight/betaflight
+* https://github.com/betaflight/betaflight-configurator
+
 ## Useful CLI Commands
 
 * `version`
