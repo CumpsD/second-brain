@@ -16,6 +16,10 @@
 * FRSKY_D = D8
 * FRSKY_X = D16
 
+## Useful Info
+
+* [Betaflight 4.2 YouTube Series](https://www.youtube.com/playlist?list=PLwoDb7WF6c8k_Bpx8QsRHX1mcFjN5lGuw)
+
 ## Binding via CLI
 
 > Use this if forced to bind in D16 (i.e. newer ACCESS-based FrSky radios, but with ACCST16 firmware update). \
