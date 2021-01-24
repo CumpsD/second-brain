@@ -18,11 +18,21 @@
 
 ## Binding via CLI
 
-> Use this if forced to bind in D16 (i.e. newer ACCESS-based FrSky radios, but with ACCST16 firmware update). First, change the receiver protocol in the Configurations tab of Betaflight to SPI-based receiver, Frsky_X protocol (which is for D16; the default is Frsky_D for D8). Next, try using CLI commands to bind. Enter into the CLI, "bind_rx" (for 4.1.x firmware) or "bind_rx_spi" (for 4.0.x firmware) to get into binding mode. Activate the bind function in the transmitter in D16 protocol. The drone's LED's may not change back to blinking, but continue. Then enter into the CLI, "set frsky_x_rx_num". If the rx/receiver number changed to the number that matches the receiver number shown on your transmitter, then the bind was successful. Finally, enter into the CLI, "save". Upon the next reboot the SPI receiver should connect with your transmitter.
+> Use this if forced to bind in D16 (i.e. newer ACCESS-based FrSky radios, but with ACCST16 firmware update). \
+> \
+> First, change the receiver protocol in the Configurations tab of Betaflight to SPI-based receiver, Frsky_X protocol (which is for D16; the default is Frsky_D for D8). \
+> \
+> Next, try using CLI commands to bind. Enter into the CLI, "`bind_rx`" (for 4.1.x firmware) or "`bind_rx_spi`" (for 4.0.x firmware) to get into binding mode. \
+> \
+> Activate the bind function in the transmitter in D16 protocol. The drone's LED's may not change back to blinking, but continue. \
+> \
+> Then enter into the CLI, "`set frsky_x_rx_num`". If the rx/receiver number changed to the number that matches the receiver number shown on your transmitter, then the bind was successful. \
+> \
+> Finally, enter into the CLI, "`save`". Upon the next reboot the SPI receiver should connect with your transmitter.
 
 ## Betaflight Versions
 
-[Emax - Betaflight Configurator - Use Correct Version](https://emaxmodel.freshdesk.com/support/solutions/articles/63000082816-betaflight-configurator-use-correct-version):
+From [Emax - Betaflight Configurator - Use Correct Version](https://emaxmodel.freshdesk.com/support/solutions/articles/63000082816-betaflight-configurator-use-correct-version):
 
 > Each version of the Betaflight Configurator is configured to work with a certain subset of firmware for the flight controller. The Configurator's user interface (UI), options/settings/functions/features available via the UI, ranges, default settings/tuning, and the terminology/nomenclature (even for a feature/function that used to be the exact same function) changes between major releases/versions. There is no 100% backwards compatibility. As such, you MUST use the correct Configurator version for the firmware version on your drone. This simply a necessary evil when enjoying Betaflight's open source application and firmware.
 >
@@ -34,6 +44,9 @@
 >
 > Use Betaflight Configurator 10.6.0 for firmware versions 4.1.x \
 > https://github.com/betaflight/betaflight-configurator/releases/tag/10.6.0
+>
+> Use Betaflight Configurator 10.7.0 for firmware versions 4.2.x \
+> https://github.com/betaflight/betaflight-configurator/releases/tag/10.7.0
 
 ## Multiple installations in Linux
 
@@ -41,8 +54,7 @@ Extract each Betaflight Configurator in it's own folder, e.g.: `betaflight/betaf
 
 ```bash
 $ cat drones/betaflight/betaflight-configurator-10.6.0.sh
-#!/usr/bin/
-env bash
+#!/usr/bin/env bash
 pushd betaflight-configurator-10.6.0
 rm -rf ~/.cache/betaflight-configurator/
 ./betaflight-configurator --user-data-dir=.config/betaflight-configurator-10.6.0
