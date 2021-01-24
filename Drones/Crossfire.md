@@ -11,4 +11,4 @@
 ## Extra Info
 
 * [TBS Crossfire Setup For TX16S, T18, T16 and Taranis](https://oscarliang.com/crossfire-betaflight/)
-* [TBS Crossfire | HOW TO INSTALL IT](https://www.youtube.com/watch?v=DP5CnbGYvyg) - Important Taranis checks at the end (Telemetry, Alarms)
+* [TBS Crossfire | How To Install It](https://www.youtube.com/watch?v=DP5CnbGYvyg) - Important Taranis checks at the end (Telemetry, Alarms)
