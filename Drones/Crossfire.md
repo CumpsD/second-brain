@@ -2,7 +2,9 @@
 
 ## Hardware
 
-* [TBS Crossfire Micro TX V2](https://www.team-blacksheep.com/products/prod:crossfire_micro_tx) ✔
+* [TBS Crossfire Micro TX V2](https://www.team-blacksheep.com/products/prod:crossfire_micro_tx) ✔\
+Using [TBS Crossfire Micro TX V2 - Heat Sink](https://www.team-blacksheep.com/products/prod:xf_m_tx_heatsink) ✔\
+Using [TBS Diamond Antenna](https://www.team-blacksheep.com/products/prod:diamond_antenna) ✔
 
 ## Software
 
