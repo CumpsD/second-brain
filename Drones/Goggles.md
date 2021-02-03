@@ -19,6 +19,9 @@
 
 * [DJI Assistant 2 (DJI FPV series)](https://www.dji.com/be/downloads/softwares/dji-assistant-2-dji-fpv-series)
 
+> Settings, Device, Protocol, “SBUS BAUD FAST”
+> Settings, Display, Custom OSD, On
+
 ## Extra Info
 
 * [How to Update Firmware in DJI FPV Goggles, Air Unit and Remote Controller](https://oscarliang.com/dji-fpv-system-update-firmware/)
