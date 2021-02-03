@@ -10,9 +10,10 @@
 * [BDI Digital Adapter - Analog Adapter](https://www.getfpv.com/bdi-digital-adapter-analog-adapter-for-dji-hd-fpv-goggles.html) ✔️
 * [TBS Fusion](https://www.team-blacksheep.com/products/prod:tbs_fusion) ✔️
 * [TBS Fusion Antenna Pack](https://www.team-blacksheep.com/products/prod:fusion_ant_pack) ✔️
-* [Ethix Goggle Strap V3](https://www.team-blacksheep.com/products/prod:ethix_gs_3_wh) ✔️
+* [Ethix Goggle Strap V3](https://www.team-blacksheep.com/products/prod:ethix_gs_3_wh) or [WLYL Lycra Eleastic Head Strap Skin-friendly](https://www.banggood.com/WLYL-Lycra-Eleastic-Head-Strap-Skin-friendly-for-DJI-Digital-HD-FPV-Goggles-Video-Headset-Band-Green-or-Gray-or-Blue-p-1589957.html) ✔️
+* [Protective Lens Cover](https://www.banggood.com/URUAV-V2-3-in-1-Dust-proof-Shading-Sheet-Protective-Lens-Cover-for-DJI-Digital-FPV-Googles-p-1774052.html) ✔️
 * [Cable Fixing Holder](https://www.banggood.com/URUAV-Cable-Fixing-Holder-For-DJI-Digital-FPV-Goggles-p-1684535.html) ✔️
-* [WLYL Lycra Eleastic Head Strap Skin-friendly](https://www.banggood.com/WLYL-Lycra-Eleastic-Head-Strap-Skin-friendly-for-DJI-Digital-HD-FPV-Goggles-Video-Headset-Band-Green-or-Gray-or-Blue-p-1589957.html) ✔️
+* [WLYL Faceplate Eye Pad Lycra Skin-friendly](https://www.banggood.com/WLYL-Faceplate-Head-Strap-for-DJI-Digital-FPV-Google-Face-Plate-Head-Band-Eye-Pad-Lycra-Skin-friendly-Fabric-Replacement-p-1589958.html) ✔️
 
 ## Software
 
