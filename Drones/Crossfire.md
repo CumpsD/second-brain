@@ -14,3 +14,4 @@ Using [TBS Diamond Antenna](https://www.team-blacksheep.com/products/prod:diamon
 
 * [TBS Crossfire Setup For TX16S, T18, T16 and Taranis](https://oscarliang.com/crossfire-betaflight/)
 * [TBS Crossfire | How To Install It](https://www.youtube.com/watch?v=DP5CnbGYvyg) - Important Taranis checks at the end (Telemetry, Alarms)
+* [How to use Team Blacksheep Cloud for TBS Crossfire and TBS Fusion](https://blog.seidel-philipp.de/how-to-use-team-blacksheep-cloud-for-tbs-crossfire-and-tbs-fusion/)
