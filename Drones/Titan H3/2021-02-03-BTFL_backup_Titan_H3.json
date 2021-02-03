@@ -2639,7 +2639,7 @@
 		},
 		{
 			"mode": 1,
-			"value": 1500
+			"value": 1000
 		},
 		{
 			"mode": 1,
@@ -2654,8 +2654,8 @@
 			"value": 1500
 		},
 		{
-			"mode": 1,
-			"value": 1500
+			"mode": 2,
+			"value": 1000
 		},
 		{
 			"mode": 1,
@@ -2675,7 +2675,7 @@
 		}
 	],
 	"RSSI_CONFIG": {
-		"channel": 0
+		"channel": 12
 	},
 	"FEATURE_CONFIG": {
 		"features": {
@@ -2809,7 +2809,8 @@
 				}
 			],
 			"_featureMask": 809763864,
-			"_analyticsChanges": {}
+			"_analyticsChanges": {},
+			"_featureChanges": {}
 		}
 	},
 	"MOTOR_CONFIG": {
