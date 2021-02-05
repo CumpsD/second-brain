@@ -4,6 +4,7 @@
 
 ### Certification
 
+* [New EU Regulations](https://skeydrone.aero/new-eu-regulations/)
 * [Belgium UAS UE OPEN](https://mobilit.lmsdokeos.com/en/users/sign_in)
 * [Ireland MySRS](https://iaa.mysrs.ie/dashboard)
 
