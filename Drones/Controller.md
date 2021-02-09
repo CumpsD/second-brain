@@ -4,7 +4,7 @@
 
 * [FrSky Taranis X9D Plus SE 2019](https://www.frsky-rc.com/product/taranis-x9d-plus-se-2019/) ✔️
 * [GNB 2500mAh 2S 5C for FrSky X9D](https://quadcoptersenzo.nl/en/quadcopter_parts/lipo_batteries/gnb-2500mah-2s-5c-for-frsky-x9d) ✔️
-* [FrSky Taranis X9D Battery](https://quadcoptersenzo.nl/en/remote_control/rc_others/frsky_taranis_x9d_battery) ✔️
+* [FrSky Taranis X9D Battery](https://quadcoptersenzo.nl/en/remote_control/rc_others/frsky_taranis_x9d_battery) ✔️ (2000mAh 7.2V, empty @ 5.4V)
 * [Lowepro QuadGuard TX Wrap](https://droneshop.nl/accessoires/lowepro-quadguard-tx-wrap) ✔️
 * [Ethix Remote Controller Neck Strap V2](https://droneshop.nl/ethix-remote-controller-neck-strap-v2) ✔️
 
