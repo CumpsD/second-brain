@@ -34,3 +34,4 @@
 
 * [LiHV (4.35V) vs LiPo (4.20V)](https://oscarliang.com/lihv-lipo-drone-battery-hvli/)
 * [Lithium Polymer Etiquette: a Comprehensive Guide to Working With LiPo](https://www.instructables.com/Lithium-Polymer-Etiquette/)
+* [How to store LiPo battery safely - In depth LiPo fire tests](https://www.youtube.com/watch?v=CnNId0mDnBo&feature=emb_title) - Must watch!
