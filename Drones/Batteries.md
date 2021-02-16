@@ -6,6 +6,7 @@
 
 * [Steel ammo crate for storing LiPo's](https://droneshop.nl/stalen-munitiekistje-voor-lipo) ✔️
 * [LiPo Safe Bag - Large - 23x30cm (Black)](https://droneshop.nl/lipo-safe-bag-large-23x30cm-zwart) ✔️
+* [TBS LiPo Safety Bag](https://droneshop.nl/tbs-lipo-battery-safety-bag) ✔️
 
 ## NanoHawk
 
