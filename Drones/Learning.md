@@ -7,3 +7,7 @@
   * _Walk The Dog_
   * S Turn
   * Figure Eight
+
+## Assembling
+
+* [How To Build a Gremlin | Flite Test](https://www.youtube.com/watch?v=VZpboUcXOlU)
