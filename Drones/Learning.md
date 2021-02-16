@@ -7,6 +7,7 @@
   * _Walk The Dog_
   * S Turn
   * Figure Eight
+* [Race Quadcopter Tips - (Fly Like Charpu) | Flite Test](https://www.youtube.com/watch?v=8A3pGJi_ih8)
 
 ## Assembling
 
