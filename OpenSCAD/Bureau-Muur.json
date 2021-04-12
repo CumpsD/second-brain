@@ -1,0 +1,13 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "green_box_width": "60",
+            "hole_width": "178",
+            "max_depth": "45",
+            "room_height": "241",
+            "room_length": "508",
+            "toilet_wall_width": "107"
+        }
+    },
+    "fileFormatVersion": "1"
+}
