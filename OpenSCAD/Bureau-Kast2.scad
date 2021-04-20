@@ -10,9 +10,10 @@ room_width = toilet_wall_width + green_box_width;
 room_length = 508;
 room_height = 241;
 
-metal_bars_width = 8;
+metal_bars_width = 6;
+metal_bars_depth = 4;
 wood_thickness = 2;
-metal_thickness = 4;
+metal_thickness = 3;
 
 stone_floor();
 toilet_wall();
@@ -49,9 +50,9 @@ module furniture() {
   vertical_frame(pilar2, furniture_height);
 
   furniture_start = floor_furniture_spacing;
-  row1 = 64 + metal_thickness + wood_thickness;
-  row2 = 34 + metal_thickness + wood_thickness;
-  row3 = 84 + metal_thickness + wood_thickness;
+  row1 = 65 + metal_thickness + wood_thickness;
+  row2 = 25 + metal_thickness + wood_thickness;
+  row3 = 76 + metal_thickness + wood_thickness;
 
   shelf(
     furniture_width,
@@ -79,10 +80,10 @@ module furniture() {
 module vertical_frame(start, height) {
     // max_depth
   translate([start, green_box_thickness - spacer, 0])
-    color("Black") cube([metal_bars_width, metal_bars_width, height]);
+    color("Black") cube([metal_bars_width, metal_bars_depth, height]);
 
-  translate([start, green_box_thickness - spacer + max_depth - metal_bars_width, 0])
-    color("Black") cube([metal_bars_width, metal_bars_width, height]);
+  translate([start, green_box_thickness - spacer + max_depth - metal_bars_depth, 0])
+    color("Black") cube([metal_bars_width, metal_bars_depth, height]);
 
   translate([start, green_box_thickness - spacer, height])
     color("Black") cube([metal_bars_width, max_depth, metal_bars_width]);
@@ -94,20 +95,39 @@ module vertical_frame(start, height) {
 module shelf(width, height, pilar1, pilar2) {
   height = height + metal_thickness;
 
-  translate([0, green_box_thickness - spacer, height - metal_thickness])
-    color("Black") cube([width, max_depth, metal_thickness]);
+  // translate([0, green_box_thickness - spacer, height - metal_thickness])
+  //   color("Black") cube([width, max_depth, metal_thickness]);
+
+  translate([metal_bars_depth, green_box_thickness - spacer + metal_bars_depth, height - metal_thickness])
+    color("Black") cube([metal_thickness, max_depth - metal_bars_depth - metal_bars_depth, metal_thickness]);
+
+  translate([pilar2, green_box_thickness - spacer + metal_bars_depth, height - metal_thickness])
+    color("Black") cube([metal_thickness, max_depth - metal_bars_depth - metal_bars_depth, metal_thickness]);
+
+  translate([pilar1, green_box_thickness - spacer + metal_bars_depth, height - metal_thickness])
+    color("Black") cube([metal_thickness, max_depth - metal_bars_depth - metal_bars_depth, metal_thickness]);
+
+  translate([width - metal_thickness - metal_bars_depth, green_box_thickness - spacer + metal_bars_depth, height - metal_thickness])
+    color("Black") cube([metal_thickness, max_depth - metal_bars_depth - metal_bars_depth, metal_thickness]);
+
+
+  translate([metal_bars_depth, green_box_thickness - spacer + metal_bars_depth, height - metal_thickness])
+    color("Black") cube([width - metal_bars_depth - metal_bars_depth, metal_thickness, metal_thickness]);
+  translate([metal_bars_depth, green_box_thickness - spacer + max_depth - metal_bars_depth - metal_thickness, height - metal_thickness])
+    color("Black") cube([width - metal_bars_depth - metal_bars_depth, metal_thickness, metal_thickness]);
+
 
   translate([0, green_box_thickness - spacer, height])
     color("OrangeRed") cube([pilar2, max_depth, wood_thickness]);
 
-  translate([pilar2, green_box_thickness - spacer + metal_bars_width, height])
-    color("OrangeRed") cube([metal_bars_width, max_depth - (metal_bars_width * 2), wood_thickness]);
+  translate([pilar2, green_box_thickness - spacer + metal_bars_depth, height])
+    color("OrangeRed") cube([metal_bars_width, max_depth - (metal_bars_depth * 2), wood_thickness]);
 
   translate([pilar2 + metal_bars_width, green_box_thickness - spacer, height])
     color("OrangeRed") cube([pilar1 - pilar2 - metal_bars_width, max_depth, wood_thickness]);
 
-  translate([pilar1, green_box_thickness - spacer + metal_bars_width, height])
-    color("OrangeRed") cube([metal_bars_width, max_depth - (metal_bars_width * 2), wood_thickness]);
+  translate([pilar1, green_box_thickness - spacer + metal_bars_depth, height])
+    color("OrangeRed") cube([metal_bars_width, max_depth - (metal_bars_depth * 2), wood_thickness]);
 
   translate([pilar1 + metal_bars_width, green_box_thickness - spacer, height])
     color("OrangeRed") cube([width - pilar1 - metal_bars_width, max_depth, wood_thickness]);
