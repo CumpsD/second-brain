@@ -66,4 +66,5 @@ sudo bash /usr/local/share/adsbexchange-stats/uninstall.sh
 
 ## Profile
 
-https://www.adsbexchange.com/api/feeders/?feed=IM3MwgSeH7mRMH9JfoWm56VM1fVRmi6DYacqD64JRkakeGZlaZKtyzLrGi1l2dyQ
+* Varsenare: https://www.adsbexchange.com/api/feeders/?feed=1y4g0hrLZEJx
+* Wijgmaal: https://www.adsbexchange.com/api/feeders/?feed=_-UVX6gcwpaU
