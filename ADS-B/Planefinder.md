@@ -3,8 +3,8 @@
 ## Setup
 
 ```bash
-wget http://client.planefinder.net/pfclient_4.1.1_armhf.deb
-sudo dpkg -i pfclient_4.1.1_armhf.deb
+wget http://client.planefinder.net/pfclient_5.0.161_armhf.deb
+sudo dpkg -i pfclient_5.0.161_armhf.deb
 ```
 
 http://10.0.4.31:30053 to complete configuration
