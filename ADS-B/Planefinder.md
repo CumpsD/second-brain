@@ -17,5 +17,6 @@ http://10.0.4.31:30053 to complete configuration
 
 ## Profile
 
-* https://planefinder.net/coverage/receiver/227263
+* Varsenare: https://planefinder.net/coverage/receiver/227263
+* Wijgmaal: https://planefinder.net/coverage/receiver/228545
 * https://planefinder.net/coverage/receivers/BE
