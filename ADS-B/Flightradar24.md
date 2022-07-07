@@ -16,4 +16,3 @@ sudo bash /tmp/fr24.sh
 ## Profile
 
 * Varsenare: https://www.flightradar24.com/account/feed-stats/?id=33962
-* Wijgmaal: https://www.flightradar24.com/account/feed-stats/?id=23783
