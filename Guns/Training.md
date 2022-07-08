@@ -3,6 +3,7 @@
 ## Organizers
 
 * [Contact Front Training Solutions](https://contactfront.be/)
+* [Option Bravo](https://www.optionbravo.eu/)
 
 ## Announcements
 
