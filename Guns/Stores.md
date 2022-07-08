@@ -6,71 +6,64 @@
 * [Wapenhandel Nikabi](https://www.wapenhandelnikabi.be/)
 * ['t Mikpunt](https://www.mikpunt.store/)
 * [Wapenhandel Degeest](https://wapenhandel-degeest.be/)
-* https://www.beacenter.be/
-* https://www.coppensschietsport.com/
-* https://targetshooter.be/
-* https://www.handgunner.be/
-* https://martensshooting.be/
-* https://www.vnwetteren-online.be/nl/
-* https://wapenhandel-tilborghs.be/
-* https://www.wapenhandeltrefpunt.be/
-* https://www.facebook.com/wapenmakerij.be/
-* https://huntingdemasure.be/
-* http://www.appermontguns.com/
-* http://www.wapenhandel-baus.be/
-* http://bliki.net/
-* http://www.gunsandgoodies.be/
-* http://wapensandreas.be/
-* https://bobgoormans.be/
-* https://roodrokenlepelman.be
-* https://www.decosterhunting.be/
-* http://www.tirderkempen.be/
-* http://www.rubus-xl.eu/
-* https://www.worldclassga.be/
-* https://classicfirearms.be/
-* https://www.wapens-munitie.com/
-* https://www.bbcfm.be/
-* http://europeanguntrade.be/
-* http://www.duckarms.be/
-* http://www.hetjachthuis.eu
-* https://pletsers.be/
-* https://www.dbstactical.com/
-* https://www.ruag.be
-* https://www.rmvinck.com/
-* https://kvspoppel.be/
-* https://www.gors.be/nl/
-* https://westernantiqueguns.com/
-* https://armsinternational.be/
-* https://www.armurerie-collard.be/
+* [Coppens Schietsport](https://www.coppensschietsport.com/)
+* [Martens Shooting](https://martensshooting.be/)
+* [Hunting World Bliki](http://bliki.net/)
+* [Wapenhandel Guns & Goodies](http://www.gunsandgoodies.be/)
+* [Roodrok en Lepelman](https://roodrokenlepelman.be)
+* [Decoster](https://www.decosterhunting.be/)
+* [Van Nieuwenhuyse](https://www.vnwetteren-online.be/nl/)
+* [Wapenhandel Tilborghs](https://wapenhandel-tilborghs.be/)
+* [Hunting Demasure](https://huntingdemasure.be/)
+* [Jachtwinkel Baus](http://www.wapenhandel-baus.be/)
+* [DBS Tactical](https://www.dbstactical.com/)
+* [Worldclass G&A](https://www.worldclassga.be/)
+* [Pletsers](https://pletsers.be/)
+* [Het Jachthuis](http://www.hetjachthuis.eu)
+* [RUAG](https://www.ruag.be)
+* [Wapenhandel Gors & Zoon](https://www.gors.be/nl/)
+* [Arms International](https://armsinternational.be/)
+* [Western Antique Guns](https://westernantiqueguns.com/)
+* [Armurerie Pascal Collard](https://www.armurerie-collard.be/nl/)
+* [Wapenhandel Targetshooter](https://targetshooter.be/)
+* [Wapenhandel Andreas](http://wapensandreas.be/)
+* [Europeanguntrade](http://europeanguntrade.be/)
+* [Bea Center](https://www.beacenter.be/)
+* [Trefpunt](https://www.wapenhandeltrefpunt.be/)
+* [Wapenmakerij Hervens](https://www.facebook.com/wapenmakerij.be/)
+* [Appermont](http://www.appermontguns.com/)
+* [Bob Goormans](https://bobgoormans.be/)
+* [Handgunner](https://www.handgunner.be/)
+* [Weapons & Ammunition Hendrickx](https://www.wapens-munitie.com/)
+* [KVS Poppel](https://kvspoppel.be/)
+* [R.M. Vinck & Co](https://www.rmvinck.com/)
 * Masterarms Zelzate (geen website)
 
 ## Brussels
 
-http://www.armes-cornet.com/
-http://www.bwcorp.be/
-http://www.maisonbinet.be/
-http://www.tacticalgear.be/
+* [Armurerie Cornet & Co](http://www.armes-cornet.com/)
+* [United Security Group (Tactical Gear)](http://www.tacticalgear.be/)
 
 ## Wallonia
 
-http://www.dekaise.be/
-http://www.armurerie-billau.be/
-http://pbcbullets.be/
-https://www.midarms.com/nl/
-https://www.armurerieducondroz.be/
-https://www.armurerie-delmotte.be/
-http://www.armurerie-apache.be/
-https://www.paulpletsers.be/012/fr/Accueil
-http://armureriehauvarlet.blogspot.com/
-https://armureriefoucart.be/
-http://www.abcalet.be/
-http://www.armureriehanssen.be/
-https://www.armureriedelattre.be/
-https://www.manustgunshop.com/
-http://www.armes-nowak.com/
-http://www.armurerietelega.com/
-https://www.armes.be
-https://www.liegearms.be/
-https://huntinglodge.be/
-https://www.ctmb.be/
-KW: https://www.facebook.com/KW-260042897398676/
+* [Armurerie Dekaise](http://www.dekaise.be/)
+* [](http://www.armurerie-billau.be/)
+* [](http://pbcbullets.be/)
+* [](https://www.midarms.com/nl/)
+* [](https://www.armurerieducondroz.be/)
+* [](https://www.armurerie-delmotte.be/)
+* [](http://www.armurerie-apache.be/)
+* [](https://www.paulpletsers.be/012/fr/Accueil)
+* [](http://armureriehauvarlet.blogspot.com/)
+* [](https://armureriefoucart.be/)
+* [](http://www.abcalet.be/)
+* [](http://www.armureriehanssen.be/)
+* [](https://www.armureriedelattre.be/)
+* [](https://www.manustgunshop.com/)
+* [](http://www.armes-nowak.com/)
+* [](http://www.armurerietelega.com/)
+* [](https://www.armes.be)
+* [](https://www.liegearms.be/)
+* [](https://huntinglodge.be/)
+* [](https://www.ctmb.be/)
+* [KW](https://www.facebook.com/KW-260042897398676/)
