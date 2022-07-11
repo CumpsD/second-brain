@@ -10,7 +10,7 @@ The UDM-Pro is suddenly not reachable from the browser anymore. After manually r
 
 SSH into the UDM-Pro and run `unifi-os restart`
 
-```
+```bash
   ___ ___      .__________.__
  |   |   |____ |__\_  ____/__|
  |   |   /    \|  ||  __) |  |   (c) 2010-2022

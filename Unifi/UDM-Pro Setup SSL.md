@@ -2,7 +2,7 @@
 
 To setup SSL, copy your certificate into `/mnt/data/unifi-os/unifi-core/config/unifi-core.crt` and `/mnt/data/unifi-os/unifi-core/config/unifi-core.key` and restart.
 
-```
+```bash
   ___ ___      .__________.__
  |   |   |____ |__\_  ____/__|
  |   |   /    \|  ||  __) |  |   (c) 2010-2022
