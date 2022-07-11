@@ -30,8 +30,6 @@ drwxr-xr-x    8 root     root          4096 Jul 11 17:38 ..
 -rw-r--r--    1 root     root          1702 Mar 28  2021 unifi-core.key
 # cp unifi-core.crt unifi-core.crt.bak
 # cp unifi-core.key unifi-core.key.bak
-# vi
-vi      visudo
 # vi unifi-core.crt
 # vi unifi-core.key
 # unifi-os restart
