@@ -32,11 +32,11 @@ $SERVER["socket"] == ":443" {
 }
 
 # Redirect HTTP to HTTPS
-$HTTP["scheme"] == "http" {
-  $HTTP["host"] =~ ".*" {
-    url.redirect = (".*" => "https://%0$0")
-  }
-}
+#$HTTP["scheme"] == "http" {
+#  $HTTP["host"] =~ ".*" {
+#    url.redirect = (".*" => "https://%0$0")
+#  }
+#}
 ```
 
 And restart:
