@@ -30,7 +30,7 @@
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/guns/sig-p226-legion/mag1.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/guns/sig-p226-legion/mag2.jpg "a")
 
-## Upgrades
+<!-- ## Upgrades -->
 
 <!--
 SKU

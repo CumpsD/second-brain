@@ -27,7 +27,7 @@
 
 ## Pictures
 
-## Upgrades
+<!-- ## Upgrades -->
 
 <!--
 
