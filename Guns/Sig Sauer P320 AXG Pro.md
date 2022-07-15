@@ -2,7 +2,7 @@
 
 ## About
 
-[Sig Sauer P320 AXG Pro](https://www.sigsauer.com/p320-axg-pro.html)
+[Sig Sauer P320 AXG Pro](https://www.sigsauer.com/p320-axg-pro.html) ([Wikipedia](https://en.wikipedia.org/wiki/SIG_Sauer_P320))
 
 > The P320AXG PRO is the first full-sized pistol in the all-metal AXG family of P320 pistols. The signature look of the Pro-Cut Nitron slide matches seamlessly with the black anodized metal AXG Grip module. The modern features and modularity of the P320 platform combined with the performance and feel of a metal frame offers a truly special shooting experience.
 >
