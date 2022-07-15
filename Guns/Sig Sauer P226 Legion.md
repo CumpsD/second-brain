@@ -2,7 +2,7 @@
 
 ## About
 
-[Sig Sauer P226 Legion Full-Size](https://www.sigsauer.com/p226-legion-full-size.html)
+[Sig Sauer P226 Legion Full-Size](https://www.sigsauer.com/p226-legion-full-size.html) ([Wikipedia](https://en.wikipedia.org/wiki/SIG_Sauer_P226))
 
 > The Legion P226 is finished in Cerakote® Elite Legion gray coating, custom G-10 grips with a Legion medallion, the SIG SAUER Electro-Optics X-RAY high visibility day/night sights comes with three magazines. The P226 in DA/SA includes a reduced and contoured Elite beavertail, which allows for a higher grip, but a reduced profile, thus eliminating printing. More aggressive front strap checkering and additional checkering under the trigger guard enhance the grip. An X-Five undercut has been applied to the trigger guard, allowing for a higher grip and greater control. Front cocking serrations provide greater purchase for cycling the action, clearing the firearm, or conducting press checks. The DA/SA is available in 9 mm. The DA/SA also features low profile decocking and slide catch levers to reduce the risk of snagging. An enhanced polished action with the SRT (Short-Reset Trigger) is augmented with a Grayguns, Inc. designed P-SAIT trigger. In addition, a solid steel guide rod adds weight where it matters most.
 
