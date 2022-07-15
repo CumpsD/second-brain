@@ -25,6 +25,27 @@
   </tr>
 </table>
 
+## Announcement
+
+[SIG SAUER Introduces the Full-Size P320 AXG Pro](https://www.sigsauer.com/blog/sig-sauer-introduces-the-full-size-p320-axg-pro)
+
+> NEWINGTON, N.H., (June 2, 2021) – SIG SAUER is pleased to introduce the P320AXG Pro, the first full-sized P320 pistol featuring the metal AXG grip module, with the AXG detachable magwell, and paired with the full-length SIG SAUER Pro-Cut slide.
+>
+> “The hottest ticket in the world of P320 is the AXG series of pistols which combines the modern features and modularity of the P320 platform, with the performance and feel of a metal frame,” said Tom Taylor, Chief Marketing Officer and Executive Vice President, Commercial Sales, SIG SAUER, Inc.  “With the lightening cuts of the pro-cut slide and the added weight of the AXG metal grip, the P320AXG Pro is the perfect combination of style and performance, from fit to finish, in a full-size package.”
+>
+> The [SIG SAUER P320 AXG Pro](https://www.sigsauer.com/p320-axg-pro.html) is a metal, 9mm striker-fired pistol, with a black anodized AXG full-size grip module with a detachable AXG magwell, custom Hogue black G10 grip panels, a precision machined deep undercut, and an extended beavertail for an ergonomic, comfortable fit.  The pistol features an XSERIES flat trigger and a Nitron® full-size SIG Pro-Cut slide with lightening cuts, XRAY3 Day/Night sights, comes optic-ready, and is compatible with direct-mount options for the [SIG SAUER Electro-Optics ROMEO1Pro](https://www.sigsauer.com/romeo1pro-1x30-mm.html), the soon to be released SIG SAUER Electro-Optics ROMEO2, Delta Point Pro, and RMR Reflex Optics.  The P320 AXG Pro ships with (2) 17-round steel magazines featuring Henning Group basepads.
+>
+> [P320AXG Pro](https://www.sigsauer.com/p320-axg-pro.html):
+>
+> Overall length: 8.2 inches
+> Overall height: 5.5 inches
+> Overall width: 1.6 inches
+> Barrel length: 4.7 inches
+> Sight Radius: 6.6inches
+> Weight (w/magazine): 35.4 oz.
+>
+> The SIG SAUER P320 AXG Pro is now shipping and available at retailers. To learn more about the SIG SAUER P320 AXG Pro watch the [product video with Phil Strader](https://youtu.be/IJLpGC2xXT0), Pistol Product Manager.
+
 ## Pictures
 
 <!-- ## Upgrades -->
