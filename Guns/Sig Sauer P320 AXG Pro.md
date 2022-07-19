@@ -76,3 +76,12 @@ SLIDE FINISH Nitron
 SLIDE MATERIAL Stainless Steel
 OPTIC READY Yes
 -->
+
+<!-- ### Resources
+
+https://www.pewpewtactical.com/best-p320-upgrades/
+https://lokgrips.com/sig-sauer/p320-axg/veloce/sig-sauer-p320-axg-veloce-grips-and-backstrap-combo/
+https://www.gun-tests.com/handguns/sig-sauer-p320-axg-pro-9mm-luger/
+https://grayguns.com/product/p320-adjustable-straight-trigger-system-competition/
+https://grayguns.com/product/p320-competition-hybrid-trigger-system/
+https://grayguns.com/product-tag/p320/ -->

@@ -131,3 +131,15 @@ Elite Cerakote
 Stainless Steel
 No
  -->
+
+<!-- ## Resources
+
+https://www.realgunreviews.com/upgrade-a-west-german-sig-sauer-p226-to-legion-specs/
+https://www.realgunreviews.com/sig-sauer-p226-upgrades-video-series/
+https://www.realgunreviews.com/which-legion-should-i-get-dasa-or-sao/
+https://www.realgunreviews.com/sig-sauer-classic-p-series-p226-p220-p229-internal-animations/
+https://nationalinterest.org/blog/buzz/meet-sig-sauer-legion-p226-best-sig-pistol-market-124236
+https://blog.cheaperthandirt.com/review-sig-p226-legion-sao/
+https://www.northeastshooters.com/xen/threads/p226-upgrades-grayguns-trigger-srt-and-wolff-hammer-spring.341621/
+https://grayguns.com/product-tag/p226/
+https://www.pewpewtactical.com/sig-sauer-legion-p226-review/ -->
