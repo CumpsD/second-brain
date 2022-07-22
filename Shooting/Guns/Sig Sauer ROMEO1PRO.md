@@ -6,6 +6,6 @@
 
 ## Pictures
 
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/guns/romeo1pro/romeo1pro1.jpg "a")
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/guns/romeo1pro/romeo1pro2.jpg "a")
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/guns/romeo1pro/romeo1pro3.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/romeo1pro/romeo1pro1.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/romeo1pro/romeo1pro2.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/romeo1pro/romeo1pro3.jpg "a")
