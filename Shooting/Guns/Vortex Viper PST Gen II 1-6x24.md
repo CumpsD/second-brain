@@ -4,6 +4,10 @@
 
 [Vortex Viper PST Gen II 1-6x24](https://vortexoptics.com/vortex-viper-pst-gen-2-1-6x24-riflescope.html)
 
+## Accessories
+
+[Switchview Throw Lever SV-5](https://vortexoptics.com/switchview-throw-lever-sv-5-2022.html) ([Installation Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/vortex/VTX_SV_A_P_PM_WEB.pdf))
+
 ## Resources
 
 * [Reticle Manual](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/vortex/VTX_PST-VMR2-MRAD-7A_VPR_PST%20G2_VMR-2_MRAD_RS_P_RM_WEB.pdf)
