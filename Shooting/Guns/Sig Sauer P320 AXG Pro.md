@@ -44,7 +44,7 @@
 >
 > The SIG SAUER P320 AXG Pro is now shipping and available at retailers. To learn more about the SIG SAUER P320 AXG Pro watch the [product video with Phil Strader](https://youtu.be/IJLpGC2xXT0), Pistol Product Manager.
 
-## Pictures
+<!-- ## Pictures -->
 
 <!-- ## Upgrades -->
 
