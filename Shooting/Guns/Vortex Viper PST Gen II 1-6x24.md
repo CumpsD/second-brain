@@ -14,3 +14,8 @@
 * [Product Manual](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/vortex/VTX_RFL-PST-1P_VPR_PST%20G2_RS_P_PM_WEB.pdf)
 * [Parts Diagram](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/vortex/VTX_PST-1605_PST-1607_PST%20G2_RS_C_XVIEW_V1.pdf)
 * [Subtension Detail](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/vortex/VTX_PST-1607_VMR-2_MRAD_RS_I_RI_ST.pdf)
+
+## Pictures
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/vortex/box.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/vortex/scope.jpg "a")

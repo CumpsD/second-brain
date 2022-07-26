@@ -77,9 +77,16 @@ SLIDE MATERIAL Stainless Steel
 OPTIC READY Yes
 -->
 
-<!-- ### Resources
+### Resources
 
-https://www.pewpewtactical.com/best-p320-upgrades/
+* [Sig Sauer P320 AXG Pro](https://www.sigsauer.com/p320-axg-pro.html)
+
+#### Videos
+
+* [SIG Sauer P320 AXG Pro - best gun not being talked about (YouTube)](https://www.youtube.com/watch?v=49RVemnPl_k)
+* [Sig Sauer P320 AXG Pro - My Favorite AXG so far! (YouTube)](https://www.youtube.com/watch?v=1OjMAkJz9K0)
+
+<!-- https://www.pewpewtactical.com/best-p320-upgrades/
 https://lokgrips.com/sig-sauer/p320-axg/veloce/sig-sauer-p320-axg-veloce-grips-and-backstrap-combo/
 https://www.gun-tests.com/handguns/sig-sauer-p320-axg-pro-9mm-luger/
 https://grayguns.com/product/p320-adjustable-straight-trigger-system-competition/

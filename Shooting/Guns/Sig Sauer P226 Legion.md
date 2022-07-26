@@ -132,9 +132,12 @@ Stainless Steel
 No
  -->
 
-<!--
+
 ## Resources
 
+* [Sig Sauer P226 Legion Full-Size](https://www.sigsauer.com/p226-legion-full-size.html)
+
+<!--
 https://www.realgunreviews.com/upgrade-a-west-german-sig-sauer-p226-to-legion-specs/
 https://www.realgunreviews.com/sig-sauer-p226-upgrades-video-series/
 https://www.realgunreviews.com/which-legion-should-i-get-dasa-or-sao/
