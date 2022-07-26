@@ -80,11 +80,14 @@ OPTIC READY Yes
 ### Resources
 
 * [Sig Sauer P320 AXG Pro](https://www.sigsauer.com/p320-axg-pro.html)
+* [LOK P320 AXG Grips](https://lokgrips.com/sig-sauer/p320-axg)
+* [Align Tactical - P320 Thumb Rest Takedown Lever](https://www.aligntactical.com/)
 
 #### Videos
 
-* [SIG Sauer P320 AXG Pro - best gun not being talked about (YouTube)](https://www.youtube.com/watch?v=49RVemnPl_k)
-* [Sig Sauer P320 AXG Pro - My Favorite AXG so far! (YouTube)](https://www.youtube.com/watch?v=1OjMAkJz9K0)
+* [Best gun not being talked about (YouTube)](https://www.youtube.com/watch?v=49RVemnPl_k)
+* [My Favorite AXG so far! (YouTube)](https://www.youtube.com/watch?v=1OjMAkJz9K0)
+* [A quick show and tell and a few upgrades from Align Tactical and LOK Grips! (YouTube)](https://www.youtube.com/watch?v=78JQFa7MT4A)
 
 <!-- https://www.pewpewtactical.com/best-p320-upgrades/
 https://lokgrips.com/sig-sauer/p320-axg/veloce/sig-sauer-p320-axg-veloce-grips-and-backstrap-combo/
