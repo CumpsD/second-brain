@@ -1,4 +1,4 @@
-# Ruger PC Carbine Model 19122
+# Ruger PC Carbine (Model 19122)
 
 ## About
 
