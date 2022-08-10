@@ -48,15 +48,11 @@ Mossberg 500/590 Q-DC: https://www.aridusindustries.com/products/mossberg-500590
 * [Gun Review: Mossberg FLEX 500 Shotgun](https://www.thetruthaboutguns.com/gun-review-mossberg-500-flex-shotgun/)
 * [Mossberg 500 Flex Review](https://thesurvivalspirit.com/gun-reviews/mossberg-500-flex-review/)
 * [Shotgun Review: Mossberg FLEX 500 Lets You Get The Perfect Fit](https://www.grandviewoutdoors.com/guns/shotguns/shotgun-review-mossberg-flex-500-lets-you-get-the-perfect-fit)
-
 * [Holding Class: Basics of Using Mossberg 500 & 590 Shotguns](https://www.guns.com/news/2020/06/01/holding-class-basics-of-using-mossberg-500-590-shotguns)
-
 * [The Best Mossberg 500 and 590 Upgrades](https://www.pewpewtactical.com/best-mossberg-500-590-upgrades/)
 * [Best Mossberg 500/590 Accessories and Upgrades](https://www.rem870.com/2016/06/04/best-mossberg-500590-accessories-and-upgrades/)
-
 * [Aridus Industries Videos](https://www.aridusindustries.com/videos/)
 * [Aridus Industries CROM – Rob Haught Mod](https://jerkingthetrigger.com/2018/01/02/aridus-industries-crom-rob-haught-mod/)
 * [Aridus Industries Mossberg Q-DC Installation Instructions](https://www.youtube.com/watch?v=NYmkW47XdTI)
-
 * [Gear Review: OPSol Mini-Clip](https://www.thetruthaboutguns.com/gear-review-opsol-mini-clip-mossberg-shotguns/)
 * [Aguila Ammunition 12GA Minishell](https://www.aguilaammo.com/products/12-gauge-minishell-slug)
