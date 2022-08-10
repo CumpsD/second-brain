@@ -22,6 +22,10 @@ PodMod Adapter Basic Kit: https://kahntrol.com/index.php/products-page/podmod/po
 Atlas Bipod Rubber Feet: https://www.altusshooting.com/products/atlas-bipod-rubber-feet
 Harris S-BRM 6"-9": https://www.gunsmoke.eu/bipods/harris-sbrm-bipod
 
+UTG:
+UTG Ultra Slim Handstop - M-LOK
+https://www.rockstartactical.com/utg-ultra-slim-handstop-m-lok/
+
 Tandemkross:
 “Shock Block” Bolt Buffer for Ruger® PC Carbine™
 https://www.tandemkross.com/product.asp?itemid=758
