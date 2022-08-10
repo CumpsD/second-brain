@@ -23,9 +23,11 @@
   </tr>
 </table>
 
-<!--
 ## Pictures
 
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mossberg-flex-500/gun1.jpg "a")
+
+<!--
 ## Upgrades
 
 OPSol Mini-Clip 2.0 Flex: https://www.opsolmini-clip.com/product/opsol-mini-clip-2-0-flex/ https://www.opsolmini-clip.com/how-to-use/
