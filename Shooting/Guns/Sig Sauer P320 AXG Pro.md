@@ -12,16 +12,96 @@
 
 <table>
   <tr>
+    <th>SKU</th>
+    <td>320AXGF-9-BXR3-PRO-R2</td>
+  </tr>
+  <tr>
     <th>Caliber</th>
     <td>9mm Luger</td>
+  </tr>
+  <tr>
+    <th>Sights</th>
+    <td>X-RAY3 Day/Night Sights</td>
+  </tr>
+  <tr>
+    <th>Threaded Barrel</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Pistol Size</th>
+    <td>Full-Size XSeries</td>
+  </tr>
+  <tr>
+    <th>Length</th>
+    <td>8.2 in / 20.8 cm</td>
+  </tr>
+  <tr>
+    <th>Width</th>
+    <td>1.6 in / 4.0 cm</td>
+  </tr>
+  <tr>
+    <th>Height</th>
+    <td>5.5 in / 14.0 cm</td>
+  </tr>
+  <tr>
+    <th>Barrel Length</th>
+    <td>4.7 in / 11.9 cm</td>
+  </tr>
+  <tr>
+    <th>Weight</th>
+    <td>35.4 oz / 1003 g</td>
+  </tr>
+  <tr>
+    <th>Sight Radius</th>
+    <td>6.6 in / 16.8 cm</td>
+  </tr>
+  <tr>
+    <th>Accessory Rail</th>
+    <td>M1913</td>
   </tr>
   <tr>
     <th>Trigger Action</th>
     <td>Striker</td>
   </tr>
   <tr>
-    <th>Sights</th>
-    <td>X-RAY3 Day/Night Sights</td>
+    <th>Trigger Type</th>
+    <td>XSeries Straight</td>
+  </tr>
+  <tr>
+    <th>Grip Module</th>
+    <td>Carry AXG</td>
+  </tr>
+  <tr>
+    <th>Grip Type</th>
+    <td>AXG</td>
+  </tr>
+  <tr>
+    <th>Grip Color</th>
+    <td>Black</td>
+  </tr>
+  <tr>
+    <th>Barrel Material</th>
+    <td>Carbon Steel</td>
+  </tr>
+  <tr>
+    <th>Frame Finish</th>
+    <td>Hard Coat Anodized</td>
+  </tr>
+  <tr>
+    <th>Frame Material</th>
+    <td>Stainless Steel</td>
+  </tr>
+  <tr>
+    <th>Slide Finish</th>
+    <td>Nitron</td>
+  </tr>
+  <tr>
+    <th>Slide Material</th>
+    <td>Stainless Steel</td>
+  </tr>
+  <tr>
+    <th>Optic Ready</th>
+    <td>Yes</td>
   </tr>
 </table>
 
@@ -47,35 +127,6 @@
 <!-- ## Pictures -->
 
 <!-- ## Upgrades -->
-
-<!--
-
-SKU 320AXGF-9-BXR3-PRO-R2
-CALIBER 9mm Luger
-MAGS INCLUDED (2) 17rd Steel Mag
-SIGHTS X-RAY3 Day/Night Sights
-THREADED BARREL No
-PISTOL SIZE Full-Size XSeries
-OVERALL LENGTH 8.2 in [208mm]
-OVERALL WIDTH 1.6 in [40mm]
-HEIGHT 5.5 in [140 mm]
-BARREL LENGTH 4.7 in [119mm]
-WEIGHT 35.4 oz [1003g]
-SIGHT RADIUS 6.6 in [168mm]
-ACCESSORY RAIL M1913
-TRIGGER ACTION Striker
-TRIGGER TYPE XSeries Straight
-GRIP MODULE Carry AXG
-GRIP TYPE AXG
-GRIP COLOR Black
-BARREL MATERIAL Carbon Steel
-FRAME FINISH Hard Coat Anodized
-FRAME MATERIAL Stainless Steel
-FCU MATERIAL
-SLIDE FINISH Nitron
-SLIDE MATERIAL Stainless Steel
-OPTIC READY Yes
--->
 
 ### Resources
 

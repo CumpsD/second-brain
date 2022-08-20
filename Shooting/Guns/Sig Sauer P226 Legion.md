@@ -10,12 +10,92 @@
 
 <table>
   <tr>
+    <th>SKU</th>
+    <td>??</td>
+  </tr>
+  <tr>
     <th>Caliber</th>
     <td>9mm Luger</td>
   </tr>
   <tr>
+    <th>Sights</th>
+    <td>X-RAY3 (Square)</td>
+  </tr>
+  <tr>
+    <th>Threaded Barrel</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Pistol Size</th>
+    <td>Full-Size</td>
+  </tr>
+  <tr>
+    <th>Length</th>
+    <td>??</td>
+  </tr>
+  <tr>
+    <th>Width</th>
+    <td>1.5 in / 3.8 cm</td>
+  </tr>
+  <tr>
+    <th>Height</th>
+    <td>5.5 in / 14.0 cm</td>
+  </tr>
+  <tr>
+    <th>Barrel Length</th>
+    <td>4.4 in / 11.2 cm</td>
+  </tr>
+  <tr>
+    <th>Weight</th>
+    <td>??</td>
+  </tr>
+  <tr>
+    <th>Sight Radius</th>
+    <td>6.3 in / 16.0 cm</td>
+  </tr>
+  <tr>
+    <th>Accessory Rail</th>
+    <td>Sig Rail</td>
+  </tr>
+  <tr>
     <th>Trigger Action</th>
     <td>DA/SA</td>
+  </tr>
+  <tr>
+    <th>Trigger Type</th>
+    <td>P-SAIT</td>
+  </tr>
+  <tr>
+    <th>Grip Type</th>
+    <td>Black G10</td>
+  </tr>
+  <tr>
+    <th>Grip Color</th>
+    <td>Black</td>
+  </tr>
+  <tr>
+    <th>Barrel Material</th>
+    <td>Carbon Steel</td>
+  </tr>
+  <tr>
+    <th>Frame Finish</th>
+    <td>Elite Cerakote</td>
+  </tr>
+  <tr>
+    <th>Frame Material</th>
+    <td>Alloy</td>
+  </tr>
+  <tr>
+    <th>Slide Finish</th>
+    <td>Elite Cerakote</td>
+  </tr>
+  <tr>
+    <th>Slide Material</th>
+    <td>Stainless Steel</td>
+  </tr>
+  <tr>
+    <th>Optic Ready</th>
+    <td>No</td>
   </tr>
 </table>
 
@@ -31,107 +111,6 @@
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/sig-p226-legion/mag2.jpg "a")
 
 <!-- ## Upgrades -->
-
-<!--
-SKU
-CALIBER
-MAGS INCLUDED
-SIGHTS
-STATE COMPLIANT
-THREADED BARREL
-PISTOL SIZE
-OVERALL LENGTH
-OVERALL WIDTH
-HEIGHT
-BARREL LENGTH
-WEIGHT
-SIGHT RADIUS
-ACCESSORY RAIL
-TRIGGER ACTION
-TRIGGER TYPE
-GRIP TYPE
-GRIP COLOR
-BARREL MATERIAL
-FRAME FINISH
-FRAME MATERIAL
-FCU MATERIAL
-SLIDE FINISH
-SLIDE MATERIAL
-OPTIC READY
-
-226R-9-LEGION
-9mm Luger
-(3) 10rd Steel Mag
-X-Ray (Square)
-CT / HI / IL / MD / NJ / NY
-No
-Full-Size
-8 in [203 mm]
-1.5 in [38 mm]
-5.5 in (140 mm)
-4.4 in (112 mm)
-34 oz (964 g)
-6.3 in (160 mm)
-SIG Rail
-DA/SA
-P-SAIT
-Black G10
-Black
-Carbon Steel
-Elite Cerakote
-Alloy
-Elite Cerakote
-Stainless Steel
-No
-
-226RM-9-LEGION
-9mm Luger
-(3) 10rd Steel Mag
-X-Ray (Square)
-MA
-No
-Full-Size
-7.7 in [196 mm]
-1.5 in [38 mm]
-5.5 in [140 mm]
-4.4 in [112 mm]
-34.4 oz [975 g]
-6.3 in [160 mm]
-SIG Rail
-DA/SA
-P-SAIT
-Black G10
-Carbon Steel
-Elite Cerakote
-Alloy
-Elite Cerakote
-Stainless Steel
-No
-
-E26R-9-LEGION
-9mm Luger
-(3) 15rd Steel Mag
-X-Ray (Square)
-No
-Full-Size
-8 in [203 mm]
-1.5 in [38 mm]
-5.5 in [140 mm]
-4.4 in [112 mm]
-34 oz [964 g]
-6.3 in [160 mm]
-SIG Rail
-DA/SA
-P-SAIT
-Black G10
-Carbon Steel
-Elite Cerakote
-Alloy
-Elite Cerakote
-Stainless Steel
-No
- -->
-
 
 ## Resources
 

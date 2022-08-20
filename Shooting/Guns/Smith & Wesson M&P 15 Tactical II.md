@@ -23,19 +23,43 @@
 
 <table>
   <tr>
-    <th>Caliber</th>
-    <td>5.56mm NATO/.223</td>
+    <th>SKU</th>
+    <td>13492</td>
   </tr>
   <tr>
-    <th>Length</th>
-    <td>36.9" / 93.7 cm</td>
+    <th>Caliber</th>
+    <td>5.56mm NATO/.223</td>
   </tr>
   <tr>
     <th>Sights</th>
     <td>Magpul MBUS</td>
   </tr>
   <tr>
-    <th>Actiob</th>
+    <th>Length (Extended)</th>
+    <td>36.9 in / 93.7 cm</td>
+  </tr>
+  <tr>
+    <th>Length (Collapsed)</th>
+    <td>33.5 in / 85.1 cm</td>
+  </tr>
+  <tr>
+    <th>Width</th>
+    <td>2.75 in / 7.0 cm</td>
+  </tr>
+  <tr>
+    <th>Height</th>
+    <td>8.5 in / 21.6 cm</td>
+  </tr>
+  <tr>
+    <th>Barrel Length</th>
+    <td>16 in / 40.6 cm</td>
+  </tr>
+  <tr>
+    <th>Weight</th>
+    <td>106.4 oz / 6.65 lbs / 3016.4 g</td>
+  </tr>
+  <tr>
+    <th>Action</th>
     <td>Gas Operated Semi-Auto</td>
   </tr>
   <tr>
@@ -51,20 +75,28 @@
     <td>4140 Chrome-Moly Vanadium Steel</td>
   </tr>
   <tr>
-    <th>Barrel Twist</th>
-    <td>1:8˝ Twist, 5R Rifling</td>
+    <th>Barrel Finish</th>
+    <td>Armornite</td>
   </tr>
   <tr>
-    <th>Barrel Length</th>
-    <td>16" / 40.6 cm</td>
+    <th>Barrel Twist/Rifling</th>
+    <td>1:8" Twist, 5R Rifling</td>
   </tr>
   <tr>
-    <th>Weight</th>
-    <td>106.4 oz / 3016.4 g</td>
+    <th>Receiver Material</th>
+    <td>7075 Aluminium</td>
   </tr>
   <tr>
-    <th>SKU</th>
-    <td>13492</td>
+    <th>Receiver Finish</th>
+    <td>Matte Black</td>
+  </tr>
+  <tr>
+    <th>Length of Pull</th>
+    <td>10.25 - 13.75 in / 26.0 - 34.9 cm</td>
+  </tr>
+  <tr>
+    <th>UPC Code</th>
+    <td>022188887563</td>
   </tr>
 </table>
 
