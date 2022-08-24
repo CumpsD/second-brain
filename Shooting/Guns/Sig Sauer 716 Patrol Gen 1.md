@@ -26,6 +26,9 @@ Lengte 91cm -->
 ## Pictures
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/sig-716-patrol/gun1.jpg "a")
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/sig-716-patrol/gun2.mp4 "a")
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/sig-716-patrol/gun3.mp4 "a")
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/sig-716-patrol/gun4.mp4 "a")
+
+## Videos
+
+* [Gun Overview 1](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/sig-716-patrol/gun2.mp4)
+* [Gun Overview 2](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/sig-716-patrol/gun3.mp4)
+* [Gun Overview 3](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/sig-716-patrol/gun4.mp4)
