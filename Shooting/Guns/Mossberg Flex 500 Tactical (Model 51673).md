@@ -1,5 +1,10 @@
 # Mossberg Flex 500 Tactical (Model 51673)
 
+<!--
+EUR 780
+SN
+-->
+
 ## About
 
 ## Specifications

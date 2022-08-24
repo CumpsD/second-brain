@@ -1,5 +1,10 @@
 # Smith & Wesson M&P 15 Tactical II
 
+<!--
+EUR 1860
+SN  TT89793
+-->
+
 ## About
 
 [Smith & Wesson M&P 15 Tactical II](https://www.smith-wesson.com/product/mp-15?sku=13492)
@@ -28,7 +33,7 @@
   </tr>
   <tr>
     <th>Caliber</th>
-    <td>5.56mm NATO/.223</td>
+    <td>5.56mm NATO / .223</td>
   </tr>
   <tr>
     <th>Sights</th>

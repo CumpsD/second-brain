@@ -1,5 +1,10 @@
 # Sig Sauer P226 Legion
 
+<!--
+EUR 2199
+SN  47C020486
+-->
+
 ## About
 
 [Sig Sauer P226 Legion Full-Size](https://www.sigsauer.com/p226-legion-full-size.html) ([Wikipedia](https://en.wikipedia.org/wiki/SIG_Sauer_P226))
