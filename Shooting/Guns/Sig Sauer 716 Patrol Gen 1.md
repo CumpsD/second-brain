@@ -16,7 +16,7 @@ SN  22F000612
   </tr>
   <tr>
     <th>Caliber</th>
-    <td>.308win</td>
+    <td>7.62x51mm NATO / .308win</td>
   </tr>
 </table>
 

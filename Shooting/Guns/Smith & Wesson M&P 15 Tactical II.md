@@ -33,7 +33,7 @@ SN  TT89793
   </tr>
   <tr>
     <th>Caliber</th>
-    <td>5.56mm NATO / .223</td>
+    <td>5.56x45mm NATO / .223</td>
   </tr>
   <tr>
     <th>Sights</th>
@@ -107,6 +107,8 @@ SN  TT89793
 
 ## Pictures
 
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun4.png "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun5.png "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun1.png "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun2.png "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun3.png "a")
