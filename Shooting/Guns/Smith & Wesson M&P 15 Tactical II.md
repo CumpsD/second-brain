@@ -107,8 +107,8 @@ SN  TT89793
 
 ## Pictures
 
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun4.png "a")
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun5.png "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun4.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun5.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun1.png "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun2.png "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun3.png "a")
