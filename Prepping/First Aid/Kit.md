@@ -2,7 +2,7 @@
 
 ## Boo-Boo
 
-* Nitrile Gloves
+* [Nitrile Gloves](https://www.narescue.com/bear-claw-glove-kit.html)
 
 * Antiseptic Wipes (Alcohol wipes)
 * Antiseptic Spray
@@ -13,7 +13,7 @@
 * Elastic Bandage
 * Medical Tape
 
-* Paracetamol (Mild Blood Thinner)
+* Paracetamol (Light Pain Relief)
 * Itch Relief Wipes & Sting Relief
 * Allergies (Benadryl, tablets and cream)
 * Neosporin (antibiotica cream for cuts)
@@ -31,11 +31,13 @@
 * Paper Towels
 
 * [Leatherman Raptor Shears](https://www.leatherman.com/raptor-rescue-51.html)
-* Leatherman Multi tool
-* Tweezers
+* [Leatherman Multi-Tool](https://www.leatherman.com/charge-tti-7.html)
+* [Tweezers](https://www.tweezerman.com/shop-by-product/tweezers.html)
 * Razor
 * Thermometer
 * Blood pressure monitor
+* Chemlights
+* Lighter
 
 * Heat Packs
 * Thermal Blanket
@@ -46,14 +48,15 @@
 
 ### Overview
 
-* Nitrile Gloves
+* [Nitrile Gloves](https://www.narescue.com/bear-claw-glove-kit.html)
 * [Leatherman Raptor Shears](https://www.leatherman.com/raptor-rescue-51.html)
 
-* CAT Gen 7 Tourniquet
-* QuikClot Hemostatic Combat Gauze
+* [CAT Gen 7 Tourniquet](https://www.narescue.com/combat-application-tourniquet-c-a-t.html)
+* [QuikClot Hemostatic Combat Gauze](https://quikclot.com/QuikClotProducts/QuikClot-EMS-Starter-Pack.htm)
 * Israeli Bandage Battle Dressing
-* NAR HyFin Vent Chest Seal (2)
-* SAM Splint
+* [NAR HyFin Vent Chest Seal](https://www.narescue.com/hyfin-vent-chest-seal-twin-pack.html)
+* [SAM Splint](https://www.sammedical.com/products/sam-splint)
+* [Burn Dressing](https://www.narescue.com/burntec-dressing.html)
 
 * Heat Packs
 * Emergency Thermal Blanket
@@ -64,9 +67,9 @@
 
 * CPR Face Mask
 
-* Headlamp
-* Leatherman Multi tool
-* Hokena LED Road Flares (5)
+* [Fenix Headlamp](https://www.fenixlight.com/product/detail/index.php?id=169) + [Battery](https://www.fenixlight.com/product/detail/index.php?id=112)
+* [Leatherman Multi-Tool](https://www.leatherman.com/charge-tti-7.html)
+* [Hokena LED Road Flares](https://hokena.com/led-flares-5-pack/)
 * Window Breaker
 * Whistle
 
@@ -74,8 +77,8 @@
 * Ducktape
 * Paper Towels
 
-* Rite in Rain Pen
-* Rite in Rain Paper
+* [Rite in Rain Pen](https://www.riteintherain.com/all-weather-pens)
+* [Rite in Rain Paper](https://www.riteintherain.com/top-spiral-notebooks)
 
 * Bottled Water
 * Liquid Soap (Antibacterial Alcohol-based Hand Wash)
@@ -88,6 +91,10 @@
 
 ### Range Kit
 
+## Resources
+
+* https://www.narescue.com/
+* https://www.sammedical.com/
 * https://www.pewpewtactical.com/edc-medical-kits
 * https://www.pewpewtactical.com/med-kits-most-important-thing-range/
 * https://www.pewpewtactical.com/best-ifak-pouches-kits/
