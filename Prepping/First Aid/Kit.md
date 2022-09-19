@@ -12,6 +12,7 @@
 * Lots of Band-Aids
 * Elastic Bandage
 * Medical Tape
+* [OPSITE Wound Care Film](https://www.smith-nephew.com/professional/products/advanced-wound-management/opsite/opsite-flexifix/) & [OPSITE Wound Care Sensitive Film](https://www.smith-nephew.com/australia/healthcare/products/product-types/film-dressings/opsite-flexifix-gentle/)
 
 * Paracetamol (Light Pain Relief)
 * Itch Relief Wipes & Sting Relief
@@ -20,14 +21,15 @@
 * Burn gel with 2% lidocaine (Water Jel Burn Gel)
 * Instant Cold / Ice Pack
 * Buffered Sterile Ophthalmic Solution Eyewash
+* [Various Compeed Patches](https://www.compeed.be/) (Blister Patches)
 
-* Aluminum Roll Splint
+* [SAM Splint](https://www.sammedical.com/products/sam-splint)
 * Splints & Braces
 
 * Sunscreen 50
 * Glucose Gel (Glutose 15)
 * Bottled Water
-* Sharpie
+* [Sharpies](https://www.sharpie.com/)
 * Paper Towels
 
 * [Leatherman Raptor Shears](https://www.leatherman.com/raptor-rescue-51.html)
@@ -36,10 +38,11 @@
 * Razor
 * Thermometer
 * Blood pressure monitor
-* Chemlights
+* [ChemLights](https://www.cyalume.eu/en/cyalume-lightsticks-chemlight-snaplight-glowsticks/lightsticks-and-lighting-markers/) ([15cm](https://www.cyalume.eu/en/cyalume-lightsticks-chemlight-snaplight-glowsticks/lightsticks-and-lighting-markers/6-inch-chemlight-15cm-light-stick/) & [40cm Impact](https://www.cyalume.eu/en/cyalume-lightsticks-chemlight-snaplight-glowsticks/lightsticks-and-lighting-markers/15inch-impact-lightstick-40cm/))
 * Lighter
+* Zip Ties
 
-* Heat Packs
+* [Heat Packs](https://www.thermopad.eu/)
 * Thermal Blanket
 
 * Silica Gel Packets
@@ -58,22 +61,24 @@
 * [SAM Splint](https://www.sammedical.com/products/sam-splint)
 * [Burn Dressing](https://www.narescue.com/burntec-dressing.html)
 
-* Heat Packs
+* [Heat Packs](https://www.thermopad.eu/)
 * Emergency Thermal Blanket
 
 * Big Band-Aids
 * Regular Gauze
 * Medical Tape
+* [OPSITE Wound Care Film](https://www.smith-nephew.com/professional/products/advanced-wound-management/opsite/opsite-flexifix/) & [OPSITE Wound Care Sensitive Film](https://www.smith-nephew.com/australia/healthcare/products/product-types/film-dressings/opsite-flexifix-gentle/)
 
 * CPR Face Mask
 
 * [Fenix Headlamp](https://www.fenixlight.com/product/detail/index.php?id=169) + [Battery](https://www.fenixlight.com/product/detail/index.php?id=112)
 * [Leatherman Multi-Tool](https://www.leatherman.com/charge-tti-7.html)
 * [Hokena LED Road Flares](https://hokena.com/led-flares-5-pack/)
+* [ChemLights](https://www.cyalume.eu/en/cyalume-lightsticks-chemlight-snaplight-glowsticks/lightsticks-and-lighting-markers/) ([15cm](https://www.cyalume.eu/en/cyalume-lightsticks-chemlight-snaplight-glowsticks/lightsticks-and-lighting-markers/6-inch-chemlight-15cm-light-stick/) & [40cm Impact](https://www.cyalume.eu/en/cyalume-lightsticks-chemlight-snaplight-glowsticks/lightsticks-and-lighting-markers/15inch-impact-lightstick-40cm/))
 * Window Breaker
 * Whistle
 
-* Sharpie
+* [Sharpies](https://www.sharpie.com/)
 * Ducktape
 * Paper Towels
 
@@ -108,3 +113,7 @@
 * https://www.outdoorgearlab.com/reviews/camping-and-hiking/first-aid-kit/surviveware-small
 * https://www.outdoorgearlab.com/reviews/camping-and-hiking/first-aid-kit/mymedic-myfak
 * https://www.realfirstaid.co.uk/medicbags/
+* https://surviveware.com/products/survival-first-aid-kit
+* https://surviveware.com/products/trauma-first-aid-kit
+* https://surviveware.com/products/waterproof-first-aid-kit
+* https://surviveware.com/collections/all/products/responder-72-hr-backpack
