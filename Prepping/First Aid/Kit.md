@@ -36,8 +36,8 @@
 * [Leatherman Multi-Tool](https://www.leatherman.com/charge-tti-7.html)
 * [Tweezers](https://www.tweezerman.com/shop-by-product/tweezers.html)
 * Razor
-* Thermometer
-* Blood pressure monitor
+* [Thermometer](https://www.withings.com/us/en/thermo)
+* [Blood pressure monitor](https://www.withings.com/us/en/blood-pressure-monitors)
 * [ChemLights](https://www.cyalume.eu/en/cyalume-lightsticks-chemlight-snaplight-glowsticks/lightsticks-and-lighting-markers/) ([15cm](https://www.cyalume.eu/en/cyalume-lightsticks-chemlight-snaplight-glowsticks/lightsticks-and-lighting-markers/6-inch-chemlight-15cm-light-stick/) & [40cm Impact](https://www.cyalume.eu/en/cyalume-lightsticks-chemlight-snaplight-glowsticks/lightsticks-and-lighting-markers/15inch-impact-lightstick-40cm/))
 * Lighter
 * Zip Ties
@@ -56,7 +56,7 @@
 
 * [CAT Gen 7 Tourniquet](https://www.narescue.com/combat-application-tourniquet-c-a-t.html)
 * [QuikClot Hemostatic Combat Gauze](https://quikclot.com/QuikClotProducts/QuikClot-EMS-Starter-Pack.htm)
-* Israeli Bandage Battle Dressing
+* [Israeli Bandage Battle Dressing](https://persysmedical.com/products/hemorrhage-control/4-emergency-bandage-green/)
 * [NAR HyFin Vent Chest Seal](https://www.narescue.com/hyfin-vent-chest-seal-twin-pack.html)
 * [SAM Splint](https://www.sammedical.com/products/sam-splint)
 * [Burn Dressing](https://www.narescue.com/burntec-dressing.html)
@@ -69,7 +69,7 @@
 * Medical Tape
 * [OPSITE Wound Care Film](https://www.smith-nephew.com/professional/products/advanced-wound-management/opsite/opsite-flexifix/) & [OPSITE Wound Care Sensitive Film](https://www.smith-nephew.com/australia/healthcare/products/product-types/film-dressings/opsite-flexifix-gentle/)
 
-* CPR Face Mask
+* [CPR Face Mask](https://www.pharmacar.be/cpr-pocket-face-mask)
 
 * [Fenix Headlamp](https://www.fenixlight.com/product/detail/index.php?id=169) + [Battery](https://www.fenixlight.com/product/detail/index.php?id=112)
 * [Leatherman Multi-Tool](https://www.leatherman.com/charge-tti-7.html)
@@ -79,7 +79,7 @@
 * Whistle
 
 * [Sharpies](https://www.sharpie.com/)
-* Ducktape
+* [Duct Tape](https://www.shurtape.com/types/cloth-duct/general-purpose-duct/)
 * Paper Towels
 
 * [Rite in Rain Pen](https://www.riteintherain.com/all-weather-pens)

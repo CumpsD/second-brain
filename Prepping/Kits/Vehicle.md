@@ -1,4 +1,4 @@
-# Car Kit
+# Vehicle Emergency Kit
 
 * Motor Oil
 * Multimeter
@@ -8,3 +8,15 @@
 * [Storacell Battery Holders](https://storacell.net/)
 * Ducttape Outdoor Heavy Duty
 * Knipex Twinkey
+* Dashcam
+* Swiffer
+* Knife
+* Tactical Pen
+* Charger Cables
+* Powerbank
+* Baseball Bat
+* Axe
+* Battery Starter
+* Battery Charger
+* Flashlight
+* Scissors
