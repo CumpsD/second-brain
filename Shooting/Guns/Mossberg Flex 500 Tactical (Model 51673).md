@@ -2,7 +2,7 @@
 
 <!--
 EUR 780
-SN
+SN U353348
 -->
 
 ## About
@@ -15,12 +15,16 @@ SN
     <td>12 Gauge</td>
   </tr>
   <tr>
+    <th>Length</th>
+    <td>40.9 in / 104.0 cm</td>
+  </tr>
+  <tr>
     <th>Barrel Length</th>
-    <td>??"</td>
+   <td>20 in / 51.0 cm</td>
   </tr>
   <tr>
     <th>Capacity</th>
-    <td>5+1</td>
+    <td>5 + 1</td>
   </tr>
   <tr>
     <th>Sights</th>

@@ -2,7 +2,7 @@
 
 <!--
 EUR 1203
-SN
+SN 912-93255
 -->
 
 ## About
@@ -85,6 +85,10 @@ _The receiver-mounted, Picatinny-style rail is designed to accommodate most opti
   <tr>
     <th>Length of Pull</th>
     <td>10.50 - 13.75 in / 26.67 - 34.93 cm</td>
+  </tr>
+  <tr>
+    <th>Capacity</th>
+    <td>10 (Legal Limit)</td>
   </tr>
   <tr>
     <th>UPC Code</th>
