@@ -23,3 +23,5 @@
 | Men Socks | [Smartwool | Mountaineer Classic Edition Maximum Cushion Crew Socks](https://www.smartwool.com/shop/mens-wool-socks/mountaineer-classic-edition-maximum-cushion-crew-socks-sw013300?variationId=003) |
 | Kids Socks | [Smartwool | Kids' Wintersport Full Cushion Polar Bear Pattern Over The Calf Socks](https://www.smartwool.com/shop/kids-wool-socks/kids-wintersport-full-cushion-polar-bear-pattern-over-the-calf-socks-sw001816?variationId=G74) |
 | Kids Socks | [Smartwool | Kids' Wintersport Full Cushion Yeti Pattern Over The Calf Socks](https://www.smartwool.com/shop/kids-wool-socks/kids-wintersport-full-cushion-yeti-pattern-over-the-calf-socks-sw001818?variationId=001) |
+| Foot Warmer | [Thermopad | Foot Warmer XL / S](https://www.thermopad.eu/footwarmer/) |
+| Toe Warmer | [Thermopad | Toe Warmer](https://www.thermopad.eu/toewarmer/) |
