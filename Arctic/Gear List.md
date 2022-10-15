@@ -12,6 +12,10 @@
 | Men Pants | [Icebreaker - Men's Cool-Lite Merino Anatomica Boxers](https://www.icebreaker.com/en-be/mens-underwear/cool-lite-merino-anatomica-boxers/105246E2.html?dwvar_105246E2_color=034&dwvar_105246E2_EU=in_line) |
 | Men Top | [Icebreaker - Men's Merino Anatomica Tank Top](https://www.icebreaker.com/en-be/mens-underwear/merino-anatomica-tank-top/103034E2.html?dwvar_103034E2_color=001&dwvar_103034E2_EU=in_line) |
 | Men Top | [Icebreaker - Men's Merino Anatomica Short Sleeve Crew T-Shirt](https://www.icebreaker.com/en-be/mens-underwear/merino-anatomica-short-sleeve-crewe-t-shirt/103033E2.html?dwvar_103033E2_color=580&dwvar_103033E2_EU=in_line) |
+| Kids Pants | [Hust & Claire - Fiella - Underbukser](https://www.hustandclaire.com/en/vare/28061-woolsilk-fiella-underbukser) |
+| Kids Pants | [Hust & Claire - Lin - Leggings](https://www.hustandclaire.com/en/vare/28064-woolsilk-lin-leggings) |
+| Kids Top | [Hust & Claire - Fie - Top](https://www.hustandclaire.com/en/vare/28060-woolsilk-fie-top) |
+| Kids Top | [Hust & Claire - Allie - Nattøj](https://www.hustandclaire.com/en/vare/28068-woolsilk-allie-nattoej) |
 
 ## Base Layer
 
