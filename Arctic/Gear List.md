@@ -47,7 +47,9 @@
 | Item | Link |
 | --- | --- |
 | Women Top | [Patagonia - Women's Micro Puff Jacket](https://eu.patagonia.com/be/en/product/womens-micro-puff-jacket/84071.html?dwvar_84071_color=BLK) |
+| Women Top | [Mammut - Albula IN Hybrid Jacket Women](https://www.mammut.com/eu/en/products/1013-02011-0001/albula-in-hybrid-jacket-women) |
 | Women Top | [Patagonia - Women's R2 TechFace Jacket](https://eu.patagonia.com/be/en/product/womens-r2-techface-jacket/83630.html?dwvar_83630_color=BLK&cgid=womens-fleece-technical) |
+| Women Top | [Mammut - Taiss Light ML Jacket Women](https://www.mammut.com/eu/en/products/1014-04560-0243/taiss-light-ml-jacket-women) |
 | Women Pants | [Patagonia - Women's R2 TechFace Pants](https://eu.patagonia.com/be/en/product/womens-r2-techface-pants/83740.html?dwvar_83740_color=FGE&cgid=womens-pants-jeans) |
 | Men Top | [Patagonia - Men's Micro Puff Jacket](https://eu.patagonia.com/be/en/product/mens-micro-puff-jacket/84066.html?dwvar_84066_color=CGLD&cgid=mens-jackets-vests-insulated) |
 | Men Pants | [Patagonia - Men's R2 TechFace Pants](https://eu.patagonia.com/be/en/product/mens-r2-techface-pants/83690.html?dwvar_83690_color=FGE&cgid=mens-new-pants-jeans) |
@@ -60,6 +62,8 @@
 
 | Item | Link |
 | --- | --- |
+| Women Top | [PeakPerformance - Vislight Gore-Tex Pro Jacket Women](https://www.peakperformance.com/be/en/product/w-vislight-gore-tex-pro-jacket-g77644.html#color=55188&size=42077) |
+| Women Pants | [Patagonia - Women's Triolet Pants](https://eu.patagonia.com/be/en/product/womens-triolet-pants-for-alpine-climbing/83221.html?dwvar_83221_color=BLK&cgid=womens-pants-jeans) |
 | Men Top | [Patagonia - Men's Micro Puff Storm Jacket](https://eu.patagonia.com/be/en/product/mens-micro-puff-storm-jacket/31715.html?dwvar_31715_color=BSNG) |
 | Kids Top | [Patagonia - Girls' Everyday Ready Jacket](https://eu.patagonia.com/be/en/product/girls-everyday-ready-jacket/68080.html?dwvar_68080_color=SFPI) |
 | Kids Pants | [Patagonia - Girls' Snowbelle Pants](https://eu.patagonia.com/be/en/product/girls-snowbelle-ski-snowboard-pants/68495.html?dwvar_68495_color=AMH) |
