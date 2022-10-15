@@ -14,8 +14,10 @@
 | Men Top | [Icebreaker - Men's Merino Anatomica Short Sleeve Crew T-Shirt](https://www.icebreaker.com/en-be/mens-underwear/merino-anatomica-short-sleeve-crewe-t-shirt/103033E2.html?dwvar_103033E2_color=580&dwvar_103033E2_EU=in_line) |
 | Kids Pants | [Hust & Claire - Fiella - Underbukser](https://www.hustandclaire.com/en/vare/28061-woolsilk-fiella-underbukser) |
 | Kids Pants | [Hust & Claire - Lin - Leggings](https://www.hustandclaire.com/en/vare/28064-woolsilk-lin-leggings) |
+| Kids Pants | [Joha - Kid's 4044 Hipster - Merino base layer](https://www.bergfreunde.eu/joha-kids-4044-hipster-merino-base-layer/) |
 | Kids Top | [Hust & Claire - Fie - Top](https://www.hustandclaire.com/en/vare/28060-woolsilk-fie-top) |
 | Kids Top | [Hust & Claire - Allie - Nattøj](https://www.hustandclaire.com/en/vare/28068-woolsilk-allie-nattoej) |
+| Kids Top | [Joha - Kid's 4044 Undershirt - Merino base layer](https://www.hustandclaire.com/en/vare/28068-woolsilk-allie-nattoej) |
 
 ## Base Layer
 
