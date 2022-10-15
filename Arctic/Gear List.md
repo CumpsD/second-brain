@@ -92,6 +92,7 @@
 | Item | Link |
 | --- | --- |
 | Adult Liner | [Icebreaker - Unisex 200 Oasis Glove Liners van merinowol](https://www.icebreaker.com/nl-be/mens-gloves/200-oasis-glove-liners-van-merinowol%C2%A0/IBM207E2.html?dwvar_IBM207E2_color=001&dwvar_IBM207E2_EU=in_line) |
+| Hand Warmer | [Thermopad - Hand Warmer](https://www.thermopad.eu/handwarmer/) |
 
 ## Hats & Neck
 
