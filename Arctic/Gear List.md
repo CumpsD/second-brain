@@ -26,8 +26,8 @@
 | Men Top | [Icebreaker - Heren 260 Tech thermische top met lange mouwen en halve rits van merinowol](https://www.icebreaker.com/nl-be/mens-baselayers/260-tech-thermische-top-met-lange-mouwen-en-halve-rits-van-merinowol%C2%A0/104372E2.html?dwvar_104372E2_color=001&dwvar_104372E2_EU=in_line) |
 | Kids Pants | [Icebreaker - Kinderen 260 Tech legging](https://www.icebreaker.com/nl-be/kids-tops-bottoms/260-tech-legging/104500E2.html?dwvar_104500E2_color=001&dwvar_104500E2_EU=in_line) |
 | Kids Top | [Icebreaker - Kinderen 260 Tech top met lange mouwen en halve rits](https://www.icebreaker.com/nl-be/kids-tops-bottoms/260-tech-top-met-lange-mouwen-en-halve-rits/104499E2.html?dwvar_104499E2_color=059&dwvar_104499E2_EU=in_line) |
-| Kids Pants | [North Outdoor - Sensitive 225 Youth Base Layer Merino Pants - grey melange | salmon](https://northoutdoor.eu/collections/kids/products/sensitive-225-youth-base-layer-merino-pants-grey-melange-salmon?_pos=1&_fid=00be7c36e&_ss=c) |
-| Kids Top | [North Outdoor - Sensitive 225 Youth Merino Zip Shirt - grey melange | salmon](https://northoutdoor.eu/collections/kids/products/sensitive-225-youth-merino-zip-shirt-grey-melange-salmon?_pos=3&_fid=00be7c36e&_ss=c) |
+| Kids Pants | [North Outdoor - Sensitive 225 Youth Base Layer Merino Pants - grey melange/salmon](https://northoutdoor.eu/collections/kids/products/sensitive-225-youth-base-layer-merino-pants-grey-melange-salmon?_pos=1&_fid=00be7c36e&_ss=c) |
+| Kids Top | [North Outdoor - Sensitive 225 Youth Merino Zip Shirt - grey melange/salmon](https://northoutdoor.eu/collections/kids/products/sensitive-225-youth-merino-zip-shirt-grey-melange-salmon?_pos=3&_fid=00be7c36e&_ss=c) |
 
 
 ## First Layers
