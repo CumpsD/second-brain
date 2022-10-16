@@ -31,8 +31,8 @@
 | Men Pants | [Icebreaker - Heren 260 Tech thermische legging van merinowol](https://www.icebreaker.com/nl-be/mens-baselayers/260-tech-thermische-legging-van-merinowol%C2%A0/104373E2.html?dwvar_104373E2_color=001&dwvar_104373E2_EU=in_line) |
 | Men Pants | [Icebreaker - Heren 260 Tech thermische legging met gulp van merinowol](https://www.icebreaker.com/nl-be/mens-baselayers/260-tech-thermische-legging-met-gulp-van-merinowol%C2%A0/104374E2.html?dwvar_104374E2_color=001&dwvar_104374E2_EU=in_line) |
 | Kids Top | [Icebreaker - Kinderen 260 Tech top met lange mouwen en halve rits](https://www.icebreaker.com/nl-be/kids-tops-bottoms/260-tech-top-met-lange-mouwen-en-halve-rits/104499E2.html?dwvar_104499E2_color=059&dwvar_104499E2_EU=in_line) |
-| Kids Pants | [Icebreaker - Kinderen 260 Tech legging](https://www.icebreaker.com/nl-be/kids-tops-bottoms/260-tech-legging/104500E2.html?dwvar_104500E2_color=001&dwvar_104500E2_EU=in_line) |
 | Kids Top | [North Outdoor - Sensitive 225 Youth Merino Zip Shirt - grey melange/salmon](https://northoutdoor.eu/collections/kids/products/sensitive-225-youth-merino-zip-shirt-grey-melange-salmon?_pos=3&_fid=00be7c36e&_ss=c) |
+| Kids Pants | [Icebreaker - Kinderen 260 Tech legging](https://www.icebreaker.com/nl-be/kids-tops-bottoms/260-tech-legging/104500E2.html?dwvar_104500E2_color=001&dwvar_104500E2_EU=in_line) |
 | Kids Pants | [North Outdoor - Sensitive 225 Youth Base Layer Merino Pants - grey melange/salmon](https://northoutdoor.eu/collections/kids/products/sensitive-225-youth-base-layer-merino-pants-grey-melange-salmon?_pos=1&_fid=00be7c36e&_ss=c) |
 
 ## First Layers
@@ -44,6 +44,7 @@
 | Women Pants | [Patagonia - Women's R1 Daily Bottoms](https://eu.patagonia.com/be/en/product/womens-r1-daily-bottoms/40545.html?dwvar_40545_color=INBX&cgid=womens-pants-jeans) |
 | Men Shirt | [Patagonia - Men's Long-Sleeved Capilene Cool Merino Graphic Shirt](https://eu.patagonia.com/be/en/product/mens-long-sleeved-capilene-cool-merino-graphic-shirt/44585.html?dwvar_44585_color=FFBA) |
 | Men Pants | [Patagonia - Men's R1 Fleece Pants](https://eu.patagonia.com/be/en/product/mens-r1-fleece-pants/82156.html?dwvar_82156_color=FGE&cgid=mens-pants-jeans-casual) |
+| Kids Shirt | [Patagonia - Girls' Long-Sleeved Capilene Cool Daily T-Shirt](https://eu.patagonia.com/be/en/product/girls-long-sleeved-capilene-cool-daily-t-shirt/62400.html?dwvar_62400_color=AIMP&cgid=web-specials-kids) |
 | Kids Top | [Patagonia - Kids' Retro Pile Fleece Jacket](https://eu.patagonia.com/be/en/product/kids-retro-pile-fleece-jacket/192964063259.html) |
 | Kids Top | [North Outdoor - All Day 260 Youth Merino Hoodie - lilac melange](https://northoutdoor.eu/products/all-day-260-youth-merino-hoodie-lilac-melange) |
 
