@@ -47,6 +47,7 @@
 | Kids Shirt | [Patagonia - Girls' Long-Sleeved Capilene Cool Daily T-Shirt](https://eu.patagonia.com/be/en/product/girls-long-sleeved-capilene-cool-daily-t-shirt/62400.html?dwvar_62400_color=AIMP&cgid=web-specials-kids) |
 | Kids Top | [Patagonia - Kids' Retro Pile Fleece Jacket](https://eu.patagonia.com/be/en/product/kids-retro-pile-fleece-jacket/192964063259.html) |
 | Kids Top | [North Outdoor - All Day 260 Youth Merino Hoodie - lilac melange](https://northoutdoor.eu/products/all-day-260-youth-merino-hoodie-lilac-melange) |
+| Kids Pants | [Patagonia - Kids' Micro D Fleece Joggers](https://eu.patagonia.com/be/en/product/kids-micro-d-fleece-joggers/66700.html?dwvar_66700_color=NENA&cgid=kids-big-kids) |
 
 ## Mid Layers
 
@@ -60,7 +61,6 @@
 | Men Top | [Patagonia - Men's Micro Puff Jacket](https://eu.patagonia.com/be/en/product/mens-micro-puff-jacket/84066.html?dwvar_84066_color=CGLD&cgid=mens-jackets-vests-insulated) |
 | Men Pants | [Patagonia - Men's R2 TechFace Pants](https://eu.patagonia.com/be/en/product/mens-r2-techface-pants/83690.html?dwvar_83690_color=FGE&cgid=mens-new-pants-jeans) |
 | Kids Top | [Patagonia - Girls' Nano Puff Jacket](https://eu.patagonia.com/be/en/product/girls-nano-puff-jacket/68006.html?dwvar_68006_color=LSPK&cgid=kids-big-kids) |
-| Kids Pants | [Patagonia - Kids' Micro D Fleece Joggers](https://eu.patagonia.com/be/en/product/kids-micro-d-fleece-joggers/66700.html?dwvar_66700_color=NENA&cgid=kids-big-kids) |
 | Kids Pants | [North Outdoor - Laavu 260 Youth Mid Layer Merino Pants - grey melange](https://northoutdoor.eu/collections/kids/products/laavu-260-youth-mid-layer-merino-pants-grey-melange?_pos=1&_fid=721c355f1&_ss=c) |
 | Kids Pants | [North Outdoor - All Day 260 Youth Merino Pants - dark navy melange](https://northoutdoor.eu/collections/kids/products/all-day-260-youth-merino-pants-dark-navy-melange?_pos=1&_fid=1a935fcd0&_ss=c) |
 
@@ -100,18 +100,19 @@
 | Item | Link |
 | --- | --- |
 | Adult Balaclava | [Icebreaker - Unisex Oasis bivakmuts](https://www.icebreaker.com/nl-be/hats-neckwear/oasis-bivakmuts/102739E2.html?dwvar_102739E2_color=001&dwvar_102739E2_EU=in_line) |
+| Women Hat | [Buff - Heavyweight Merino Wool Hat - Solid Black](https://www.asadventure.com/nl/p/buff-muts-heavyweight-merino-wool-hat-solid-3452D80014.html?colour=4168) |
+| Women Neck | [Buff - Polar - Solid Black](https://www.buff.com/nl_nl/fleece-col-buff-solid-black-black-130003999.html?size=16675) |
+| Men Hat | [Buff - Heavyweight Merino Wool Hat - Solid Grey](https://www.buff.com/es_ad/gorro-merino-heavyweight-buff-solid-grey-gris-111170937.html?size=16675) |
+| Men Hat | [Buff - Polar & EcoStretch - Solid Black](https://www.buff.com/fr_fr/bonnet-micro-polaire-buff-solid-black.html) |
+| Men Neck | [Buff - Merino Heavyweight Neck Warmer - Solid Denim](https://www.buff.com/bg/merino-heavyweight-neck-warmer-buff-solid-denim-stadr.html) |
+| Men Neck | [Buff - Polar Reversible - Urid Black](https://www.buff.com/nl_nl/reversible-fleece-col-buff-urid-black-black-129944999.html?size=16675) |
 | Kids Hat | [Buff - Knitted & Polar Beanie Kids - Sibylla Blossom](https://www.buff.com/en_eur/knitted-polar-beanie-kids-buff-sibylla-blossom-blossom-126473537.html?size=16675) |
-| Kids Buff Baselayer | [Buff - Original EcoStretch Neckwear - Cutis Light Pink](https://www.buff.com/gb/original-ecostretch-neckwear-buff-cutis-light-pink-light-pink-126934539.html?size=16675) |
-| Kids Buff | [Buff - Polar Neck Warmer Kids - Solid Black](https://www.buff.com/gb/polar-neck-warmer-kids-buff-solid-black-black-121646999.html?size=16675) |
+| Kids Neck | [Buff - Polar Neck Warmer Kids - Solid Black](https://www.buff.com/gb/polar-neck-warmer-kids-buff-solid-black-black-121646999.html?size=16675) |
+| Kids Neck Baselayer | [Buff - Polar Neckwear Kids - Cutis Light Pink](https://www.buff.com/us/polar-neckwear-kids-buff-clover-multi-light-pink-126942539.html?size=16675) |
 
 <!--
-buff muts polar thermal hat solid graphite black
-
-buff muts merino wool thermal hat buff solid grey - https://www.buff.com/gb/merino-heavyweight-beanie-buff-solid-grey-grey-113028937.html?size=16675 - Merino Heavyweight Beanie Solid Grey
-
-buff heavyweight merino wool solid denim - https://www.buff.com/gb/merino-heavyweight-beanie-buff-solid-denim-denim-113028788.html?size=16675 - Merino Heavyweight Beanie Solid Denim
-
-buff sjaal polar reversible urid black
-
-buff sjaal polar solid black - https://www.buff.com/gb/polar-multifunctional-neckwear-buff-solid-black-black-130003999.html?size=16675 Polar Multifunctional Neckwear - Solid Black
+TODO:
+Gloves Abby
+Shoes
+- https://www.bergfreunde.eu/kastinger-tolgur-winter-boots/
 -->
