@@ -100,6 +100,7 @@
 | Item | Link |
 | --- | --- |
 | Adult Balaclava | [Icebreaker - Unisex Oasis bivakmuts](https://www.icebreaker.com/nl-be/hats-neckwear/oasis-bivakmuts/102739E2.html?dwvar_102739E2_color=001&dwvar_102739E2_EU=in_line) |
+| Kids Hat | [Buff - Knitted & Polar Beanie Kids - Sibylla Blossom](https://www.buff.com/en_eur/knitted-polar-beanie-kids-buff-sibylla-blossom-blossom-126473537.html?size=16675) |
 | Kids Buff Baselayer | [Buff - Original EcoStretch Neckwear - Cutis Light Pink](https://www.buff.com/gb/original-ecostretch-neckwear-buff-cutis-light-pink-light-pink-126934539.html?size=16675) |
 | Kids Buff | [Buff - Polar Neck Warmer Kids - Solid Black](https://www.buff.com/gb/polar-neck-warmer-kids-buff-solid-black-black-121646999.html?size=16675) |
 
