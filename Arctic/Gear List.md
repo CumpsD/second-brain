@@ -43,7 +43,8 @@
 | Women Top | [Patagonia - Women's R1 TechFace Jacket](https://eu.patagonia.com/be/en/product/womens-r1-techface-jacket/83660.html?dwvar_83660_color=BLK&cgid=womens-fleece-technical) |
 | Women Pants | [Patagonia - Women's R1 Daily Bottoms](https://eu.patagonia.com/be/en/product/womens-r1-daily-bottoms/40545.html?dwvar_40545_color=INBX&cgid=womens-pants-jeans) |
 | Men Shirt | [Patagonia - Men's Long-Sleeved Capilene Cool Merino Graphic Shirt](https://eu.patagonia.com/be/en/product/mens-long-sleeved-capilene-cool-merino-graphic-shirt/44585.html?dwvar_44585_color=FFBA) |
-| Men Pants | [Patagonia - Men's R1 Fleece Pants](https://eu.patagonia.com/be/en/product/mens-r1-fleece-pants/82156.html?dwvar_82156_color=FGE&cgid=mens-pants-jeans-casual) |
+| Men Top | [Patagonia - Women's R1 TechFace Jacket](https://eu.patagonia.com/gb/en/product/mens-r1-regulator-fleece-pullover-hoody/40069.html) |
+| Men Pants | [Patagonia - Men's R1 Fleece Pullover Hoody](https://eu.patagonia.com/be/en/product/mens-r1-fleece-pants/82156.html?dwvar_82156_color=FGE&cgid=mens-pants-jeans-casual) |
 | Kids Shirt | [Patagonia - Girls' Long-Sleeved Capilene Cool Daily T-Shirt](https://eu.patagonia.com/be/en/product/girls-long-sleeved-capilene-cool-daily-t-shirt/62400.html?dwvar_62400_color=AIMP&cgid=web-specials-kids) |
 | Kids Top | [Patagonia - Kids' Retro Pile Fleece Jacket](https://eu.patagonia.com/be/en/product/kids-retro-pile-fleece-jacket/192964063259.html) |
 | Kids Top | [North Outdoor - All Day 260 Youth Merino Hoodie - lilac melange](https://northoutdoor.eu/products/all-day-260-youth-merino-hoodie-lilac-melange) |
@@ -59,6 +60,8 @@
 | Women Top | [Mammut - Taiss Light ML Jacket Women](https://www.mammut.com/eu/en/products/1014-04560-0243/taiss-light-ml-jacket-women) |
 | Women Pants | [Patagonia - Women's R2 TechFace Pants](https://eu.patagonia.com/be/en/product/womens-r2-techface-pants/83740.html?dwvar_83740_color=FGE&cgid=womens-pants-jeans) |
 | Men Top | [Patagonia - Men's Micro Puff Jacket](https://eu.patagonia.com/be/en/product/mens-micro-puff-jacket/84066.html?dwvar_84066_color=CGLD&cgid=mens-jackets-vests-insulated) |
+| Men Top | [Patagonia - Men's Nano-Air Jacket](https://www.patagonia.com/product/mens-nano-air-jacket/84252.html) |
+| Men Top | [Patagonia - Men's R2 Jacket](https://wornwear.patagonia.com/p/patagonia-ms-r2-jacket-mens/25139?color=BLK) |
 | Men Pants | [Patagonia - Men's R2 TechFace Pants](https://eu.patagonia.com/be/en/product/mens-r2-techface-pants/83690.html?dwvar_83690_color=FGE&cgid=mens-new-pants-jeans) |
 | Kids Top | [Patagonia - Girls' Nano Puff Jacket](https://eu.patagonia.com/be/en/product/girls-nano-puff-jacket/68006.html?dwvar_68006_color=LSPK&cgid=kids-big-kids) |
 | Kids Pants | [North Outdoor - Laavu 260 Youth Mid Layer Merino Pants - grey melange](https://northoutdoor.eu/collections/kids/products/laavu-260-youth-mid-layer-merino-pants-grey-melange?_pos=1&_fid=721c355f1&_ss=c) |
@@ -70,6 +73,7 @@
 | --- | --- |
 | Women Top | [PeakPerformance - Vislight Gore-Tex Pro Jacket Women](https://www.peakperformance.com/be/en/product/w-vislight-gore-tex-pro-jacket-g77644.html#color=55188&size=42077) |
 | Women Pants | [Patagonia - Women's Triolet Pants](https://eu.patagonia.com/be/en/product/womens-triolet-pants-for-alpine-climbing/83221.html?dwvar_83221_color=BLK&cgid=womens-pants-jeans) |
+| Men Top | [Patagonia - Men's Lone Mountain 3-in-1 Jacket](https://eu.patagonia.com/be/en/product/mens-lone-mountain-3-in-1-jacket/27840.html) |
 | Men Top | [Patagonia - Men's Micro Puff Storm Jacket](https://eu.patagonia.com/be/en/product/mens-micro-puff-storm-jacket/31715.html?dwvar_31715_color=BSNG) |
 | Kids Top | [Patagonia - Girls' Everyday Ready Jacket](https://eu.patagonia.com/be/en/product/girls-everyday-ready-jacket/68080.html?dwvar_68080_color=SFPI) |
 | Kids Pants | [Patagonia - Girls' Snowbelle Pants](https://eu.patagonia.com/be/en/product/girls-snowbelle-ski-snowboard-pants/68495.html?dwvar_68495_color=AMH) |
