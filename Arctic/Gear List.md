@@ -123,8 +123,9 @@ TODO:
 Shoes
 - https://www.bergfreunde.eu/kastinger-tolgur-winter-boots/
 
-David: https://meindl.de/product/nordkap-pro-gtx-en/?lang=en of https://meindl.de/product/narvik-gtx-en/?lang=en
+David: https://meindl.de/product/nordkap-pro-gtx-en/?lang=en
 Abby: https://meindl.de/product/calgary-junior-gtx-en/?lang=en
+Anne: https://meindl.de/product/civetta-lady-gtx-en-4/?lang=en
 -->
 
 ## Care
