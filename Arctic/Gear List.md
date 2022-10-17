@@ -76,7 +76,7 @@
 | Women Pants | [Patagonia - Women's Triolet Pants](https://eu.patagonia.com/be/en/product/womens-triolet-pants-for-alpine-climbing/83221.html?dwvar_83221_color=BLK&cgid=womens-pants-jeans) |
 | Men Top | [Patagonia - Men's Lone Mountain 3-in-1 Jacket](https://eu.patagonia.com/be/en/product/mens-lone-mountain-3-in-1-jacket/27840.html) |
 | Men Top | [Patagonia - Men's Micro Puff Storm Jacket](https://eu.patagonia.com/be/en/product/mens-micro-puff-storm-jacket/31715.html?dwvar_31715_color=BSNG) |
-| Kids Top | [Patagonia - Girls' Everyday Ready Jacket](https://eu.patagonia.com/be/en/product/girls-everyday-ready-jacket/68080.html?dwvar_68080_color=SFPI) |
+| Kids Top | [Patagonia - Girls' Everyday Ready Jacket](https://eu.patagonia.com/be/en/product/girls-everyday-ready-jacket/68080.html?dwvar_68080_color=NENA) |
 | Kids Pants | [Patagonia - Girls' Snowbelle Pants](https://eu.patagonia.com/be/en/product/girls-snowbelle-ski-snowboard-pants/68495.html?dwvar_68495_color=AMH) |
 
 ## Socks
@@ -98,6 +98,8 @@
 | --- | --- |
 | Adult Liner | [Icebreaker - Unisex 200 Oasis Glove Liners van merinowol](https://www.icebreaker.com/nl-be/mens-gloves/200-oasis-glove-liners-van-merinowol%C2%A0/IBM207E2.html?dwvar_IBM207E2_color=001&dwvar_IBM207E2_EU=in_line) |
 | Woman Gloves | [Snowlife - Lady Sophia DT Mitten](https://snowlife.ch/en/produkt/lady-sophia-dt-mitten-en/) |
+| Men Gloves | [Hestra - Army Leather Heli Ski GTX® + Gore grip technology](https://www.hestragloves.eu/army-leather-heli-ski-gtx-r-gore-grip-technology-black) + [Heli Ski Liner 5-finger](https://www.hestragloves.eu/heli-ski-liner-5-finger-offwhite) |
+| Kids Gloves | [Hestra - Army Leather Heli Ski Jr. 5-finger](https://www.hestragloves.eu/army-leather-heli-ski-jr-5-finger-royal-blue) |
 | Hand Warmer | [Thermopad - Hand Warmer](https://www.thermopad.eu/handwarmer/) |
 
 ## Hats & Neck
@@ -117,7 +119,14 @@
 
 <!--
 TODO:
-Gloves Abby
 Shoes
 - https://www.bergfreunde.eu/kastinger-tolgur-winter-boots/
+
+David: https://meindl.de/product/nordkap-pro-gtx-en/?lang=en of https://meindl.de/product/narvik-gtx-en/?lang=en
+Abby: https://meindl.de/product/calgary-junior-gtx-en/?lang=en
 -->
+
+## Care
+
+* [Meindl Shoes](https://meindl.de/service/care/?lang=en)
+* [Hestra Gloves](https://www.hestragloves.us/customer-service/frequently-asked-questions)
