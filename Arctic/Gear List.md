@@ -97,6 +97,7 @@
 | Item | Link |
 | --- | --- |
 | Adult Liner | [Icebreaker - Unisex 200 Oasis Glove Liners van merinowol](https://www.icebreaker.com/nl-be/mens-gloves/200-oasis-glove-liners-van-merinowol%C2%A0/IBM207E2.html?dwvar_IBM207E2_color=001&dwvar_IBM207E2_EU=in_line) |
+| Kids Liner | [Smartwool - Kids' Merino Glove](https://www.smartwool.com/shop/kid-accessories/kids-merino-150-glove-sw018042?variationId=001) |
 | Woman Gloves | [Snowlife - Lady Sophia DT Mitten](https://snowlife.ch/en/produkt/lady-sophia-dt-mitten-en/) |
 | Men Gloves | [Hestra - Army Leather Heli Ski GTX® + Gore grip technology](https://www.hestragloves.eu/army-leather-heli-ski-gtx-r-gore-grip-technology-black) + [Heli Ski Liner 5-finger](https://www.hestragloves.eu/heli-ski-liner-5-finger-offwhite) |
 | Kids Gloves | [Hestra - Army Leather Heli Ski Jr. 5-finger](https://www.hestragloves.eu/army-leather-heli-ski-jr-5-finger-royal-blue) |
