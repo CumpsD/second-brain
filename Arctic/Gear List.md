@@ -58,7 +58,6 @@
 | Women Top | [Patagonia - Women's Nano-Air Hoody](https://eu.patagonia.com/be/en/product/womens-nano-air-hoody/84267.html?dwvar_84267_color=SEQR) |
 | Women Top | [Patagonia - Women's R2 TechFace Jacket](https://eu.patagonia.com/be/en/product/womens-r2-techface-jacket/83630.html?dwvar_83630_color=BLK&cgid=womens-fleece-technical) |
 | Women Pants | [Patagonia - Women's R2 TechFace Pants](https://eu.patagonia.com/be/en/product/womens-r2-techface-pants/83740.html?dwvar_83740_color=FGE&cgid=womens-pants-jeans) |
-| Men Top | [Patagonia - Men's Micro Puff Jacket](https://eu.patagonia.com/be/en/product/mens-micro-puff-jacket/84066.html?dwvar_84066_color=CGLD&cgid=mens-jackets-vests-insulated) |
 | Men Top | [Patagonia - Men's Nano-Air Jacket](https://www.patagonia.com/product/mens-nano-air-jacket/84252.html) |
 | Men Top | [Patagonia - Men's R2 Jacket](https://wornwear.patagonia.com/p/patagonia-ms-r2-jacket-mens/25139?color=BLK) |
 | Men Pants | [Patagonia - Men's R2 TechFace Pants](https://eu.patagonia.com/be/en/product/mens-r2-techface-pants/83690.html?dwvar_83690_color=FGE&cgid=mens-new-pants-jeans) |
