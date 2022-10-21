@@ -40,8 +40,8 @@
 
 | Item | Link |
 | --- | --- |
-| Women Shirt | [Patagonia - Women's Long-Sleeved Capilene Cool Merino Graphic Shirt](https://eu.patagonia.com/be/en/product/womens-long-sleeved-capilene-cool-merino-graphic-shirt/44600.html?dwvar_44600_color=FFMA) |
-| Women Top | [Patagonia - Women's R1 TechFace Jacket](https://eu.patagonia.com/be/en/product/womens-r1-techface-jacket/83660.html?dwvar_83660_color=BLK&cgid=womens-fleece-technical) |
+| Women Shirt | [Patagonia - Women's Long-Sleeved Capilene Cool Merino Graphic Shirt](https://eu.patagonia.com/be/en/product/womens-long-sleeved-capilene-cool-merino-graphic-shirt/44600.html?dwvar_44600_color=FIDR) |
+| Women Top | [Patagonia - Women's R1 Air Zip-Neck](https://eu.patagonia.com/be/en/product/womens-r1-air-zip-neck-fleece/40250.html?dwvar_40250_color=SEQR) |
 | Women Pants | [Patagonia - Women's R1 Daily Bottoms](https://eu.patagonia.com/be/en/product/womens-r1-daily-bottoms/40545.html?dwvar_40545_color=INBX&cgid=womens-pants-jeans) |
 | Men Shirt | [Patagonia - Men's Long-Sleeved Capilene Cool Merino Graphic Shirt](https://eu.patagonia.com/be/en/product/mens-long-sleeved-capilene-cool-merino-graphic-shirt/44585.html?dwvar_44585_color=FFBA) |
 | Men Top | [Patagonia - Men's R1 Fleece Pullover Hoody](https://eu.patagonia.com/gb/en/product/mens-r1-regulator-fleece-pullover-hoody/40069.html) |
@@ -55,7 +55,7 @@
 
 | Item | Link |
 | --- | --- |
-| Women Top | [Patagonia - Women's Nano Puff Hoody](https://eu.patagonia.com/be/en/product/womens-nano-puff-hoody/84227.html?dwvar_84227_color=BLK) |
+| Women Top | [Patagonia - Women's Nano-Air Hoody](https://eu.patagonia.com/be/en/product/womens-nano-air-hoody/84267.html?dwvar_84267_color=SEQR) |
 | Women Top | [Patagonia - Women's R2 TechFace Jacket](https://eu.patagonia.com/be/en/product/womens-r2-techface-jacket/83630.html?dwvar_83630_color=BLK&cgid=womens-fleece-technical) |
 | Women Pants | [Patagonia - Women's R2 TechFace Pants](https://eu.patagonia.com/be/en/product/womens-r2-techface-pants/83740.html?dwvar_83740_color=FGE&cgid=womens-pants-jeans) |
 | Men Top | [Patagonia - Men's Micro Puff Jacket](https://eu.patagonia.com/be/en/product/mens-micro-puff-jacket/84066.html?dwvar_84066_color=CGLD&cgid=mens-jackets-vests-insulated) |
