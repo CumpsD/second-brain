@@ -43,7 +43,7 @@
 | Women Shirt | [Patagonia - Women's Long-Sleeved Capilene Cool Merino Graphic Shirt](https://eu.patagonia.com/be/en/product/womens-long-sleeved-capilene-cool-merino-graphic-shirt/44600.html?dwvar_44600_color=FIDR) |
 | Women Top | [Patagonia - Women's R1 Air Zip-Neck](https://eu.patagonia.com/be/en/product/womens-r1-air-zip-neck-fleece/40250.html?dwvar_40250_color=SEQR) |
 | Women Pants | [Patagonia - Women's R1 Daily Bottoms](https://eu.patagonia.com/be/en/product/womens-r1-daily-bottoms/40545.html?dwvar_40545_color=INBX&cgid=womens-pants-jeans) |
-| Men Shirt | [Patagonia - Men's Long-Sleeved Capilene Cool Merino Graphic Shirt](https://eu.patagonia.com/be/en/product/mens-long-sleeved-capilene-cool-merino-graphic-shirt/44585.html?dwvar_44585_color=FFBA) |
+| Men Shirt | [Patagonia - Men's Long-Sleeved Capilene Cool Merino Graphic Shirt](https://eu.patagonia.com/be/en/product/mens-long-sleeved-capilene-cool-merino-graphic-shirt/44585.html?dwvar_44585_color=FISR) |
 | Men Top | [Patagonia - Men's R1 Fleece Pullover Hoody](https://eu.patagonia.com/gb/en/product/mens-r1-regulator-fleece-pullover-hoody/40069.html) |
 | Men Pants | [Patagonia - Men's R1 Fleece Pants](https://eu.patagonia.com/be/en/product/mens-r1-fleece-pants/82156.html?dwvar_82156_color=FGE&cgid=mens-pants-jeans-casual) |
 | Kids Shirt | [Patagonia - Girls' Long-Sleeved Capilene Cool Daily T-Shirt](https://eu.patagonia.com/be/en/product/girls-long-sleeved-capilene-cool-daily-t-shirt/62400.html?dwvar_62400_color=AIMP&cgid=web-specials-kids) |
