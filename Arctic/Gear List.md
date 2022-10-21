@@ -73,6 +73,7 @@
 | Women Pants | [Patagonia - Women's Insulated Powder Town Pants - Regular](https://eu.patagonia.com/be/en/product/womens-insulated-powder-town-ski-snowboard-pants-regular/31185.html?dwvar_31185_color=BLK) |
 | Men Top | [Patagonia - Men's Lone Mountain 3-in-1 Jacket](https://eu.patagonia.com/be/en/product/mens-lone-mountain-3-in-1-jacket/27840.html) |
 | Men Top | [Patagonia - Men's Micro Puff Storm Jacket](https://eu.patagonia.com/be/en/product/mens-micro-puff-storm-jacket/31715.html?dwvar_31715_color=BSNG) |
+| Men Pants | [Patagonia - Men's Insulated Powder Town Pants](https://eu.patagonia.com/be/en/product/mens-insulated-powder-town-ski-snowboard-pants/195699307391.html) |
 | Kids Top | [Patagonia - Girls' Everyday Ready Jacket](https://eu.patagonia.com/be/en/product/girls-everyday-ready-jacket/68080.html?dwvar_68080_color=NENA) |
 | Kids Pants | [Patagonia - Girls' Snowbelle Pants](https://eu.patagonia.com/be/en/product/girls-snowbelle-ski-snowboard-pants/68495.html?dwvar_68495_color=AMH) |
 
