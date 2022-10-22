@@ -38,7 +38,7 @@
 | Item | Link |
 | --- | --- |
 | Women Shirt | [Patagonia - Women's Long-Sleeved Capilene Cool Merino Graphic Shirt](https://eu.patagonia.com/be/en/product/womens-long-sleeved-capilene-cool-merino-graphic-shirt/44600.html?dwvar_44600_color=FIDR) |
-| Women Top | [Patagonia - Women's R1 Air Zip-Neck](https://eu.patagonia.com/be/en/product/womens-r1-air-zip-neck-fleece/40250.html?dwvar_40250_color=SEQR) |
+| Women Top | [Patagonia - Women's R1 Air Zip-Neck](https://eu.patagonia.com/be/en/product/womens-r1-air-zip-neck-fleece/40250.html?dwvar_40250_color=HMKG) |
 | Women Pants | [Patagonia - Women's R1 Daily Bottoms](https://eu.patagonia.com/be/en/product/womens-r1-daily-bottoms/40545.html?dwvar_40545_color=INBX&cgid=womens-pants-jeans) |
 | Men Shirt | [Patagonia - Men's Long-Sleeved Capilene Cool Merino Graphic Shirt](https://eu.patagonia.com/be/en/product/mens-long-sleeved-capilene-cool-merino-graphic-shirt/44585.html?dwvar_44585_color=FISR) |
 | Men Top | [Patagonia - Men's R1 Fleece Pullover Hoody](https://eu.patagonia.com/gb/en/product/mens-r1-regulator-fleece-pullover-hoody/40069.html) |
@@ -52,7 +52,7 @@
 
 | Item | Link |
 | --- | --- |
-| Women Top | [Patagonia - Women's Nano-Air Hoody](https://eu.patagonia.com/be/en/product/womens-nano-air-hoody/84267.html?dwvar_84267_color=SEQR) |
+| Women Top | [Patagonia - Women's Micro Puff Hoody](https://eu.patagonia.com/be/en/product/womens-micro-puff-hoody/84041.html?dwvar_84041_color=HMKG) |
 | Women Top | [Patagonia - Women's R2 TechFace Jacket](https://eu.patagonia.com/be/en/product/womens-r2-techface-jacket/83630.html?dwvar_83630_color=BLK&cgid=womens-fleece-technical) |
 | Women Pants | [Patagonia - Women's R2 TechFace Pants](https://eu.patagonia.com/be/en/product/womens-r2-techface-pants/83740.html?dwvar_83740_color=FGE&cgid=womens-pants-jeans) |
 | Men Top | [Patagonia - Men's Nano-Air Jacket](https://www.patagonia.com/product/mens-nano-air-jacket/84252.html) |
