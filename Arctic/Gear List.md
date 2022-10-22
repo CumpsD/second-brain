@@ -53,7 +53,7 @@
 | Item | Link |
 | --- | --- |
 | Women Top | [Patagonia - Women's Micro Puff Hoody](https://eu.patagonia.com/be/en/product/womens-micro-puff-hoody/84041.html?dwvar_84041_color=HMKG) |
-| Women Top | [Patagonia - Women's R2 TechFace Jacket](https://eu.patagonia.com/be/en/product/womens-r2-techface-jacket/83630.html?dwvar_83630_color=BLK&cgid=womens-fleece-technical) |
+| Women Top | [Patagonia - Women's R2 TechFace Jacket](https://eu.patagonia.com/be/en/product/womens-r2-techface-jacket/83630.html?dwvar_83630_color=HMKG) |
 | Women Pants | [Patagonia - Women's R2 TechFace Pants](https://eu.patagonia.com/be/en/product/womens-r2-techface-pants/83740.html?dwvar_83740_color=FGE&cgid=womens-pants-jeans) |
 | Men Top | [Patagonia - Men's Nano-Air Jacket](https://www.patagonia.com/product/mens-nano-air-jacket/84252.html) |
 | Men Top | [Patagonia - Men's R2 Jacket](https://wornwear.patagonia.com/p/patagonia-ms-r2-jacket-mens/25139?color=BLK) |
@@ -66,7 +66,7 @@
 
 | Item | Link |
 | --- | --- |
-| Women Top | [Patagonia - Women's Insulated Powder Town Jacket](https://eu.patagonia.com/be/en/product/womens-insulated-powder-town-ski-snowboard-jacket/31200.html?dwvar_31200_color=WAX) |
+| Women Top | [Patagonia - Women's Insulated Powder Town Jacket](https://www.patagonia.ca/product/womens-insulated-powder-town-ski-snowboard-jacket/31200.html?dwvar_31200_color=HMKG) |
 | Women Pants | [Patagonia - Women's Insulated Powder Town Pants - Regular](https://eu.patagonia.com/be/en/product/womens-insulated-powder-town-ski-snowboard-pants-regular/31185.html?dwvar_31185_color=BLK) |
 | Men Top | [Patagonia - Men's Lone Mountain 3-in-1 Jacket](https://eu.patagonia.com/be/en/product/mens-lone-mountain-3-in-1-jacket/27840.html) |
 | Men Top | [Patagonia - Men's Micro Puff Storm Jacket](https://eu.patagonia.com/be/en/product/mens-micro-puff-storm-jacket/31715.html?dwvar_31715_color=BSNG) |
