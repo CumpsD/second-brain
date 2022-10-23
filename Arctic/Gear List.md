@@ -119,6 +119,9 @@ Shoes
 David: https://meindl.de/product/nordkap-pro-gtx-en/?lang=en
 Abby: https://meindl.de/product/calgary-junior-gtx-en/?lang=en
 Anne: https://meindl.de/product/civetta-lady-gtx-en-4/?lang=en
+
+Goggles
+
 -->
 
 ## Care
