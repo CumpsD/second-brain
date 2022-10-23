@@ -1,4 +1,4 @@
-# Audere HMB Muzzle Brake
+# Audere HMB Muzzle Brake (HM0010/B)
 
 ## About
 
