@@ -1,8 +1,8 @@
-# HD Tikka T1x Picatinny Scope Rail 20 MOA
+# EGW HD Tikka T1x Picatinny Scope Rail 20 MOA
 
 ## About
 
-[HD Tikka T1x Picatinny Scope Rail 20 MOA](https://www.egwguns.com/hd-tikka-t1x-picatinny-rail-20-moa)
+[EGW HD Tikka T1x Picatinny Scope Rail 20 MOA](https://www.egwguns.com/hd-tikka-t1x-picatinny-rail-20-moa)
 
 ## Pictures
 
