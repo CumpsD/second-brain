@@ -111,6 +111,12 @@
 | Kids Neck | [Buff - Polar Neck Warmer Kids - Solid Black](https://www.buff.com/gb/polar-neck-warmer-kids-buff-solid-black-black-121646999.html?size=16675) |
 | Kids Neck Baselayer | [Buff - Polar Neckwear Kids - Cutis Light Pink](https://www.buff.com/us/polar-neckwear-kids-buff-clover-multi-light-pink-126942539.html?size=16675) |
 
+## Shoes
+
+| Item | Link |
+| --- | --- |
+| Woman Shoes | [Jack Wolfskin - Everquest Texapore High W](https://www.jack-wolfskin.com/everquest-texapore-high-w/4053591_4297_075.html) |
+
 <!--
 TODO:
 Shoes
@@ -118,7 +124,6 @@ David: https://meindl.de/product/nordkap-pro-gtx-en/?lang=en
 David Gloves: https://www.hestragloves.eu/wakayama-5-finger-cork-brown
 
 Abby: https://meindl.de/product/calgary-junior-gtx-en/?lang=en
-Anne: https://meindl.de/product/civetta-lady-gtx-en-4/?lang=en
 
 Goggles
 
