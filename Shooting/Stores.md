@@ -4,6 +4,7 @@
 
 * [Contact Front](https://www.contactfront.store/)
 * [Gunsmoke.eu](https://www.gunsmoke.eu/)
+* [Guns & Gear](https://www.gunsandgear.be/)
 * [Richtkijkers.nl](https://www.richtkijkers.nl/)
 * [X-Ray Parts](https://xrayparts.it/)
 * [SpecShop.pl](https://www.specshop.pl/)
