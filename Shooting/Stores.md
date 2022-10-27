@@ -6,6 +6,7 @@
 * [Gunsmoke.eu](https://www.gunsmoke.eu/)
 * [Guns & Gear](https://www.gunsandgear.be/)
 * [Richtkijkers.nl](https://www.richtkijkers.nl/)
+* [Krale](https://www.krale.shop/)
 * [X-Ray Parts](https://xrayparts.it/)
 * [SpecShop.pl](https://www.specshop.pl/)
 * [Agilite](https://agiliteinternational.com/)
