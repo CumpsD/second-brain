@@ -3,14 +3,14 @@
 ## ADS-B/1090 Feeder Script
 
 ```bash
-wget -O /tmp/axfeed.sh https://raw.githubusercontent.com/adsbxchange/adsb-exchange/master/install.sh
+wget -O /tmp/axfeed.sh https://adsbexchange.com/feed.sh
 sudo bash /tmp/axfeed.sh
 ```
 
 ## Stats
 
 ```bash
-wget -O /tmp/axstats.sh https://raw.githubusercontent.com/adsbxchange/adsbexchange-stats/master/stats.sh
+wget -O /tmp/axstats.sh https://adsbexchange.com/stats.sh
 sudo bash /tmp/axstats.sh
 ```
 
@@ -19,6 +19,12 @@ sudo bash /tmp/axstats.sh
 ```bash
 wget -O /tmp/axgraphs.sh https://raw.githubusercontent.com/wiedehopf/graphs1090/master/install.sh
 sudo bash /tmp/axgraphs.sh
+```
+
+## Local Interface
+
+```
+sudo bash /usr/local/share/adsbexchange/git/install-or-update-interface.sh
 ```
 
 ## Display MLAT config
@@ -55,6 +61,7 @@ adsbexchange-showurl
 * https://map.adsbexchange.com/mlat-map/
 * https://www.adsbexchange.com/api/feeders/?feed=xxx
 * http://adsbx.org/sync
+* http://10.0.4.31/adsbx
 * http://10.0.4.31/graphs1090
 
 ## Uninstall
