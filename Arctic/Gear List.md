@@ -91,9 +91,9 @@
 | --- | --- |
 | Adult Liner | [Icebreaker - Unisex 200 Oasis Glove Liners van merinowol](https://www.icebreaker.com/nl-be/mens-gloves/200-oasis-glove-liners-van-merinowol%C2%A0/IBM207E2.html?dwvar_IBM207E2_color=001&dwvar_IBM207E2_EU=in_line) |
 | Kids Liner | [Smartwool - Kids' Merino Glove](https://www.smartwool.com/shop/kid-accessories/kids-merino-150-glove-sw018042?variationId=001) |
-| Woman Gloves | [Hestra - Tarfala - 5 finger](https://www.hestragloves.eu/tarfala-5-finger-olive) |
-| Men Gloves | [Hestra - Army Leather Coach Czone 5-finger](https://www.hestragloves.eu/army-leather-coach-czone-5-finger-charcoal-black) |
-| Kids Gloves | [Hestra - Army Leather Heli Ski Jr. 5-finger](https://www.hestragloves.eu/army-leather-heli-ski-jr-5-finger-fuchsia) |
+| Woman Gloves | [Hestra - Army Leather Gore-Tex Short 5-finger](https://www.hestragloves.eu/army-leather-gore-tex-short-5-finger-light-grey-offwhite) |
+| Men Gloves | [Hestra - Army Leather Gore-Tex Short 5-finger](https://www.hestragloves.eu/army-leather-gore-tex-short-5-finger-light-grey-offwhite) |
+| Kids Gloves | [Hestra - Ferox Primaloft 5-finger](https://www.hestragloves.eu/ferox-primaloft-5-finger-navy) |
 | Hand Warmer | [Thermopad - Hand Warmer](https://www.thermopad.eu/handwarmer/) |
 
 ## Hats & Neck
@@ -121,8 +121,6 @@
 TODO:
 Shoes
 David: https://meindl.de/product/nordkap-pro-gtx-en/?lang=en
-David Gloves: https://www.hestragloves.eu/wakayama-5-finger-cork-brown
-
 Abby: https://meindl.de/product/calgary-junior-gtx-en/?lang=en
 
 Goggles
