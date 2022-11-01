@@ -1,4 +1,4 @@
-# Tires
+# Tires & Rims
 
 When the time comes to replace the tires, do some research on compatible sizes.
 
