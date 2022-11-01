@@ -9,13 +9,13 @@
 > Our Shocker XL train horns are some of the loudest train horns you can buy. In fact, the only horns louder than our Shocker XL train horns are the authentic train horns we sell and they are only 1.7 decibels apart. Our Shocker XL train horns are also hand-tuned to US Train Horn Chord specifications, meaning you are getting the same power and tone as a real locomotive. Constructed from an ultra-durable fiberglass-reinforced ABS composite with stainless-steel diaphragms and backed by a lifetime warranty against manufacturer's defects, our Shocker XL train horns are just as reliable as they are loud.
 >
 > Horns of this caliber deserve an onboard air system that can keep up and our Conductor’s Special 2485K does that and then some. Equipped with our 2-gallon black 6 port air tank and Viair’s latest and greatest air compressor, the Viair 485C air compressor, the Conductor’s Special 2485K provides up to 6 seconds of honk time and recovers the tank from 110-150 PSI in only 50 seconds! Not only is this system incredibly fast, but our Conductor’s Special 2485K is a constant duty system with a 100% duty cycle, meaning you get an incredibly fast workhorse of a system able to handle any pneumatic jobs you can throw at it.
-
-* The loudest horns we manufacture, be heard for miles!
-* Stainless steel internals combined with the fiberglass-reinforced ABS construction ensures these horns are extremely durable through all conditions!
-* Individually mounted horns for flexible installation
-* All-inclusive train horn kit with everything needed for installation
-* 150 PSI 2-gallon air system provides 3-5 seconds of honk time
-* Capable of filling tires and using small air tools
+>
+> * The loudest horns we manufacture, be heard for miles!
+> * Stainless steel internals combined with the fiberglass-reinforced ABS construction ensures these horns are extremely durable through all conditions!
+> * Individually mounted horns for flexible installation
+> * All-inclusive train horn kit with everything needed for installation
+> * 150 PSI 2-gallon air system provides 3-5 seconds of honk time
+> * Capable of filling tires and using small air tools
 
 ## Specifications
 
