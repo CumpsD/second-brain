@@ -106,3 +106,4 @@
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/battery/battery-2.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/battery/battery-3.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/battery/battery-4.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/battery/battery-5.jpg "a")
