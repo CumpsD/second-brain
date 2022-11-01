@@ -99,6 +99,7 @@
 ### Old Battery
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/battery/old-battery.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/battery/old-battery-2.jpg "a")
 
 ### New Battery
 
