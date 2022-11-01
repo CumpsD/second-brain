@@ -19,31 +19,100 @@
 
 ## Specifications
 
-| | |
-| --- | --- |
-| Part Number | HK-S4-2485K |
-| Operating Pressure | 150 PSI |
-| Restart Pressure | 110 PSI |
-| Voltage | 12-Volt DC |
-| Horn | Shocker XL train horn |
-| Horn Material | High-impact fiberglass reinforced ABS |
-| Horn Measurements | № 1 19.50″ (495.30 mm)	№ 2 16.25″ (412.75 mm) № 3 14.75″ (374.65 mm)	№ 4 12.75″ (323.85 mm) |
-| Horn Flare | 5″ (127 mm) |
-| Air Tank | HornAir 2-gallon 6 port air tank |
-| Tank Length | 17″ (431.8 mm) |
-| Tank Diameter | 6″ (152.4 mm) |
-| Tank Height | 8″ (203.2 mm) (With Legs) |
-| Tank Weight | 10 lb (4.54 Kg) |
-| Tank Ports | x2 1/2" NPT, x4 1/4" NPT |
-| Air Compressor | Viair 485C Air Compressor |
-| Average Fill Time | 50 Sec |
-| Air Flow | 2.24 CFM |
-| Max Amperage | 23 amps |
-| Maximum Duty Cycle | 100% @ 100 PSI |
-| Compressor Length | 11.5″ (292.1 mm) |
-| Compressor Width | 4.30″ (109.22 mm) |
-| Compressor Height | 6.5″ (165.1 mm) |
-| Compressor Weight | 11 lb (4.99 Kg) |
+<table>
+  <tr>
+    <th>Part Number</th>
+    <td>HK-S4-2485K</td>
+  </tr>
+  <tr>
+    <th>Operating Pressure</th>
+    <td>150 PSI</td>
+  </tr>
+  <tr>
+    <th>Restart Pressure</th>
+    <td>110 PSI</td>
+  </tr>
+  <tr>
+    <th>Voltage</th>
+    <td>12-Volt DC</td>
+  </tr>
+  <tr>
+    <th>Horn</th>
+    <td>Shocker XL train horn</td>
+  </tr>
+  <tr>
+    <th>Horn Material</th>
+    <td>High-impact fiberglass reinforced ABS</td>
+  </tr>
+  <tr>
+    <th>Horn Measurements</th>
+    <td>№ 1 19.50″ (495.30 mm)<br>№ 2 16.25″ (412.75 mm)<br>№ 3 14.75″ (374.65 mm)<br>№ 4 12.75″ (323.85 mm)</td>
+  </tr>
+  <tr>
+    <th>Horn Flare</th>
+    <td>5″ (127 mm)</td>
+  </tr>
+  <tr>
+    <th>Air Tank</th>
+    <td>HornAir 2-gallon 6 port air tank</td>
+  </tr>
+  <tr>
+    <th>Tank Length</th>
+    <td>17″ (431.8 mm)</td>
+  </tr>
+  <tr>
+    <th>Tank Diameter</th>
+    <td>6″ (152.4 mm)</td>
+  </tr>
+  <tr>
+    <th>Tank Height</th>
+    <td>8″ (203.2 mm) (With Legs)</td>
+  </tr>
+  <tr>
+    <th>Tank Weight</th>
+    <td>10 lb (4.54 Kg)</td>
+  </tr>
+  <tr>
+    <th>Tank Ports</th>
+    <td>x2 1/2" NPT, x4 1/4" NPT</td>
+  </tr>
+  <tr>
+    <th>Air Compressor</th>
+    <td>Viair 485C Air Compressor</td>
+  </tr>
+  <tr>
+    <th>Average Fill Time</th>
+    <td>50 Sec</td>
+  </tr>
+  <tr>
+    <th>Air Flow</th>
+    <td>2.24 CFM</td>
+  </tr>
+  <tr>
+    <th>Max Amperage</th>
+    <td>23 amps</td>
+  </tr>
+  <tr>
+    <th>Maximum Duty Cycle</th>
+    <td>100% @ 100 PSI</td>
+  </tr>
+  <tr>
+    <th>Compressor Length</th>
+    <td>11.5″ (292.1 mm)</td>
+  </tr>
+  <tr>
+    <th>Compressor Width</th>
+    <td>4.30″ (109.22 mm)</td>
+  </tr>
+  <tr>
+    <th>Compressor Height</th>
+    <td>6.5″ (165.1 mm)</td>
+  </tr>
+  <tr>
+    <th>Compressor Weight</th>
+    <td>11 lb (4.99 Kg)</td>
+  </tr>
+</table>
 
 ## Resources
 
