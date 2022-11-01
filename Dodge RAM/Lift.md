@@ -9,8 +9,8 @@
 ## Resources
 
 * [2019_Ram_Raise-v2.pdf](https://github.com/CumpsD/second-brain/raw/main/assets/ram/lift/2019_Ram_Raise-v2.pdf)
-* [Daystar Spacers p20165.pdf](https://github.com/CumpsD/second-brain/raw/main/assets/ram/lift/Daystar Spacers p20165.pdf)
-* [Daystar Spacers Addendum.pdf](https://github.com/CumpsD/second-brain/raw/main/assets/ram/lift/Daystar Spacers Addendum.pdf)
+* [Daystar Spacers p20165.pdf](https://github.com/CumpsD/second-brain/raw/main/assets/ram/lift/Daystar-Spacers-p20165.pdf)
+* [Daystar Spacers Addendum.pdf](https://github.com/CumpsD/second-brain/raw/main/assets/ram/lift/Daystar-Spacers-Addendum.pdf)
 
 ## Photos
 
