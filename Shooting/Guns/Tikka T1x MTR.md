@@ -107,6 +107,7 @@ SN AN4924-PT1030634-LAN4924
 * [Audere Adversus Scope Mount (AD0006)](https://github.com/CumpsD/second-brain/blob/main/Shooting/Accessories/Audere%20Adversus%20Scope%20Mount%20(AD0006).md)
 * [Vortex Viper PST Gen II 1-6x24](https://github.com/CumpsD/second-brain/blob/main/Shooting/Optics/Vortex%20Viper%20PST%20Gen%20II%201-6x24.md)
 * [Audere HMB Muzzle Brake (HM0010/B)](https://github.com/CumpsD/second-brain/blob/main/Shooting/Accessories/Audere%20HMB%20Muzzle%20Brake%20(HM0010-B).md)
+* [Harris S-BRM Bipod](https://github.com/CumpsD/second-brain/blob/main/Shooting/Accessories/Harris%20S-BRM%20Bipod.md)
 
 ## Resources
 
