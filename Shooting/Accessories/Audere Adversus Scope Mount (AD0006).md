@@ -21,6 +21,10 @@
   </tr>
 </table>
 
+## Resources
+
+* [Product Manual](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/audere/M-ADMT_05_PRINT.pdf)
+
 ## Pictures
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/audere/adversus-box.jpg "a")

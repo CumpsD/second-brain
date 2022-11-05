@@ -7,3 +7,4 @@
 ## Pictures
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/egw/80522-rail.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/egw/egw-mounted.jpg "a")
