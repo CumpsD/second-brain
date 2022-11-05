@@ -16,3 +16,5 @@
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/lift/lift-2.jpg "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/lift/lift-1.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/lift/lift-3.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/ram/lift/lift-4.jpg "a")
