@@ -10,6 +10,6 @@
 
 ## Pictures
 
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/peltor/alpine1.jpg "a")
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/peltor/alpine2.jpg "a")
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/peltor/alpine3.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/alpine/alpine1.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/alpine/alpine2.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/alpine/alpine3.jpg "a")
