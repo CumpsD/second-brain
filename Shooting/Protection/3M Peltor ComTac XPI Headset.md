@@ -20,6 +20,7 @@
 ## Resources
 
 * [Technical Datasheet](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/peltor/ComTac%20XPI%20Standard-02%20Technical%20datasheet.pdf)
+* [Product Manual](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/peltor/comtac_xpi_notice_en-fr.pdf)
 
 ## Pictures
 
