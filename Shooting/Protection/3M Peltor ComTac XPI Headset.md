@@ -22,6 +22,11 @@
 * [Technical Datasheet](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/peltor/ComTac%20XPI%20Standard-02%20Technical%20datasheet.pdf)
 * [Product Manual](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/peltor/comtac_xpi_notice_en-fr.pdf)
 
+## Upgrades
+
+* [3M Peltor Camelback Gel Sealing Rings HY80](https://www.3m.com/3M/en_US/p/d/v000153091/)
+* [Gearskin Lazzer Peltor ComTac Multicam Original](https://gearskin.eu/product/peltor-comtac-multicam-original/)
+
 ## Pictures
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/peltor/peltor1.jpg "a")
