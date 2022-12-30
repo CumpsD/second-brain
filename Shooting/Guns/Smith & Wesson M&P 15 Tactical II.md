@@ -7,7 +7,7 @@ SN  TT89793
 
 ## About
 
-[Smith & Wesson M&P 15 Tactical II](https://www.smith-wesson.com/product/mp-15?sku=13492)
+[Smith & Wesson M&P 15 Tactical II](https://www.smith-wesson.com/product/mp-15-1?sku=13492)
 
 > M&P15 Rifles are the ideal modern sporting rifle.  Built to perform multiple uses under various conditions, M&P15 Rifles are as versatile as they are reliable.   Engineered for a wide variety of recreational, sport shooting and professional applications, M&P15 Rifles are easy to accessorize, but hard to put down. M&P15 Rifles are lightweight and rugged embodying the best combination of function and form.
 
@@ -115,5 +115,5 @@ SN  TT89793
 
 ## Resources
 
-* [Smith & Wesson M&P 15 Tactical II](https://www.smith-wesson.com/product/mp-15?sku=13492)
+* [Smith & Wesson M&P 15 Tactical II](https://www.smith-wesson.com/product/mp-15-1?sku=13492)
 * [Specsheet](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/specs.pdf)
