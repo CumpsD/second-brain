@@ -9,6 +9,7 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 * [Bore Tech Eliminator Bore Cleaner](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Eliminator%20Bore%20Cleaner.md)
 * [Bore Tech Rimfire Blend Bore Cleaner](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Rimfire%20Blend%20Bore%20Cleaner.md)
 * [Bore Tech C4 Carbon Remover](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20C4%20Carbon%20Remover.md)
+* [Bore Tech Proof-Positive Bore Stix (Bore Cleaning Rod)](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Proof-Positive%20Bore%20Stix.md)
 
 ## Steps
 
