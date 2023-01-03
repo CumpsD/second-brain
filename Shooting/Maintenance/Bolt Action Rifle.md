@@ -31,3 +31,7 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 * Remove the C4 and wipe of with a chamber mop.
 * Push dry patches through the bore until they come out clean.
 * Repeat if needed.
+
+## Resources
+
+* [Covert Grey Men - Weapons - Maintenance](https://www.youtube.com/playlist?list=PL_ijYBPqLIKeEimLkQccGEln0JlZlhkKa)
