@@ -15,7 +15,32 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 
 * Use nylon brushes.
 
+### Safety Check
+
+* Point the rifle in a safe direction.
+* Remove magazines.
+* Pull the bolt back.
+* Inspect the chamber, turn head and inspect again.
+* Perform a control shot and put fire selector in safe.
+
+### Cleaning the bolt and bolt carrier
+
+* Remove the bolt carrier.
+* Wipe down everything.
+* Clean with C4 Carbon Remover and a brush.
+* Pay attention to the extractor and ejector, use a cleaning pick if needed.
+* Clean until patches remain clean.
+* Put a drop of oil on the sides, bolt assembly and locking lugs.
+* Wipe the oil in, use a cotton swab for difficult places.
+
+### Cleaning the chamber
+
+* Apply cleaner on a brush and clean out the chamber.
+* Wipe the area and repeat until it comes out clean.
+
 ### Cleaning the barrel
+
+> **Only push patches through the bore in ONE direction.**
 
 * Inspect the bore for obstructions.
 * Use a boreguide to insert cleaning rod.
@@ -24,6 +49,7 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 * Let it soak for 5 minutes.
 * Push dry patches through the bore until they come out clean.
 * Repeat if needed.
+* Apply a very thin layer of oil inside the bore and run after with a clean patch to remove any excess.
 
 ### Cleaning a carbon ring (optional)
 
@@ -33,13 +59,16 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 * Push dry patches through the bore until they come out clean.
 * Repeat if needed.
 
-### Cleaning the bolt and bolt carrier
+### Function Check
 
-* TODO
+* Insert bolt carrier and cycle to verify it moves smoothly.
+* Pull trigger, it should fire on fire and not fire on safe.
+* Insert magazine and verify it locks into place.
+* Release magazine and verify it goes smoothly.
 
-### Cleaning the chamber
+### Finishing Touches
 
-* TODO
+* Apply some oil on a rag and gently go over exposed metal components.
 
 ## Resources
 
