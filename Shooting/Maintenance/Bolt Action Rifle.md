@@ -18,7 +18,7 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 ### Safety Check
 
 * Point the rifle in a safe direction.
-* Remove magazines.
+* Remove magazine.
 * Pull the bolt back.
 * Inspect the chamber, turn head and inspect again.
 * Perform a control shot and put fire selector in safe.
