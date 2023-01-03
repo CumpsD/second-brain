@@ -10,6 +10,7 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 
 * 100% Barrel Safe
 * Odor Free
+* Non-Hazardous
 * 100% Biodegradable
 * Contains No Ammonia
 * Acts As A Short-Term Rust Preventative

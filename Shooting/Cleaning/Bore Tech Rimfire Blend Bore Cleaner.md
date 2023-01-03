@@ -9,8 +9,8 @@
 See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf).
 
 * 100% Barrel Safe
-* Non-Hazardous
 * Odor Free
+* Non-Hazardous
 * 100% Biodegradable
 * Contains No Ammonia
 * Acts As A Short-Term Rust Preventative
