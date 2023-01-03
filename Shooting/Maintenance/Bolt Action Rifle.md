@@ -15,7 +15,7 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 
 * Use nylon brushes.
 
-### Cleaning the bore
+### Cleaning the barrel
 
 * Inspect the bore for obstructions.
 * Use a boreguide to insert cleaning rod.
@@ -32,6 +32,14 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 * Remove the C4 and wipe of with a chamber mop.
 * Push dry patches through the bore until they come out clean.
 * Repeat if needed.
+
+### Cleaning the bolt and bolt carrier
+
+* TODO
+
+### Cleaning the chamber
+
+* TODO
 
 ## Resources
 
