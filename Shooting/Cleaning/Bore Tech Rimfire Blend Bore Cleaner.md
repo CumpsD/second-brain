@@ -1,5 +1,7 @@
 # Bore Tech Rimfire Blend Bore Cleaner
 
+## About
+
 * [Bore Tech Rimfire Blend Bore Cleaner](https://www.boretech.com/products/rimfire-blend)
 
 ## Specifications
