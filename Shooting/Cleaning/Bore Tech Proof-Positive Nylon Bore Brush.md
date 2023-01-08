@@ -48,4 +48,4 @@
   A: With our properly designed brushes and when used in a proper manner our brushes are 100% barrel safe.
 
 * Q: What thread sizes are your brushes and are they male or female ended? \
-  A: All Bore Tech brushes are male ended and have the thread pitch listed under the Specifications Tab on the respective product page.
+  A: All Bore Tech brushes are male ended and have the thread pitch listed above.

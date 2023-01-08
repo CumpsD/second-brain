@@ -31,7 +31,7 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 * Unload firearm.
 * Clean areas to be treated with [Bore Tech Blast Degreaser](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Blast%20Degreaser.md) and let dry.
 * Next, apply Friction Guard XP to all moving parts. Cycle the parts several times to distribute oil evenly.
-* If applying to bore, wet a Bore Tech patch/mop and pass through bore until a light coat of oil is present.
+* If applying to bore, wet a [Bore Tech patch/mop](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20X-Count%20Square%20Patches.md) and pass through bore until a light coat of oil is present.
 * Before using firearm, always run a dry patch through the bore. This will remove any residue and ensure against obstructions.
 
 ## FAQ

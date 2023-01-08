@@ -20,7 +20,7 @@
 
 ## Specifications
 
-See [Bore Tech Rod Length Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Rod-Length-Guide).
+See [Bore Tech Rod Length Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Rod-Length-Guide.pdf).
 
 | Caliber | Handle Color | Rod Diameter (Inches) | Female Tip Thread Pitch |
 | -- | -- | -- | -- |
@@ -36,10 +36,10 @@ See [Bore Tech Rod Length Guide](https://github.com/CumpsD/second-brain/raw/main
 ## FAQ
 
 * Q: Does the mentioned length include the handle? \
-  A: No, the specified length is the “Working Length” of the rod and does not include the additional length of the handle. See illustration in Specifications Tab.
+  A: No, the specified length is the “Working Length” of the rod and does not include the additional length of the handle. See [Bore Tech Rod Length Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Rod-Length-Guide.pdf).
 
 * Q: Are the rod tips male or female and what are the threads? \
-  A: All rod tips are female and have either 5/40 or 8/32 threads. The corresponding threads are listed in the Specifications Tab.
+  A: All rod tips are female and have either 5/40 or 8/32 threads. The corresponding threads are listed above.
 
 * Q: What are the handle colors of the Bore Stix? \
   A: The handle colors are used to clearly identify what caliber(s) the Bore Stix are to be used with.
