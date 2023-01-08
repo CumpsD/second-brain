@@ -41,7 +41,7 @@
 ## FAQ
 
 * Q: Why are my patches so tight and getting jammed in the bore? \
-  A: There are many factors that can lead to this issue. Presuming that you are using the correct caliber jag and patch size for your application (Please consult our Patch Selection Chart) there is a simple trick to avoid this issue. A commonly overlooked solution to remedy overly tight or jammed patches is what we call “Side Spiking”.
+  A: There are many factors that can lead to this issue. Presuming that you are using the correct caliber jag and patch size for your application (Please consult our [Patch Selection Chart](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/patch-chart.jpg)) there is a simple trick to avoid this issue. A commonly overlooked solution to remedy overly tight or jammed patches is what we call “Side Spiking”.
 
 * Q: Should I use an undersized jag? \
   A: We typically do not recommend using undersized jags. We have designed and tested our jags to ensure they work properly in their respective calibers when using the correct size [Bore Tech X-Count patches](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20X-Count%20Square%20Patches.md).
