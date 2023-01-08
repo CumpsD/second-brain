@@ -6,7 +6,7 @@
 
 See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf).
 
-* [Bore Tech X-Count Square Patches](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Proof-Positive%20Bore%20Stix.md)
+* [Bore Tech X-Count Square Patches](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20X-Count%20Square%20Patches.md)
 * [Bore Tech Eliminator Bore Cleaner](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Eliminator%20Bore%20Cleaner.md)
 * [Bore Tech Rimfire Blend Bore Cleaner](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Rimfire%20Blend%20Bore%20Cleaner.md)
 * [Bore Tech C4 Carbon Remover](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20C4%20Carbon%20Remover.md)
