@@ -1,8 +1,11 @@
-# Bore Tech Patches
+# Bore Tech X-Count Square Patches
 
 ## About
 
 * [Bore Tech X-Count Square Patches](https://www.boretech.com/categories/gun-cleaning-patches/square)
+
+## Versions
+
 * [Bore Tech X-Count .22 Square Patches](https://www.boretech.com/products/patches-1-square)
 
 ## Resources

@@ -30,7 +30,7 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 * For extended storage or in adverse conditions apply Bore Tech Friction Guard XP Gun Oil.
 * Before using firearm, always run a dry patch through the bore. This will remove any residue and ensure against obstructions.
 
-# FAQ
+## FAQ
 
 * Q: Is Rimfire Blend safe to leave soak in a barrel overnight? \
   A: Yes, the Rimfire Blend can be left to safely soak in barrels for an infinite time period.

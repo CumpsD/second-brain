@@ -30,7 +30,7 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 * For extended storage or in adverse conditions apply Bore Tech Friction Guard XP Gun Oil.
 * Before using firearm, always run a dry patch through the bore. This will remove any residue and ensure against obstructions.
 
-# FAQ
+## FAQ
 
 * Q: What is the difference between C4 Carbon Remover and Eliminator Bore Cleaner? \
   A: The C4 Carbon Remover is recommended for extreme carbon fouling situations such as AR bolt/bolt carriers, revolver cylinders or neglected barrels and specifically removes carbon fouling only. Eliminator removes both carbon and copper fouling and is recommend for most regular fouling situations. Please see our Chemical Selection Guide located in the Specification Tab or in our Knowledge Center for more information.
