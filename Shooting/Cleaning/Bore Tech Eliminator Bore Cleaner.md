@@ -32,8 +32,8 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 
 ## FAQ
 
-* Q: What is the difference between Eliminator, Cu+2 Copper Remover and C4 Carbon Remover? \
-  A: The Eliminator removes both carbon and copper fouling and is recommended for most regular fouling situations. It provides a quick, easy and great overall clean. For extreme fouling situations the specific Cu+2 Copper Remover (Copper Removal Only) and C4 Carbon Remover (Carbon Removal Only) are recommended. These solutions directly target and effectively focus on removing their respective fouling types. Please see our Chemical Selection Guide located in the Specification Tab or in our Knowledge Center for more information.
+* Q: What is the difference between Eliminator, Cu+2 Copper Remover and [C4 Carbon Remover](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20C4%20Carbon%20Remover.md)? \
+  A: The Eliminator removes both carbon and copper fouling and is recommended for most regular fouling situations. It provides a quick, easy and great overall clean. For extreme fouling situations the specific Cu+2 Copper Remover (Copper Removal Only) and C4 Carbon Remover (Carbon Removal Only) are recommended. These solutions directly target and effectively focus on removing their respective fouling types. Please see our [Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf) located in the Specification Tab or in our Knowledge Center for more information.
 
 * Q: Is Eliminator safe to leave soak in a barrel overnight? \
   A: Yes, the Eliminator can be left to safely soak in barrels for an infinite time period.
@@ -54,4 +54,4 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
   A: Yes, the Eliminator can be used on nickel plating but cannot be left in contact for more than 3-5 minutes. Extended contact can lead to darkening or discoloration of the plating. Do not use on plating that has been damaged or worn.
 
 * Q: Can Eliminator be used as a lubricant? \
-  A: No, the Eliminator Bore Cleaner is a cleaner not a lubricant. Use Bore Tech Friction Guard XP Gun Oil for superior lubrication.
+  A: No, the Eliminator Bore Cleaner is a cleaner not a lubricant. Use [Bore Tech Friction Guard XP Gun Oil](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Friction%20Guard%20XP%20Gun%20Oil.md) for superior lubrication.

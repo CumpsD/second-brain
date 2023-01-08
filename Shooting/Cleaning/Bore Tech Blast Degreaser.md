@@ -23,7 +23,7 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 * Test a small area on all surfaces BEFORE application.
 * Holding the Blast Degreaser upright, depress actuator using short burst to clean the designated area. For pinpoint cleaning, use the provided extension tube.
 * Allow to air dry or wipe dry with a clean towel.
-* Before storage or in adverse conditions apply Bore Tech Friction Guard XP Gun Oil or Shield XP Rust Preventative to all clean/bare metal parts.
+* Before storage or in adverse conditions apply [Bore Tech Friction Guard XP Gun Oil](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Friction%20Guard%20XP%20Gun%20Oil.md) or Shield XP Rust Preventative to all clean/bare metal parts.
 
 ## FAQ
 
@@ -31,4 +31,4 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
   A: Yes, the Blast Degreaser can be safely used on polymers.
 
 * Q: Is Blast Degreaser recommended for cleaning barrels? \
-  A: No, for cleaning the bore of carbon and copper fouling please consult our Chemical Selection Guide located in the Specification Tab or in our Knowledge Center for more information.
+  A: No, for cleaning the bore of carbon and copper fouling please consult our [Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf) located in the Specification Tab or in our Knowledge Center for more information.

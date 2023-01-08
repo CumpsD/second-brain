@@ -32,8 +32,8 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 
 ## FAQ
 
-* Q: What is the difference between C4 Carbon Remover and Eliminator Bore Cleaner? \
-  A: The C4 Carbon Remover is recommended for extreme carbon fouling situations such as AR bolt/bolt carriers, revolver cylinders or neglected barrels and specifically removes carbon fouling only. Eliminator removes both carbon and copper fouling and is recommend for most regular fouling situations. Please see our Chemical Selection Guide located in the Specification Tab or in our Knowledge Center for more information.
+* Q: What is the difference between C4 Carbon Remover and [Eliminator Bore Cleaner](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Eliminator%20Bore%20Cleaner.md)? \
+  A: The C4 Carbon Remover is recommended for extreme carbon fouling situations such as AR bolt/bolt carriers, revolver cylinders or neglected barrels and specifically removes carbon fouling only. Eliminator removes both carbon and copper fouling and is recommend for most regular fouling situations. Please see our [Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf) located in the Specification Tab or in our Knowledge Center for more information.
 
 * Q: Is C4 Carbon Remover safe to leave soak in a barrel overnight? \
   A: Yes, the C4 Carbon Remover can be left to safely soak in barrels for an infinite time period.
@@ -54,4 +54,4 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
   A: Yes, the C4 Carbon Remover can be used on nickel plating but cannot be left in contact for more than 3-5 minutes. Extended contact can lead to darkening or discoloration of the plating. Do not use on plating that has been damaged or worn.
 
 * Q: Can C4 Carbon Remover be used as a lubricant? \
-  A: No, the C4 Carbon Remover is a cleaner not a lubricant. Use Bore Tech Friction Guard XP Gun Oil for superior lubrication.
+  A: No, the C4 Carbon Remover is a cleaner not a lubricant. Use [Bore Tech Friction Guard XP Gun Oil](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Friction%20Guard%20XP%20Gun%20Oil.md) for superior lubrication.
