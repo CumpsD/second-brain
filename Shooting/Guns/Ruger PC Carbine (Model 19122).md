@@ -21,7 +21,7 @@ SN 912-93255
 * Lower receiver is fitted with a six-position, telescoping, Magpul MOE buttstock on a proprietary receiver extension capable of accepting both commercial and Mil-Spec aftermarket stocks.
 * Ergonomic pistol grip features an extended trigger reach for more precise trigger control.
 * Glass-filled polymer chassis system, with integrated rear 7075-T6 aluminum picatinny rail, allows for the mounting of standard AR grips and picatinny rail-mountable stocks or extensions.
-* Light, crisp trigger pull with minimal overtravel and positive reset utilizing proven 10/22® trigger components.
+* Light, crisp trigger pull with minimal overtravel and positive reset utilizing proven 10/22 trigger components.
 * CNC-machined from an aerospace-grade 7075-T6 aluminum billet, the receiver includes an integrated Picatinny-style rail and is Type III hard-coat anodized for maximum durability.
 * Also includes: one, SR-Series or Security-9 pistol magazine and hex wrenches for disassembly of the chassis and aluminum handguard, as well as removal of the charging handle.
 
@@ -127,30 +127,30 @@ UTG Ultra Slim Handstop - M-LOK
 https://www.rockstartactical.com/utg-ultra-slim-handstop-m-lok/
 
 Tandemkross:
-“Shock Block” Bolt Buffer for Ruger® PC Carbine
+“Shock Block” Bolt Buffer for Ruger PC Carbine
 https://www.tandemkross.com/product.asp?itemid=758
 
-Recoil Spring Retainer for Ruger® PC Carbine
+Recoil Spring Retainer for Ruger PC Carbine
 https://www.tandemkross.com/product.asp?itemid=757
 
-Bolt Release Pin for Ruger® PC Carbine (3-Pack)
+Bolt Release Pin for Ruger PC Carbine (3-Pack)
 https://www.tandemkross.com/Bolt-Release-Pin-for-Ruger%C2%AE-PC-Carbine%E2%84%A2-3-Pack_p_670.html
 
-Bolt Head and Extractor Pin Set for Ruger® PC Carbine
+Bolt Head and Extractor Pin Set for Ruger PC Carbine
 https://www.tandemkross.com/product.asp?itemid=751
 
-“Red Spring” Recoil Spring for Ruger® PC Carbine
+“Red Spring” Recoil Spring for Ruger PC Carbine
 https://www.tandemkross.com/product.asp?itemid=754
 
-“Eagle’s Talon” Extractor for Ruger® PC Carbine
+“Eagle’s Talon” Extractor for Ruger PC Carbine
 https://www.tandemkross.com/product.asp?itemid=755
 
-"Victory" Trigger for Ruger® PC Carbine
+"Victory" Trigger for Ruger PC Carbine
 https://www.tandemkross.com/product.asp?itemid=514
 
-"Titan" Extended Magazine Release for Ruger® PC Carbine
+"Titan" Extended Magazine Release for Ruger PC Carbine
 https://www.tandemkross.com/product.asp?itemid=623
 
-"Challenger" Charging Handle for Ruger® PC Carbine
+"Challenger" Charging Handle for Ruger PC Carbine
 https://www.tandemkross.com/product.asp?itemid=664
 -->

@@ -5,6 +5,7 @@
 * [Tipton Ultra Gun Vise](https://www.tiptonclean.com/gun-vises/ultra-gun-vise/110011.html#start=1)
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/tipton/ultra-gun-vise.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/cleaning/bolt-action-rifle.jpg "a")
 
 ## Description
 

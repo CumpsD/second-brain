@@ -2,6 +2,8 @@
 
 ## Cleaning
 
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/cleaning/bolt-action-rifle.jpg "a")
+
 ### Products
 
 See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf).
@@ -15,6 +17,7 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 * [Bore Tech Blast Degreaser](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Blast%20Degreaser.md)
 * [Bore Tech Friction Guard XP Gun Oil](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Friction%20Guard%20XP%20Gun%20Oil.md)
 * [Bore Tech Proof-Positive Bore Stix (Bore Cleaning Rod)](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Proof-Positive%20Bore%20Stix.md)
+* [Tipton Ultra Gun Vise](https://github.com/CumpsD/second-brain/blob/main/Shooting/Gunsmith/Tipton%20Ultra%20Gun%20Vise.md)
 
 ## Steps
 
