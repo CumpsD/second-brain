@@ -9,7 +9,7 @@
 * [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf)
 * [Bore Tech Rod Length Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Rod-Length-Guide.pdf)
 * [Bore Tech Patch Size Selection Chart](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/patch-chart.jpg)
-* [Bore Tech Lubricant / Preventative Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Lubricant_Preventative_Guide_WebReady.jpg).
+* [Bore Tech Lubricant / Preventative Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Lubricant_Preventative_Guide_WebReady.jpg)
 
 ### Products
 
