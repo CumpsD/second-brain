@@ -37,4 +37,4 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
   A: Yes, the Blast Degreaser can be safely used on polymers.
 
 * Q: Is Blast Degreaser recommended for cleaning barrels? \
-  A: No, for cleaning the bore of carbon and copper fouling please consult our [Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf) located in the Specification Tab or in our Knowledge Center for more information.
+  A: No, for cleaning the bore of carbon and copper fouling please consult our [Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf).

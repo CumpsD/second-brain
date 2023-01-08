@@ -34,18 +34,18 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 
 * Unload firearm.
 * Wet 3 to 4 patches with C4 Carbon Remover and individually push through bore to remove loose fouling. Only push patches through the bore in ONE direction.
-* Next, make 10 to 15 passes with a tight fitting Bore Tech Proof-Positive Nylon brush saturated with C4 Carbon Remover.
+* Next, make 10 to 15 passes with a tight fitting [Bore Tech Proof-Positive Nylon brush](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Proof-Positive%20Nylon%20Bore%20Brush.md) saturated with C4 Carbon Remover.
 * Then repeat Step 1 and let C4 Carbon Remover soak for 5 to 10 minutes. For badly fouled rifles or parts, extended soak times may be needed.
 * Finally, push dry patches through the bore until they come out clean.
 * Repeat above steps if necessary.
 * Before storing firearm, dampen a patch with C4 Carbon Remover and push through bore. This will protect against rust/corrosion for up to 2 weeks under normal storage conditions.
-* For extended storage or in adverse conditions apply Bore Tech Friction Guard XP Gun Oil.
+* For extended storage or in adverse conditions apply [Bore Tech Friction Guard XP Gun Oil](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Friction%20Guard%20XP%20Gun%20Oil.md).
 * Before using firearm, always run a dry patch through the bore. This will remove any residue and ensure against obstructions.
 
 ## FAQ
 
 * Q: What is the difference between C4 Carbon Remover and [Eliminator Bore Cleaner](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Eliminator%20Bore%20Cleaner.md)? \
-  A: The C4 Carbon Remover is recommended for extreme carbon fouling situations such as AR bolt/bolt carriers, revolver cylinders or neglected barrels and specifically removes carbon fouling only. Eliminator removes both carbon and copper fouling and is recommend for most regular fouling situations. Please see our [Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf) located in the Specification Tab or in our Knowledge Center for more information.
+  A: The C4 Carbon Remover is recommended for extreme carbon fouling situations such as AR bolt/bolt carriers, revolver cylinders or neglected barrels and specifically removes carbon fouling only. Eliminator removes both carbon and copper fouling and is recommend for most regular fouling situations. Please see our [Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf).
 
 * Q: Is C4 Carbon Remover safe to leave soak in a barrel overnight? \
   A: Yes, the C4 Carbon Remover can be left to safely soak in barrels for an infinite time period.

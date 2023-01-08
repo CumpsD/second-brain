@@ -38,18 +38,18 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 
 * Unload firearm.
 * Wet 3 to 4 patches with Eliminator Bore Cleaner and individually push through bore to remove loose fouling. Only push patches through the bore in ONE direction.
-* Next, make 10 to 15 passes with a tight fitting Bore Tech Proof-Positive Nylon brush saturated with Eliminator.
+* Next, make 10 to 15 passes with a tight fitting [Bore Tech Proof-Positive Nylon brush](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Proof-Positive%20Nylon%20Bore%20Brush.md) saturated with Eliminator.
 * Then repeat Step 1 and let Eliminator soak for 3 to 5 minutes. For badly fouled rifles, extended soak times may be needed.
 * Finally, push dry patches through the bore until they come out clean.
 * Repeat above steps if necessary.
 * Before storing firearm, dampen a patch with Eliminator and push through bore. This will protect against rust/corrosion for up to 2 weeks under normal storage conditions.
-* For extended storage or in adverse conditions apply Bore Tech Friction Guard XP Gun Oil.
+* For extended storage or in adverse conditions apply [Bore Tech Friction Guard XP Gun Oil](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Friction%20Guard%20XP%20Gun%20Oil.md).
 * Before using firearm, always run a dry patch through the bore. This will remove any residue and ensure against obstructions.
 
 ## FAQ
 
 * Q: What is the difference between Eliminator, Cu+2 Copper Remover and [C4 Carbon Remover](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20C4%20Carbon%20Remover.md)? \
-  A: The Eliminator removes both carbon and copper fouling and is recommended for most regular fouling situations. It provides a quick, easy and great overall clean. For extreme fouling situations the specific Cu+2 Copper Remover (Copper Removal Only) and C4 Carbon Remover (Carbon Removal Only) are recommended. These solutions directly target and effectively focus on removing their respective fouling types. Please see our [Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf) located in the Specification Tab or in our Knowledge Center for more information.
+  A: The Eliminator removes both carbon and copper fouling and is recommended for most regular fouling situations. It provides a quick, easy and great overall clean. For extreme fouling situations the specific Cu+2 Copper Remover (Copper Removal Only) and C4 Carbon Remover (Carbon Removal Only) are recommended. These solutions directly target and effectively focus on removing their respective fouling types. Please see our [Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf).
 
 * Q: Is Eliminator safe to leave soak in a barrel overnight? \
   A: Yes, the Eliminator can be left to safely soak in barrels for an infinite time period.

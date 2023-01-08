@@ -29,7 +29,7 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 ## Instructions
 
 * Unload firearm.
-* Clean areas to be treated with Bore Tech Blast Degreaser and let dry.
+* Clean areas to be treated with [Bore Tech Blast Degreaser](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Blast%20Degreaser.md) and let dry.
 * Next, apply Friction Guard XP to all moving parts. Cycle the parts several times to distribute oil evenly.
 * If applying to bore, wet a Bore Tech patch/mop and pass through bore until a light coat of oil is present.
 * Before using firearm, always run a dry patch through the bore. This will remove any residue and ensure against obstructions.
@@ -37,7 +37,7 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 ## FAQ
 
 * Q: When do I use the Friction Guard XP Gun Oil instead of Shield XP Rust Preventative? \
-  A: Friction Guard XP is recommended for use internally (rifle bores) to protect against rust and corrosion or as a lubricant on moving parts. The Shield XP is recommended for use on the exterior of firearms to protect against rust and corrosion and is not a lubricant. Please see our convenient and easy to use Lubricant/Preventative Selection Guide in the Specifications Tab or in the Knowledge Center.
+  A: Friction Guard XP is recommended for use internally (rifle bores) to protect against rust and corrosion or as a lubricant on moving parts. The Shield XP is recommended for use on the exterior of firearms to protect against rust and corrosion and is not a lubricant. Please see our convenient and easy to use [Lubricant/Preventative Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Lubricant_Preventative_Guide_WebReady.jpg).
 
 * Q: Can I use Friction Guard XP inside my bore? \
   A: Yes, the Friction Guard XP can be used inside your bore to protect against rust and corrosion for extended periods.

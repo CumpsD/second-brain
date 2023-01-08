@@ -38,14 +38,11 @@ See [Bore Tech Rod Length Guide](https://github.com/CumpsD/second-brain/raw/main
 * Q: Does the mentioned length include the handle? \
   A: No, the specified length is the “Working Length” of the rod and does not include the additional length of the handle. See illustration in Specifications Tab.
 
-* Q: What are the diameters of the rods? \
-  A: The diameters for the different caliber rods are listed in the Specifications Tab.
-
 * Q: Are the rod tips male or female and what are the threads? \
   A: All rod tips are female and have either 5/40 or 8/32 threads. The corresponding threads are listed in the Specifications Tab.
 
 * Q: What are the handle colors of the Bore Stix? \
-  A: The handle colors are used to clearly identify what caliber(s) the Bore Stix are to be used with. The corresponding caliber/handle color chart is displayed in the Specifications Tab.
+  A: The handle colors are used to clearly identify what caliber(s) the Bore Stix are to be used with.
 
 * Q: What is the difference between the Proof-Positive Bore Stix and V-Stix? \
   A: The Proof- Positive Bore Stix are our top-of-the-line premium coated cleaning rods and feature the industry renowned color coded, comfort grip, ball bearing handles, exclusive Proof-Positive tips and a vast variety of diameter and length choices. The V-Stix are a great coated cleaning rod for the money. They feature color coded, rotating hard plastic handles, brass tips and fewer length and diameter options.

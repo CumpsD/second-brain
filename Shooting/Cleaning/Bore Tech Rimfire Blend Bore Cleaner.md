@@ -32,12 +32,12 @@ See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/
 
 * Unload firearm.
 * Wet 3 to 4 patches with Rimfire Blend and individually push through bore to remove loose fouling. Only push patches through the bore in ONE direction.
-* Next, make 10 to 15 passes with a tight fitting Bore Tech Proof-Positive Nylon brush saturated with Rimfire Blend.
+* Next, make 10 to 15 passes with a tight fitting [Bore Tech Proof-Positive Nylon brush](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Proof-Positive%20Nylon%20Bore%20Brush.md) saturated with Rimfire Blend.
 * Then repeat Step 1 and let Rimfire Blend soak for 5 to 10 minutes. For badly fouled rifles, extended soak times may be needed.
 * Finally, push dry patches through the bore until they come out clean.
 * Repeat above steps if necessary.
 * Before storing firearm, dampen a patch with Rimfire Blend and push through bore. This will protect against rust/corrosion for up to 2 weeks under normal storage conditions.
-* For extended storage or in adverse conditions apply Bore Tech Friction Guard XP Gun Oil.
+* For extended storage or in adverse conditions apply [Bore Tech Friction Guard XP Gun Oil](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20Friction%20Guard%20XP%20Gun%20Oil.md).
 * Before using firearm, always run a dry patch through the bore. This will remove any residue and ensure against obstructions.
 
 ## FAQ
