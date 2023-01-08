@@ -4,6 +4,18 @@
 
 * [Bore Tech C4 Carbon Remover](https://www.boretech.com/products/c4-carbon-remover)
 
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/carbon-remover.jpg "a")
+
+## Description
+
+> Bore Tech’s C4 Carbon Remover is a cutting edge carbon cleaner that quickly and effectively removes heavy carbon fouling without the hazards, toxicity, and odors typically found in competitive cleaners.
+>
+> Bore Tech C4 Carbon Remover features a highly advanced chemical formulation that begins its assault on carbon fouling by utilizing a strategic blend of chemical surfactants that quickly loosens and releases carbon deposits from the surface.
+>
+> C4 Carbon Remover’s proprietary formulation utilizes a sophisticated blend of surfactants, penetrants, suspending agents and chemical action to remove stubborn carbon deposits. This enhanced formulation provides a deep clean and also effectively neutralizes and removes the corrosive residues found in surplus ammunition and black powder.
+>
+> The C4 Carbon Remover is ideal for barrels, throats and chambers, AR bolt and bolt carriers, flash suppressors, compensators, revolver cylinders, gas pistons and any other place extreme carbon fouling is found.
+
 ## Specifications
 
 See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf).

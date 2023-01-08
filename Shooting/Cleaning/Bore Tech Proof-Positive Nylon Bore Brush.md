@@ -4,6 +4,8 @@
 
 * [Bore Tech Proof-Positive Nylon Bore Brush](https://www.boretech.com/products/nylon-rifle-brush-3-pack)
 
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/brush.jpg "a")
+
 ## Description
 
 > Bore Tech’s Proof-Positive Nylon Bore Brushes are 100% barrel safe and set the benchmark for all other nylon brushe* This is due to the superior construction and engineered features that are incorporated into each and every brush.
@@ -17,6 +19,7 @@
 ## Specifications
 
 | Rifle Brushes | .17 & .20 Cal | .22 Cal - .50 Cal |
+| -- | -- | -- |
 | Brush Threads | Male 5/40 | Male 8/32 |
 | Brush Length | 1 ½ inches | 2 ½ inches |
 | Core | Looped End, Double Wound Alloy | Looped End, Double Wound Alloy |

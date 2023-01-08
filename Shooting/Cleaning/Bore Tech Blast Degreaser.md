@@ -4,6 +4,12 @@
 
 [Bore Tech Blast Degreaser](https://www.boretech.com/products/btcd-50015)
 
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/degreaser.jpg "a")
+
+## Description
+
+> Bore Tech's Blast Degreaser is a fast acting and fast drying blend of synthetic and natural solvents carefully balanced to provide optimum cleaning of carbon, oil and grease without the offensive smell and damaging properties of traditional degreasers. Blast Degreaser is ideal for quickly cleaning and degreasing rifle and shotgun actions, pistol slides, trigger assemblies and hard to reach areas.
+
 ## Specifications
 
 See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf).

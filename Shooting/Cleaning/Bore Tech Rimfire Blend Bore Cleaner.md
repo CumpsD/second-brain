@@ -4,6 +4,16 @@
 
 * [Bore Tech Rimfire Blend Bore Cleaner](https://www.boretech.com/products/rimfire-blend)
 
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/rimfire-blend.jpg "a")
+
+## Description
+
+> Bore Tech’s Rimfire Blend Bore Cleaner is a specially formulated bore cleaner that effectively cleans lead, powder fouling and bullet wax with ease. Rimfire Blend surpasses the rigorous demands of today’s smallbore shooters and has become the cleaner of choice for both world renowned competition shooters and rifle manufactures.
+>
+> Rimfire Blend’s proprietary formulation utilizes a combination of chemicals that contains no ammonia, no offensive odors and is 100% biodegradable. It has the ability to simultaneously cut through the layers of lead, wax and carbon fouling and buildup found on barrel walls.
+>
+> Rimfire Blend uses an exclusive blend of surfactants, penetrants and releasing agents to penetrate and lift lead fouling off of the barrel’s surface. This technology allows the chemical to perform all the “grunt” work, allowing for minimal time spent brushing and patching. The proof is on the patch, so do not be surprised when you see strands and flecks of lead fouling coming out the end of your bore!
+
 ## Specifications
 
 See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf).

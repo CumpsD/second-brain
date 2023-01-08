@@ -4,6 +4,22 @@
 
 * [Bore Tech Eliminator Bore Cleaner](https://www.boretech.com/products/eliminator-bore-cleaner)
 
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/eliminator.jpg "a")
+
+## Description
+
+> Bore Tech Eliminator Bore Cleaner is the patented, fast-acting, barrel-safe, non-ammonia bore solvent that has taken the shooting industry by storm. Eliminator gun bore cleaner has been proven to surpass the rigorous demands of the modern-day shooter and is the cleaner of choice by shooters worldwide who demand the best.
+>
+> Eliminator’s proprietary formulation is a combination of ingredients that can simultaneously cut through heavy layers of carbon and copper fouling that accumulate during shooting.
+>
+> Eliminator begins its assault on fouling by utilizing a strategic blend of chemical surfactants that quickly loosen and release carbon deposits from the barrel’s surface. These surfactants also effectively neutralize all corrosive residues preventing barrel damaging rust and corrosion.
+>
+> During the removal of carbon fouling, Eliminator also uses an unparalleled process that rapidly oxidizes copper fouling and suspends it in the cleaning solution, rendering it unable to redeposit onto the barrel surface. This exclusive technology allows for the continued and complete extraction of both carbon and copper fouling at full strength without becoming saturated and losing effectiveness.
+>
+> Bore Tech Eliminator is 100% ammonia free and barrel safe. It will not etch or harm barrel steels and can be safely left to soak in the bore for an infinite period of time. In addition, the Eliminator also contains a short term rust preventative, which shields and conditions the firearm’s bore after cleaning. Just dampen your last patch with Eliminator and your bore will be protected against rust and corrosion for up to 2 weeks.
+>
+> Bore Tech Eliminator is the best bore cleaner that quickly eliminates carbon and copper fouling without the hazards, toxicity, and odors found in competitive cleaners.
+
 ## Specifications
 
 See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf).

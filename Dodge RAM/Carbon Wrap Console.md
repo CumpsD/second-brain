@@ -38,7 +38,7 @@ For some reason, they have a gold/brown-ish inset. Nowhere else does this color 
 
 ## Wrapping
 
-Wrap to use: [3M™ Wrap Film Series 1080 - Matrix Black (Replaced by 3M™ 2080)](https://www.rvinyl.com/3M-Wrap-Film-Series-1080-Matrix-Back-MX12.html) or [3M™ Wrap Film Series 2080 - Carbon Fiber Black](https://www.rvinyl.com/3M-Wrap-Film-Series-2080-Carbon-Fiber-Black-Vinyl.html)
+Wrap to use: [3M Wrap Film Series 1080 - Matrix Black (Replaced by 3M 2080)](https://www.rvinyl.com/3M-Wrap-Film-Series-1080-Matrix-Back-MX12.html) or [3M Wrap Film Series 2080 - Carbon Fiber Black](https://www.rvinyl.com/3M-Wrap-Film-Series-2080-Carbon-Fiber-Black-Vinyl.html)
 
 ## Resources
 

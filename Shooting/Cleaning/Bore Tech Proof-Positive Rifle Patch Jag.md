@@ -2,7 +2,9 @@
 
 ## About
 
-* [Bore Tech Proof-Positive Rifle Patch Jag](https://www.boretech.com/categories/rifle-cleaning-supplies/cleaning-rods/proof-positive-bore-stix)
+* [Bore Tech Proof-Positive Rifle Patch Jag](https://www.boretech.com/products/proof-positive-rifle-jag)
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/jag.jpg "a")
 
 ## Description
 
@@ -42,7 +44,7 @@
   A: There are many factors that can lead to this issue. Presuming that you are using the correct caliber jag and patch size for your application (Please consult our Patch Selection Chart) there is a simple trick to avoid this issue. A commonly overlooked solution to remedy overly tight or jammed patches is what we call “Side Spiking”. Please see our Side Spiking article located in the Knowledge Center for detailed information.
 
 * Q: Should I use an undersized jag? \
-  A: We typically do not recommend using undersized jags. We have designed and tested our jags to ensure they work properly in their respective calibers when using the correct size Bore Tech X-Count patches.
+  A: We typically do not recommend using undersized jags. We have designed and tested our jags to ensure they work properly in their respective calibers when using the correct size [Bore Tech X-Count patches](https://github.com/CumpsD/second-brain/blob/main/Shooting/Cleaning/Bore%20Tech%20X-Count%20Square%20Patches.md).
 
 * Q: What do I clean my jags with after use? \
   A: When using Bore Tech Cleaners, simply use warm water. We recommend rubbing the jags between your palms while warm tap water flows over them.

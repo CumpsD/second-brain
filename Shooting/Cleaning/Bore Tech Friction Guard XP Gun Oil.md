@@ -4,6 +4,20 @@
 
 [Bore Tech Friction Guard XP Gun Oil](https://www.boretech.com/products/btco-14004)
 
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/friction-guard.jpg "a")
+
+## Description
+
+> Bore Tech Friction Guard XP Gun Oil is a specially formulated synthetic blend of oils with cutting edge additives that provide high performance lubrication and enhanced rust and corrosion properties that exceed MIL-PRF-63460E requirements.
+>
+> Friction Guard XP’s technologically advanced formulation incorporates proprietary additives that penetrate deep into the metal’s pores and bond to the metal’s surface creating an enhanced film strength layer that provides superior anti-wear properties over a wide range of operating temperatures. Friction Guard XP will not burn off under extreme temperatures found during full auto fire or become sticky and gummy in the extreme cold with a -100˚F to 600˚F operating range.
+>
+> The Friction Guard XP also offers unparalleled protection against rust and corrosion by forming an effective barrier film on the surface. This micro thin film has surpassed 100 hours in the ASTM B-117 salt spray test and proven to effectively displace moisture and neutralize corrosive residues.
+>
+> A light coat of Friction Guard XP during storage continues to condition the metal surface. It will not attract dust or debris and helps repel fouling during shooting.
+>
+> Bore Tech’s Friction Guard XP is the enhanced oil of choice for the extreme shooter, hunter or enthusiast looking for nothing but the best.
+
 ## Specifications
 
 See [Bore Tech Chemical Selection Guide](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/boretech/Chemical-Selection-Guide.pdf).
