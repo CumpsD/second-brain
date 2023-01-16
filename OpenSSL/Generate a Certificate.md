@@ -64,3 +64,9 @@ openssl x509 -in example.crt -text -noout
 ```bash
 openssl pkcs12 -export -out example.pfx -inkey example.key -in example.crt
 ```
+
+## Convert a PEM certificate file and a private key to PKCS#12 (.pfx .p12) for Windows 2012
+
+```bash
+pkcs12 -export -certpbe PBE-SHA1-3DES -keypbe PBE-SHA1-3DES -nomac -out example.pfx -inkey example.key -in example.crt
+```
