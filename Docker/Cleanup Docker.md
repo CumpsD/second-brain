@@ -9,6 +9,14 @@ docker system prune --all
 docker system prune --volumes
 ```
 
+```bash
+docker system df && \
+docker system df -v && \
+docker system prune -a --volumes && \
+docker system df && \
+docker system df -v
+```
+
 ## Helper
 
 Provide more granular control on the age of items to delete.
