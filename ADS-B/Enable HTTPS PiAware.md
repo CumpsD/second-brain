@@ -3,6 +3,7 @@
 We need to configure lighttpd to support SSL:
 
 ```bash
+apt-get install lighttpd-mod-openssl
 nano /etc/lighttpd/conf-enabled/99-ssl.conf
 ```
 

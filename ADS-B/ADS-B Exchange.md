@@ -73,4 +73,5 @@ sudo bash /usr/local/share/adsbexchange-stats/uninstall.sh
 
 ## Profile
 
-* Varsenare: https://www.adsbexchange.com/api/feeders/?feed=1y4g0hrLZEJx
+* Varsenare: https://www.adsbexchange.com/api/feeders/?feed=J02vHaIt_sRc
+* Varsenare: https://globe.adsbexchange.com/?feed=J02vHaIt_sRc
