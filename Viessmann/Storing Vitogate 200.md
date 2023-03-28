@@ -118,7 +118,7 @@ Hieronder is de tijdslijn van alles wat ondernomen is om deze storing te verhelp
   * Terug proberen bellen om afspraak te verzetten.
     * Gebeld om `8:04`, technische dienst aan de lijn gehad, dat we waarschijnlijk niet gingen binnen raken. Ging het wel in ons dossier schrijven.
   * Nog geprobeerd om `8:11`, `8:15`, `8:31`, `8:33`, `8:35`, `8:40`, `8:49`, `9:25`, `9:35`, `9:40`, niemand neemt op.
-  * Nog eens gebeld: `9:43`, onthaal aan de lijn.
+  * Nog eens gebeld: `9:43`, onthaal aan de lijn, je belt beter morgen terug.
 
 ## Vrijdag 16 december 2022
 
