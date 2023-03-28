@@ -14,7 +14,7 @@ Hieronder is de tijdslijn van alles wat ondernomen is om deze storing te verhelp
 
 ## Woensdag 9 november 2022
 
-* David heeft Viessmann nog eens gebeld, want bedrijf niet meer gehoord
+* David heeft Viessmann nog eens gebeld, want bedrijf niet meer gehoord.
 * Onthaal aan de lijn gekregen.
 * Ze gaan terugbellen van de planning.
 
@@ -31,14 +31,14 @@ Hieronder is de tijdslijn van alles wat ondernomen is om deze storing te verhelp
 
 ## Donderdag 17 november 2022
 
-* Viessmann is om 14u langsgekomen.
+* Viessmann is om `14u` langsgekomen.
   * Gewoon eens ketel herstart.
   * Foutmelding weg.
   * Foutmelding ’s avonds terug.
 * David heeft teruggebeld. Geen antwoord.
 * Verslag interventie: [2022-11-17-servicereport_20221117144228.pdf](https://github.com/CumpsD/second-brain/raw/main/assets/viessmann/2022-11-17-servicereport_20221117144228.pdf)
   * In dit rapport zien we al dat de technieker niet goed gekeken heeft en gehandeld heeft op basis van `fout 98` en niet `storing DEELNEMER 98`, hierdoor zijn allerlei onnodige handelingen gedaan naar onderzoek rond een `sensor 7` waar niets fout mee was.
-  * Deze fout blijft nog enkele interventies onopgemerkt tot David hem zelf uitzoekt en Viessmann erop wijst.
+  * **Opmerking**: Deze fout blijft nog enkele interventies onopgemerkt tot David hem zelf uitzoekt en Viessmann erop wijst.
 
 ## Vrijdag 18 november
 
@@ -49,14 +49,12 @@ Hieronder is de tijdslijn van alles wat ondernomen is om deze storing te verhelp
 
 * David belt weer naar Viessmann, onthaal.
 * Ze gaan het nogmaals doorgeven aan de planning.
-  * David:
-    > Wanneer telefoon terug verwachten? Het is al een week geleden dat ik gebeld heb, en nog niets gehoord.
-  * Viessmann:
-    > We gaan het doorgeven met hogere prioriteit.
+  > David: Wanneer telefoon terug verwachten? Het is al een week geleden dat ik gebeld heb, en nog niets gehoord. \
+  > Viessmann: We gaan het doorgeven met hogere prioriteit.
 
 ## Vrijdag 25 november 2022
 
-* Gemaild maar nooit antwoord op gekregen.
+* Volgende mail gestuurd maar nooit antwoord op gekregen.
   > Beste,
   >
   > Dit probleem is nog niet opgelost. Gelieve mij te contacteren voor een nieuwe afspraak interventie in te plannen.
@@ -77,31 +75,31 @@ Hieronder is de tijdslijn van alles wat ondernomen is om deze storing te verhelp
 ## Vrijdag 2 december 2022
 
 * Anneleen heeft gebeld.
-  * Zat bij het onthaal. Ze gaven mij een ander nummer om te bellen. `0800 999 40`.
+  * Zat bij het onthaal. Ze gaven een ander nummer om te bellen: `0800 999 40`.
     * Afgescheept: want tel. Particulier. Contact gegevens gekregen van Viessmann in Zaventem.
-    * David heeft gebeld. Ze vallen compleet uit de lucht.
-      > Niet de bedoeling dat we naar daar bellen. \
+    * David heeft gebeld. Bij Viessmann vallen ze compleet uit de lucht.
+      > Niet de bedoeling dat we naar dat nummer bellen. \
       > Ze kunnen geen planning doen. Enkel nummers geven van Viessmann loodgieters. \
       > Maar, dat werkt zo niet zei ze. Want u hebt een servicecontract. En die nummers zijn gewoon zelfstandigen die je moet betalen. \
       > Dat werkt niet zo met een servicecontract. De planning dienst moet u een afspraak geven. \
       > Het kan niet zijn dat je meer dan een maand moet wachten met een servicecontact plus.
-      * 2 nummers gekregen van lokale installateurs.
+      * Opmerkelijk dat deze persoon bij Viessmann wel begrijpt dat dit geen manier van werken is.
 * David heeft via Trustpilot NL 1 ster gegeven. \
   ![a](https://github.com/CumpsD/second-brain/raw/main/assets/viessmann/2022-12-02-trustpilot.png "a")
-* Ook nog eens getagged op Twitter.
+* Ook nog eens getagged op [Twitter](https://twitter.com/cumpsd/status/1598653999833616384).
 * Anneleen heeft teruggebeld, maar geen gehoor meer.
-  * Gebeld om 10u46, 11u17 en 11u21
+  * Gebeld om `10u46`, `11u17` en `11u21` zonder iemand aan de lijn te krijgen.
 
 ## Dinsdag 6 december 2022
 
-* Anneleen heeft gebeld. Heb iemand aan de lijn. Heel verward. Blijft gewoon ademen. Ik leg toe, bel terug, niemand neemt meer op.
-* `8u10`, `8u12`, `8u19`, `8u35`, na 4 keer onthaal aan de lijn gekregen.
+* Anneleen heeft gebeld. Heeft iemand aan de lijn. Heel verward. Blijft gewoon ademen. Anneleen legt toe, bel terug, niemand neemt meer op.
+* `8u10`, `8u12`, `8u19`, `8u35`, na 4 keer proberen het onthaal aan de lijn gekregen.
 * Moet de wekker om `7u59` zetten om binnen te kunnen geraken.
 
 ## Woensdag 7 december 2022
 
 * Anneleen heeft opnieuw gebeld.
-  * `7u59`, `8u`
+  * `7u59`, `8u`.
 * Afspraak kunnen maken voor `14 december 2022`.
   > Interventie nummer: `000201314989` \
   > Geachte mevrouw, mijnheer, \
@@ -118,7 +116,7 @@ Hieronder is de tijdslijn van alles wat ondernomen is om deze storing te verhelp
    * `8u`
   * Afspraak `dinsdag 20 december 2022` tussen `12u en 16u30`, maar kon niet voor David.
   * Terug proberen bellen om afspraak te verzetten.
-    * `8:00`, `8:04`, `8:11`, `8:15`, `8:31`, `8:33`, `8:35`, `8:40`, `8:49`, `9:25`, `9:35`, `9:40`, `9:43`, niemand neemt op.
+    * Gebeld om `8:00`, `8:04`, `8:11`, `8:15`, `8:31`, `8:33`, `8:35`, `8:40`, `8:49`, `9:25`, `9:35`, `9:40`, `9:43`, niemand neemt op.
   * Technische dienst aan de lijn gehad.
   * Ging het wel in ons dossier schrijven.
   * Nog eens gebeld: onthaal aan de lijn.
@@ -129,9 +127,9 @@ Hieronder is de tijdslijn van alles wat ondernomen is om deze storing te verhelp
 
 ## Dinsdag 20 december 2022
 
-* **Opmerking**: Viessmann is nog altijd in de veronderstelling dat dit `storing 98` is en niet `storing deelnemer 98`
+* **Opmerking**: Viessmann is nog altijd in de veronderstelling dat dit `storing 98` is en niet `storing deelnemer 98`.
 * Technieker langs geweest.
-* Nieuwe zonnemodule gekregen. Gsmnummer gekregen van die man. Babbeltje over domotica gedaan.
+* Nieuwe zonnemodule gekregen. Gsm nummer gekregen van die man. Babbeltje over domotica gedaan.
 * Technieker nog maar weg, storing terug.
 * Gebeld naar zijn gsm. Hij komt onmiddellijk terug.
 * Nieuwe module, zelfde storing. Via pc is alles ok. Complete factory reset nu. Afwachten...
@@ -227,7 +225,7 @@ Hieronder is de tijdslijn van alles wat ondernomen is om deze storing te verhelp
 
 ## Donderdag 2 maart 2023
 
-* Volgende ongepaste mail gekregen van Viessmann, `Magali Vervier <vevm@viessmann.com>`, die neerkomt op **Trek uw plan, wij lossen het niet op**. \
+* Volgende mail gekregen van Viessmann, `Magali Vervier <vevm@viessmann.com>`, die neerkomt op **Trek uw plan, wij lossen het niet op**. \
   ![a](https://github.com/CumpsD/second-brain/raw/main/assets/viessmann/2023-03-02-viessmann-trek-uw-plan.png "a")
 
 * Hierop onmiddellijk gereageerd naar `Magali Vervier <vevm@viessmann.com>` met volgend antwoord:
