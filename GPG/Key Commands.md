@@ -10,7 +10,7 @@ $ gpg --list-keys
  uid                  terminaltwister (test user for demo) <email@address.com>
  sub   4096R/7C7D2187 2019-08-22 [expires: 2020-08-21]
 
-$ gpg --list-secret-keys
+$ gpg --list-secret-keys --keyid-format LONG
  /root/.gnupg/secring.gpg
  ------------------------
  sec   4096R/D37A732F 2019-08-22 [expires: 2020-08-21]
