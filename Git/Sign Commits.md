@@ -11,7 +11,7 @@ git config --global gpg.format "openpgp"
 
 git config --global commit.gpgsign true
 
-git config --global push.gpgsign true
+git config --global push.gpgsign false
 
 git config --global tag.gpgsign true
 git config --global tag.forceSignAnnotated true
