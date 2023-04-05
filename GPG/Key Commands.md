@@ -256,3 +256,19 @@ gpg --edit-key <key_id>
 > passwd
 > save
 ```
+
+## Removing Private Master Key
+
+Make sure you have backed up the private key:
+
+```bash
+gpg -o mastersub.gpg --armor --export-secret-keys $KEYID
+gpg -o sub.gpg --armor --export-secret-subkeys $KEYID
+```
+
+Remove the private key:
+
+```bash
+gpg -K --with-keygrip
+del %APPDATA%\gnupg\private-keys-v1.d\<Keygrip>.key
+```
