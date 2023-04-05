@@ -186,10 +186,12 @@ $ gpg --refresh-keys
  gpg: Total number processed: 2
  gpg:              unchanged: 2
 
-$ gpg --send-keys <key_id>
+$ gpg --send-keys --keyserver keys.openpgp.org <key_id>
  gpg: sending key 0x9D771C7A03413FB3 to hkps://keys.openpgp.org
 
 $ gpg --send-keys --keyserver keyserver.ubuntu.com <key_id>
+$ gpg --send-keys --keyserver pgp.mit.edu <key_id>
+$ gpg --send-keys --keyserver keys.gnupg.net <key_id>
 ```
 
 At this point you can find your key online too: [keys.openpgp.org/search?q=0x9D771C7A03413FB3](https://keys.openpgp.org/search?q=0x9D771C7A03413FB3)
