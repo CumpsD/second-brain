@@ -1,4 +1,4 @@
-# Use YubiKey
+# YubiKey
 
 # Configure Smartcard
 
@@ -38,10 +38,6 @@ Admin commands are allowed
 ```
 
 **Note** If the card is locked, see [Reset](#reset).
-
-**Windows**
-
-Use the [YubiKey Manager](https://developers.yubico.com/yubikey-manager) application (note, this is not the similarly named older YubiKey NEO Manager) to enable CCID functionality.
 
 ## Enable KDF
 
@@ -120,6 +116,10 @@ Language preferences: en
 
 gpg/card> login
 Login data (account name): doc@duh.to
+
+gpg/card> salutation
+gpg/card> url
+gpg/card> fetch
 
 gpg/card> list
 
@@ -291,6 +291,20 @@ $ cp -avi /mnt/encrypted-storage/tmp.XXX $GNUPGHOME
 $ cd $GNUPGHOME
 ```
 
+Another way to provision additional security keys:
+
+* Insert Yubikey 1
+* Create keys/subkeys
+* Run `keytocard` to transfer keys to Yubikey 1
+* **QUIT WITHOUT SAVING!!!!!**
+
+This will leave the keys on the Yubikey but NOT change the
+GPG keyring to point to the Yubikey1 with a stub
+
+* Insert Yubikey 2
+* Run `keytocard` to transfer keys to Yubikey 2
+* QUIT and SAVE to make GPG point it's stubs to Yubikey 2
+
 ## Switching between two or more Yubikeys
 
 When you add a GPG key to a Yubikey using the *keytocard* command, GPG deletes the key from your keyring and adds a *stub* pointing to that exact Yubikey (the stub identifies the GPG KeyID and the Yubikey's serial number).
@@ -316,6 +330,199 @@ To return to using the second Yubikey just repeat (insert other Yubikey and re-r
 
 Obviously this command is not easy to remember so it is recommended to either create a script or a shell alias to make this more user friendly.
 
-## Switching YubiKey
+# Using keys
 
-gpg-connect-agent "scd serialno" "learn --force" /bye
+Remove and re-insert YubiKey and verify the status:
+
+```console
+$ gpg --card-status
+Reader ...........: Yubico YubiKey OTP FIDO CCID 00 00
+Application ID ...: D2760001240102010006055532110000
+Version ..........: 3.4
+Manufacturer .....: Yubico
+Serial number ....: 05553211
+Name of cardholder: Dr Duh
+Language prefs ...: en
+Sex ..............: unspecified
+URL of public key : [not set]
+Login data .......: doc@duh.to
+Signature PIN ....: not forced
+Key attributes ...: rsa4096 rsa4096 rsa4096
+Max. PIN lengths .: 127 127 127
+PIN retry counter : 3 3 3
+Signature counter : 0
+KDF setting ......: on
+Signature key ....: 07AA 7735 E502 C5EB E09E  B8B0 BECF A3C1 AE19 1D15
+      created ....: 2016-05-24 23:22:01
+Encryption key....: 6F26 6F46 845B BEB8 BDF3  7E9B 5912 A795 E90D D2CF
+      created ....: 2016-05-24 23:29:03
+Authentication key: 82BE 7837 6A3F 2E7B E556  5E35 3F29 127E 7964 9A3D
+      created ....: 2016-05-24 23:36:40
+General key info..: pub  4096R/0xBECFA3C1AE191D15 2016-05-24 Dr Duh <doc@duh.to>
+sec#  4096R/0xFF3E7D88647EBCDB  created: 2016-05-24  expires: never
+ssb>  4096R/0xBECFA3C1AE191D15  created: 2017-10-09  expires: 2018-10-09
+                      card-no: 0006 05553211
+ssb>  4096R/0x5912A795E90DD2CF  created: 2017-10-09  expires: 2018-10-09
+                      card-no: 0006 05553211
+ssb>  4096R/0x3F29127E79649A3D  created: 2017-10-09  expires: 2018-10-09
+                      card-no: 0006 05553211
+```
+
+`sec#` indicates the master key is not available (as it should be stored encrypted offline).
+
+**Note** If you see `General key info..: [none]` in the output instead - go back and import the public key using the previous step.
+
+Encrypt a message to your own key (useful for storing password credentials and other data):
+
+```console
+$ echo "test message string" | gpg --encrypt --armor --recipient $KEYID -o encrypted.txt
+```
+
+To encrypt to multiple recipients (or to multiple keys):
+
+```console
+$ echo "test message string" | gpg --encrypt --armor --recipient $KEYID_0 --recipient $KEYID_1 --recipient $KEYID_2 -o encrypted.txt
+```
+
+Decrypt the message:
+
+```console
+$ gpg --decrypt --armor encrypted.txt
+gpg: anonymous recipient; trying secret key 0x0000000000000000 ...
+gpg: okay, we are the anonymous recipient.
+gpg: encrypted with RSA key, ID 0x0000000000000000
+test message string
+```
+
+Sign a message:
+
+```console
+$ echo "test message string" | gpg --armor --clearsign > signed.txt
+```
+
+Verify the signature:
+
+```console
+$ gpg --verify signed.txt
+gpg: Signature made Wed 25 May 2016 00:00:00 AM UTC
+gpg:                using RSA key 0xBECFA3C1AE191D15
+gpg: Good signature from "Dr Duh <doc@duh.to>" [ultimate]
+Primary key fingerprint: 011C E16B D45B 27A5 5BA8  776D FF3E 7D88 647E BCDB
+     Subkey fingerprint: 07AA 7735 E502 C5EB E09E  B8B0 BECF A3C1 AE19 1D15
+```
+
+# Require touch
+
+**Note** This is not possible on YubiKey NEO.
+
+By default, YubiKey will perform encryption, signing and authentication operations without requiring any action from the user, after the key is plugged in and first unlocked with the PIN.
+
+To require a touch for each key operation, install [YubiKey Manager](https://developers.yubico.com/yubikey-manager/) and recall the Admin PIN:
+
+**Note** Older versions of YubiKey Manager use `touch` instead of `set-touch` in the following commands.
+
+Authentication:
+
+```console
+$ ykman openpgp keys set-touch aut on
+```
+
+Signing:
+
+```console
+$ ykman openpgp keys set-touch sig on
+```
+
+Encryption:
+
+```console
+$ ykman openpgp keys set-touch enc on
+```
+
+Depending on how the YubiKey is going to be used, you may want to look at the policy options for each of these and adjust the above commands accordingly. They can be viewed with the following command:
+
+```console
+$ ykman openpgp keys set-touch -h
+Usage: ykman openpgp keys set-touch [OPTIONS] KEY POLICY
+
+  Set touch policy for OpenPGP keys.
+
+  KEY     Key slot to set (sig, enc, aut or att).
+  POLICY  Touch policy to set (on, off, fixed, cached or cached-fixed).
+
+  The touch policy is used to require user interaction for all operations using the private key on the YubiKey. The touch policy is set individually for each key slot. To see the current touch policy, run
+
+      $ ykman openpgp info
+
+  Touch policies:
+
+  Off (default)   No touch required
+  On              Touch required
+  Fixed           Touch required, can't be disabled without a full reset
+  Cached          Touch required, cached for 15s after use
+  Cached-Fixed    Touch required, cached for 15s after use, can't be disabled
+                  without a full reset
+
+Options:
+  -a, --admin-pin TEXT  Admin PIN for OpenPGP.
+  -f, --force           Confirm the action without prompting.
+  -h, --help            Show this message and exit.
+```
+
+If the YubiKey is going to be used within an email client that opens and verifies encrypted mail, `Cached` or `Cached-Fixed` may be desirable.
+
+```console
+ykman openpgp keys set-touch enc cached
+Enter Admin PIN:
+Set touch policy of ENC key to cached? [y/N]: y
+
+ykman openpgp keys set-touch aut cached
+Enter Admin PIN:
+Set touch policy of AUT key to cached? [y/N]: y
+
+ykman openpgp keys set-touch sig cached
+Enter Admin PIN:
+Set touch policy of SIG key to cached? [y/N]: y
+```
+
+YubiKey will blink when it is waiting for a touch. On Linux you can also use [yubikey-touch-detector](https://github.com/maximbaz/yubikey-touch-detector) to have an indicator or notification that YubiKey is waiting for a touch.
+
+# Reset
+
+If PIN attempts are exceeded, the card is locked and must be [reset](https://developers.yubico.com/ykneo-openpgp/ResetApplet.html) and set up again using the encrypted backup.
+
+Copy the following script to a file and run `gpg-connect-agent -r $file` to lock and terminate the card. Then re-insert YubiKey to reset.
+
+```console
+/hex
+scd serialno
+scd apdu 00 20 00 81 08 40 40 40 40 40 40 40 40
+scd apdu 00 20 00 81 08 40 40 40 40 40 40 40 40
+scd apdu 00 20 00 81 08 40 40 40 40 40 40 40 40
+scd apdu 00 20 00 81 08 40 40 40 40 40 40 40 40
+scd apdu 00 20 00 83 08 40 40 40 40 40 40 40 40
+scd apdu 00 20 00 83 08 40 40 40 40 40 40 40 40
+scd apdu 00 20 00 83 08 40 40 40 40 40 40 40 40
+scd apdu 00 20 00 83 08 40 40 40 40 40 40 40 40
+scd apdu 00 e6 00 00
+scd apdu 00 44 00 00
+/echo Card has been successfully reset.
+```
+
+Or use `ykman` (sometimes in `~/.local/bin/`):
+
+```console
+$ ykman openpgp reset
+WARNING! This will delete all stored OpenPGP keys and data and restore factory settings? [y/N]: y
+Resetting OpenPGP data, don't remove your YubiKey...
+Success! All data has been cleared and default PINs are set.
+PIN:         123456
+Reset code:  NOT SET
+Admin PIN:   12345678
+```
+
+## Recovery after reset
+
+If for whatever reason you need to reinstate your YubiKey from your master key backup (such as the one stored on an encrypted USB described in [Backup](#backup)), follow the following steps in [Rotating keys](#rotating-keys) to setup your environment, and then follow the steps of again [Configure Smartcard](#configure-smartcard).
+
+Before you unmount your backup, ask yourself if you should make another one just in case.
