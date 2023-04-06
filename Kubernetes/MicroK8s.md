@@ -12,7 +12,7 @@ $ sudo apt-get install iptables-persistent
 
 ## Upgrade
 
-**IMPORTANT NOTE**: Add-ons, unless specified otherwise in the documentation, will **NOT** be upgraded as part of a MicroK8s upgrade. Currently, the most effective way to upgrade these add-ons is to use `microk8s disable <add-on>` and then re-enable them. Please make sure to read the [release notes](https://microk8s.io/docs/release-notes) for specific details referring to add-ons before upgrading.
+> **IMPORTANT NOTE**: Add-ons, unless specified otherwise in the documentation, will **NOT** be upgraded as part of a MicroK8s upgrade. Currently, the most effective way to upgrade these add-ons is to use `microk8s disable <add-on>` and then re-enable them. Please make sure to read the [release notes](https://microk8s.io/docs/release-notes) for specific details referring to add-ons before upgrading.
 
 ```bash
 $ sudo snap refresh microk8s --channel=1.27/stable
