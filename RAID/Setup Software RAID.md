@@ -110,7 +110,6 @@ $ sudo nano /etc/fstab
 UUID=AD6D-6C86                             /boot/efi vfat defaults 0 1
 UUID=276778bc-e194-4863-a03a-0961258e4259  /         ext4 defaults 0 1
 UUID=7946ae6c-862b-4447-ac39-d6b1caed7420  /data     ext4 defaults 0 2
-/swap.img                                  none      swap sw       0 0
 
 $ sudo mount -a
 $ sudo reboot
