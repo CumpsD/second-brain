@@ -25,7 +25,7 @@ sdc      8:32   0 238.5G  0 disk
 ## Install Software
 
 ```bash
-sudo apt install mdadm
+$ sudo apt install mdadm
 ```
 
 ## Setup RAID
