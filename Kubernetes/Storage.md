@@ -128,6 +128,9 @@ volumeBindingMode: WaitForFirstConsumer
 $ kubectl apply -f raid0-hostpath-sc.yaml
 storageclass.storage.k8s.io/raid0-hostpath created
 
+$ kubectl patch storageclass microk8s-hostpath -p '{"metadata": {"annotations":{"storageclass.kubernetes.io/is-default-class":"false"}}}'
+storageclass.storage.k8s.io/microk8s-hostpath patched
+
 $ kubectl get storageclass raid0-hostpath
 NAME             PROVISIONER            RECLAIMPOLICY   VOLUMEBINDINGMODE      ALLOWVOLUMEEXPANSION   AGE
 raid0-hostpath   microk8s.io/hostpath   Delete          WaitForFirstConsumer   false                  49s
