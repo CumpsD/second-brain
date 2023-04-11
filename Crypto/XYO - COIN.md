@@ -13,6 +13,9 @@
 * Download the [COIN App](https://coin.onelink.me/ePJg?af_referrer_name=User&af_siteid=1450443351&af_referrer_uid=1591719668127-5903811&af_channel=Share&pid=af_app_invites&af_referrer_customer_id=CenRw6OyeVZ3Pczp8ivi9Jh5IFQ2)
 * When using the above link, you get a bonus of 1000 `COIN` to start with. \
   ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/referral-bonus.jpg "a")
+
+## Earning `COIN`
+
 * Everytime you *mine* a tile, you get `COIN`. Mining is done with the pickaxe icon.
 * Use the pickaxe icon 15 times to enable Auto Explore. \
   ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/auto-explore.jpg "a")
