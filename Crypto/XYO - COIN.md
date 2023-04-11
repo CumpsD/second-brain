@@ -28,17 +28,22 @@
 
 ## Enable Screensaver
 
-To enable the screensaver, click on the diamond icon in the top left corner and select `Settings`.
+To enable the screensaver, click on the diamond icon in the top left corner and select **Settings**.
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/screensaver.png "a")
 
 ## Enable Home Base & Background Rewards
 
-Home Base lets you get a multiplier when you have the app open at the same location for a longer period of time. While Background Rewards let you earn `COIN` even when the app is closed.
+**Home Base** lets you get a multiplier when you have the app open at the same location for a longer period of time. While **Background Rewards** let you earn `COIN` even when the app is closed.
 
-To enable these, click on the diamond icon in the top left corner and select `Settings`.
+To enable these, click on the diamond icon in the top left corner and select **Settings**.
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/icons.png "a")
+
+After a while, you will see a blue icon on the left side to indicate **Home Base** is enabled and when you click it you see your earning bonus.
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/home-base.png "a")
+
 
 ## Collect Daily `COIN`
 
@@ -52,6 +57,6 @@ Every 24 hours you can click on the yellow HODL icon and redeem free `COIN`.
 
 ## Collect Weekly `COIN`
 
-Every week you get free `COIN` from the Bonus Drop. Enable this by clicking on the plus icon in the top right corner and selecting **Bonus Drops*. Then every week you will be able to click the purple Bonus Drop icon and get free `COIN`.
+Every week you get free `COIN` from the **Bonus Drops**. Enable this by clicking on the plus icon in the top right corner and selecting **Bonus Drops**. Then every week you will be able to click the purple Bonus Drop icon and get free `COIN`.
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/bonus-drop.png "a")
