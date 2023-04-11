@@ -23,7 +23,7 @@
 
 ## Earning `COIN` Automatically
 
-* Once Auto Explore is available, turn it on and take a walk, drive, or leave the app open and earn `COIN`. \
+* Once **Auto Explore** is available, turn it on and take a walk, drive, or leave the app open and earn `COIN`. \
   ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/earning.png "a")
 
 ## Enable Screensaver
