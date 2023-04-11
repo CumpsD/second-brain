@@ -23,8 +23,9 @@
 
 ## Earning `COIN` Automatically
 
-* Once **Auto Explore** is available, turn it on and take a walk, drive, or leave the app open and earn `COIN`. \
-  ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/earning.png "a")
+Once **Auto Explore** is available, turn it on and take a walk, drive, or leave the app open and earn `COIN`.
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/earning.png "a")
 
 ## Enable Screensaver
 
@@ -43,7 +44,6 @@ To enable these, click on the diamond icon in the top left corner and select **S
 After a while, you will see a blue icon on the left side to indicate **Home Base** is enabled and when you click it you see your earning bonus.
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/home-base.png "a")
-
 
 ## Collect Daily `COIN`
 
