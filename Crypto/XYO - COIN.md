@@ -4,7 +4,7 @@
 
 * [`XYO`](https://coinmarketcap.com/currencies/xyo/) is a market tradable cryptocurrency.
 * [COIN App](https://coin.onelink.me/ePJg?af_referrer_name=User&af_siteid=1450443351&af_referrer_uid=1591719668127-5903811&af_channel=Share&pid=af_app_invites&af_referrer_customer_id=CenRw6OyeVZ3Pczp8ivi9Jh5IFQ2) lets you earn `COIN` with geolocation and convert `COIN` into `XYO`.
-* `XYO` can be traded on [Coinbase](https://coinbase.com/join/CUMPS_Y?src=referral-link) for `EUR` or other cryptocurrencies.
+* `XYO` can be exchanged on [Coinbase](https://coinbase.com/join/CUMPS_Y?src=referral-link) for `EUR` or other cryptocurrencies.
 * The majority of `COIN` is earned by having the app open on screensaver mode while travelling.
 * Additional mini games and other features in the app allow you to earn extra `COIN`.
 
