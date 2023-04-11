@@ -39,3 +39,13 @@ Home Base lets you get a multiplier when you have the app open at the same locat
 To enable these, click on the diamond icon in the top left corner and select `Settings`.
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/icons.png "a")
+
+## Collect Daily `COIN`
+
+You can get free `COIN` every day based on the amount of `COIN` and `XYO` you own. Enable this by clicking on the plus icon in the top right corner and selecting **HODL Rewards*.
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/enable-hodl.png "a")
+
+Every 24 hours you can click on the yellow HODL icon and redeem free `COIN`.
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/redeem-hodl.png "a")
