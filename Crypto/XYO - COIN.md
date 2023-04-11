@@ -49,3 +49,9 @@ You can get free `COIN` every day based on the amount of `COIN` and `XYO` you ow
 Every 24 hours you can click on the yellow HODL icon and redeem free `COIN`.
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/redeem-hodl.png "a")
+
+## Collect Weekly `COIN`
+
+Every week you get free `COIN` from the Bonus Drop. Enable this by clicking on the plus icon in the top right corner and selecting **Bonus Drops*. Then every week you will be able to click the purple Bonus Drop icon and get free `COIN`.
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/bonus-drop.png "a")
