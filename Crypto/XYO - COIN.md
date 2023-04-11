@@ -16,24 +16,26 @@
 
 ## Earning `COIN`
 
-* Everytime you *mine* a tile, you get `COIN`. Mining is done with the pickaxe icon.
-* Use the pickaxe icon 15 times to enable Auto Explore. \
+* Everytime you *mine* a tile, you get `COIN`.
+* Mining is done with the pickaxe icon.
+* Use the pickaxe icon 15 times to enable **Auto Explore**. \
   ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/auto-explore.jpg "a")
+
+## Earning `COIN` Automatically
+
 * Once Auto Explore is available, turn it on and take a walk, drive, or leave the app open and earn `COIN`. \
   ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/earning.jpg "a")
 
-## Configuration
-
-### Enable Screensaver
+## Enable Screensaver
 
 To enable the screensaver, click on the diamond icon in the top left corner and select `Settings`.
 
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/screensaver.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/screensaver.png "a")
 
-### Enable Home Base & Background Rewards
+## Enable Home Base & Background Rewards
 
 Home Base lets you get a multiplier when you have the app open at the same location for a longer period of time. While Background Rewards let you earn `COIN` even when the app is closed.
 
 To enable these, click on the diamond icon in the top left corner and select `Settings`.
 
-![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/icons.jpg "a")
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/icons.png "a")
