@@ -47,7 +47,7 @@ After a while, you will see a blue icon on the left side to indicate **Home Base
 
 ## Collect Daily `COIN`
 
-You can get free `COIN` every day based on the amount of `COIN` and `XYO` you own. Enable this by clicking on the plus icon in the top right corner and selecting **HODL Rewards*.
+You can get free `COIN` every day based on the amount of `COIN` and `XYO` you own. Enable this by clicking on the plus icon in the top right corner and selecting **HODL Rewards**.
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/enable-hodl.png "a")
 
