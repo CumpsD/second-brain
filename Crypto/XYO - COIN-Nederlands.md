@@ -27,9 +27,9 @@ Eens **Auto Explore** beschikbaar is, zet het aan en maak een wandeling, rijd ro
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/earning.png "a")
 
-## Screensaver Inschakelen
+## Screen Saver Inschakelen
 
-Om de screensaver in te schakelen klik je op het diamand icoontje in de linker bovenhoek en kies je **Settings**.
+Om de **Screen Saver** in te schakelen klik je op het diamand icoontje in de linker bovenhoek en kies je **Settings**.
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/screensaver.png "a")
 
@@ -48,6 +48,8 @@ Na een tijdje zal je aan de linkerkant een blauw icoontje zien verschijnen die a
 ## Background Rewards Inschakelen
 
 **Background Rewards** zorgt ervoor dat je zelfs `COIN` verdient terwijl de app gesloten is. Om **Background Rewards** in te schakelen klik je op het diamand icoontje in de linker bovenhoek en kies je **Settings**.
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/icons.png "a")
 
 Na een tijdje zal je een groen **Ready to Collect** icoontje zien.
 
@@ -69,6 +71,10 @@ Elke 24 uur kan je op het gele HODL icoontje klikken om je gratis `COIN` te inne
 
 ## Wekelijkse `COIN` Innen
 
-Elke week kan je gratis `COIN` krijgen via **Bonus Drops**. Schakel dit in door op het plus icoontje te klikken in de rechter bovenhoek en **Bonus Drops** te kiezen. Daarna kan je elke week op het paarse **Bonus Drops** icoontje klikken om je gratis `COIN` te innen.
+Elke week kan je gratis `COIN` krijgen via **Bonus Drops**. Schakel dit in door op het plus icoontje te klikken in de rechter bovenhoek en **Bonus Drops** te kiezen.
+
+![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/enable-hodl.png "a")
+
+Daarna kan je elke week op het paarse **Bonus Drops** icoontje klikken om je gratis `COIN` te innen.
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/crypto/xyo/bonus-drop.png "a")
