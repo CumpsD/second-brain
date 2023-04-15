@@ -4,8 +4,8 @@
 
 ```bash
 $ snap info microk8s
-$ sudo snap install microk8s --classic --channel=1.26/stable
-microk8s (1.26/stable) v1.26.3 from Canonical✓ installed
+$ sudo snap install microk8s --classic --channel=1.27/stable
+microk8s (1.27/stable) v1.27.0 from Canonical✓ installed
 $ sudo iptables -P FORWARD ACCEPT
 $ sudo apt-get install iptables-persistent
 ```
@@ -67,7 +67,7 @@ addons:
 
 $ microk8s kubectl get nodes
 NAME    STATUS   ROLES    AGE   VERSION
-docky   Ready    <none>   93s   v1.26.3
+docky   Ready    <none>   93s   v1.27.3
 
 $ microk8s kubectl get services
 NAME         TYPE        CLUSTER-IP     EXTERNAL-IP   PORT(S)   AGE
@@ -78,9 +78,9 @@ No resources found in default namespace.
 
 $ alias kubectl='microk8s kubectl'
 $ kubectl version --short
-Client Version: v1.26.3
-Kustomize Version: v4.5.7
-Server Version: v1.26.3
+Client Version: v1.27.0
+Kustomize Version: v5.0.1
+Server Version: v1.27.0
 
 $ kubectl get all --all-namespaces
 NAMESPACE     NAME                                           READY   STATUS    RESTARTS   AGE
