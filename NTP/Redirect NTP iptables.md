@@ -31,9 +31,9 @@ iptables -t nat -L -n --line-number
 
 ```bash
 cd /data/on_boot.d/
-touch 10-iptables.sh
-chmod +x 10-iptables.sh
-vi 10-iptables.sh
+touch 10-iptables-ntp.sh
+chmod +x 10-iptables-ntp.sh
+vi 10-iptables-ntp.sh
 ```
 
 Add the following script:
