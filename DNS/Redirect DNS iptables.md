@@ -3,6 +3,9 @@
 ## Setup
 
 ```bash
+aqirule="PREROUTING -s 10.0.4.59 -j ACCEPT"
+iptables -t nat -C ${aqirule} || iptables -t nat -A ${aqirule}
+
 tcprule="PREROUTING ! -s 10.0.3.9 -p tcp --dport 53 -j DNAT --to 10.0.50.50"
 iptables -t nat -C ${tcprule} || iptables -t nat -A ${tcprule}
 
@@ -20,6 +23,7 @@ iptables -t nat -L -n --line-number
 ## Remove
 
 ```bash
+iptables -t nat -D PREROUTING -s 10.0.4.59 -j ACCEPT
 iptables -t nat -D PREROUTING ! -s 10.0.3.9 -p tcp --dport 53 -j DNAT --to 10.0.50.50
 iptables -t nat -D PREROUTING ! -s 10.0.3.9 -p udp --dport 53 -j DNAT --to 10.0.50.50
 iptables -t nat -D POSTROUTING -s 10.0.0.0/8 -p tcp --dport 53 -j MASQUERADE
@@ -40,6 +44,9 @@ Add the following script:
 
 ```bash
 #!/bin/sh
+aqirule="PREROUTING -s 10.0.4.59 -j ACCEPT"
+iptables -t nat -C ${aqirule} || iptables -t nat -A ${aqirule}
+
 tcprule="PREROUTING ! -s 10.0.3.9 -p tcp --dport 53 -j DNAT --to 10.0.50.50"
 iptables -t nat -C ${tcprule} || iptables -t nat -A ${tcprule}
 
