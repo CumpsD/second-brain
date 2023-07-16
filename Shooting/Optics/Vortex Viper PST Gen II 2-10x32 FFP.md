@@ -10,8 +10,8 @@
 
 ## Resources
 
-* [Reticle Manual](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/vortex/VTX_M-00015-0_VPR_PST G2_EBR-2C_MRAD_RS_P_RM_WEB.pdf)
-* [Product Manual](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/vortex/VTX_M-00041-0_VPR_PST G2_RS_P_PM_WEB.pdf)
+* [Reticle Manual](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/vortex/VTX_M-00015-0_VPR_PST-G2_EBR-2C_MRAD_RS_P_RM_WEB.pdf)
+* [Product Manual](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/vortex/VTX_M-00041-0_VPR_PST-G2_RS_P_PM_WEB.pdf)
 * [Parts Diagram](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/vortex/VTX_PST-2101_PST-2105_PST-G2_RS_C_XVIEW.pdf)
 * [Subtension Detail](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/vortex/VTX_PST-2101_EBR-4_MOA_RS_I_RI_ST.pdf)
 
