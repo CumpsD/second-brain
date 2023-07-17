@@ -113,6 +113,12 @@ SN  TT89793
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun2.png "a")
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/mp15tii/gun3.png "a")
 
+## Upgrades
+
+* [Vortex Viper PST Gen II 2-10x32 FFP](https://github.com/CumpsD/second-brain/blob/main/Shooting/Optics/Vortex%20Viper%20PST%20Gen%20II%202-10x32%20FFP.md)
+* [UTG Recon Flex M-Lok Bipod](https://github.com/CumpsD/second-brain/blob/main/Shooting/Accessories/UTG%20Recon%20Flex%20M-Lok%20Bipod.md)
+* [UTG Ultra Slim Angled Foregrip](https://github.com/CumpsD/second-brain/blob/main/Shooting/Accessories/UTG%20Ultra%20Slim%20Angled%20Foregrip.md)
+
 ## Resources
 
 * [Smith & Wesson M&P 15 Tactical II](https://www.smith-wesson.com/product/mp-15-1?sku=13492)
