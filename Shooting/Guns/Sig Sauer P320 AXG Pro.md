@@ -131,7 +131,9 @@ SN  58J345551
 
 <!-- ## Pictures -->
 
-<!-- ## Upgrades -->
+## Upgrades
+
+* [Sig Sauer ROMEO1PRO](https://github.com/CumpsD/second-brain/blob/main/Shooting/Optics/Sig%20Sauer%20ROMEO1PRO.md)
 
 ### Resources
 
