@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <th>Mount Type</th>
-   <td>M-LOK</td>
+    <td>M-LOK</td>
   </tr>
   <tr>
     <th>Weight</th>
