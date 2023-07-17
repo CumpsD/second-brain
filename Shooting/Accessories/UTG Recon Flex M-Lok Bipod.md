@@ -8,6 +8,10 @@
 
 > UTG does it again with the new Recon Flex Bipods. These "bipods" are essentially separate legs that attach directly to Keymod or M-LOK® handguards. This kind of setup allows the user to have a lightweight setup on their rifle at all times. Deploying the legs is fast and simple by pulling down on the spring loaded slide locking ring. The versatile bidirectional bipod has 5 Posi-lock positions making it applicable to many different firearms with varying height clearance and mounting real estate. The legs are extendable in length are lockable via thumb wheel. The bipods are constructed from lightweight aircraft grade aluminum construction in a matte black anodize are feature nonslip textured rubberized foot pads.
 
+## Resources
+
+[User Manual](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/utg/Manual-Bipod-TL-BPDM-BPDK.pdf)
+
 ## Pictures
 
 ![a](https://github.com/CumpsD/second-brain/raw/main/assets/shooting/utg/recon-flex-bipod.jpg "a")
