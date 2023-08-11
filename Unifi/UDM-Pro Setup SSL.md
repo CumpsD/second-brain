@@ -13,6 +13,7 @@ To setup SSL, copy your certificate into `/mnt/data/unifi-os/unifi-core/config/u
       Welcome to UniFi Dream Machine!
 
 # cd /mnt/data/unifi-os/unifi-core/config/
+# cd /data/unifi-core/config/
 # ls -al
 total 56
 drwxr-xr-x    2 root     root          4096 Feb 24 22:03 .
