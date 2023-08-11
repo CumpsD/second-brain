@@ -18,7 +18,6 @@ Firmware version: v3.1.15
 
 # cd /data/unifi-core/config/
 # ls -al
-
 total 68
 drwxr-xr-x 2 root root 4096 Feb 18 16:51 ./
 drwxr-xr-x 8 root root 4096 Jul 26 16:20 ../
