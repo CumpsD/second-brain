@@ -13,6 +13,7 @@
 * [X-Ray Parts](https://xrayparts.it/)
 * [SpecShop.pl](https://www.specshop.pl/)
 * [Top-ArmyShop.com](https://www.top-armyshop.com/)
+* [Brownells Germany](https://www.brownells-deutschland.de/)
 * [Agilite](https://agiliteinternational.com/)
 * [Qore Performance](https://www.qoreperformance.com/)
 * [UF PRO](https://ufpro.com/)
