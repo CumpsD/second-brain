@@ -85,3 +85,7 @@
 * [Hunting Lodge](https://huntinglodge.be/)
 * [KW](https://www.facebook.com/KW-260042897398676/)
 * [Liège Arms](https://www.liegearms.be/)
+
+## Luxemburg
+
+* [Luxguns](https://www.luxguns.com/en/)
