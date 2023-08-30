@@ -57,6 +57,7 @@
 * [Weapons & Ammunition Hendrickx](https://www.wapens-munitie.com/)
 * [KVS Poppel](https://kvspoppel.be/)
 * [R.M. Vinck & Co](https://www.rmvinck.com/)
+* [Rubus-XL](https://rubus-xl.eu/)
 * Masterarms Zelzate (no site)
 
 ## Brussels
