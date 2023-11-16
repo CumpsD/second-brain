@@ -12,6 +12,7 @@
 * [Baseline Tactical](https://baseline-tactical.com/)
 * [X-Ray Parts](https://xrayparts.it/)
 * [SpecShop.pl](https://www.specshop.pl/)
+* [Polenar Tactical](https://polenartactical.com/)
 * [Top-ArmyShop.com](https://www.top-armyshop.com/)
 * [Brownells Germany](https://www.brownells-deutschland.de/)
 * [Agilite](https://agiliteinternational.com/)
