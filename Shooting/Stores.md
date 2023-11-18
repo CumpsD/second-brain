@@ -9,6 +9,7 @@
 * [Krale](https://www.krale.shop/)
 * [Protect Or Save](https://www.protectorsave.be/)
 * [Optics & More](https://opticsandmore.be/)
+* [Level Four](https://www.levelfour.be/)
 * [Baseline Tactical](https://baseline-tactical.com/)
 * [X-Ray Parts](https://xrayparts.it/)
 * [SpecShop.pl](https://www.specshop.pl/)
@@ -21,6 +22,7 @@
 * [Six Echo](https://sixechosystems.com/)
 * [Unlimited Dynamics](https://www.unlimiteddynamics.eu/en_us/)
 * [Bradley Cheekrest](https://bradleycheekrest.com/)
+* [Europe Outdoor](https://europe-outdoor.eu/)
 
 ## Flanders
 
