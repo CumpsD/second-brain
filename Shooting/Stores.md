@@ -23,6 +23,7 @@
 * [Unlimited Dynamics](https://www.unlimiteddynamics.eu/en_us/)
 * [Bradley Cheekrest](https://bradleycheekrest.com/)
 * [Europe Outdoor](https://europe-outdoor.eu/)
+* [Huntac.de](https://huntac.de/en)
 
 ## Flanders
 
