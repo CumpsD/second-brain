@@ -6,7 +6,7 @@
 * [Speed Reload](SpeedReload.md)
 * [Tap Rack](TapRack.md)
 * [Double Feed](DoubleFeed.md)
-* [Draw][Draw.md]
+* [Draw](Draw.md)
 
 ## Live Fire
 
