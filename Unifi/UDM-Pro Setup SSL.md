@@ -2,7 +2,7 @@
 
 ## New Unifi Version 
 
-To setup SSL, copy your certificate into `/data/unifi-core/config/unifi-core.crt` and /data/unifi-core/config/unifi-core.key` and restart.
+To setup SSL, copy your certificate into `/data/unifi-core/config/unifi-core.crt` and `/data/unifi-core/config/unifi-core.key` and restart.
 
 ```bash
 Firmware version: v3.1.15
