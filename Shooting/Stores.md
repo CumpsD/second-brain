@@ -2,7 +2,6 @@
 
 ## Online
 
-* [Contact Front](https://www.contactfront.store/)
 * [Gunsmoke.eu](https://www.gunsmoke.eu/)
 * [Guns & Gear](https://www.gunsandgear.be/)
 * [Richtkijkers.nl](https://www.richtkijkers.nl/)
@@ -10,6 +9,8 @@
 * [Protect Or Save](https://www.protectorsave.be/)
 * [Optics & More](https://opticsandmore.be/)
 * [Level Four](https://www.levelfour.be/)
+* [Evolve](https://www.evolve-tg.shop/)
+* [BTactical](https://www.btactical.eu/)
 * [Baseline Tactical](https://baseline-tactical.com/)
 * [X-Ray Parts](https://xrayparts.it/)
 * [SpecShop.pl](https://www.specshop.pl/)
@@ -24,7 +25,16 @@
 * [Bradley Cheekrest](https://bradleycheekrest.com/)
 * [Europe Outdoor](https://europe-outdoor.eu/)
 * [Huntac.de](https://huntac.de/en)
-
+* [Recon Company](https://www.recon-company.com/)
+* [Rigad](https://www.rigad.com/)
+* [MFI](https://mfiap.com/)
+* [True North Concepts](https://truenorth-usa.com/) *(Email for EU shipping)*
+* [e-tactical](https://e-tactical.store/en/)
+* [AirsoftZone.com](https://www.airsoftzone.com/en/)
+* [Verrekijker Gigant](https://verrekijkergigant.nl/) *(Spotter scopes Vortex)*
+* [Decathlon](https://www.decathlon.be/nl/alle-sporten/jacht/wapenkasten) *(Gun safes)*
+* [Mantis](https://mantisx.com/)
+  
 ## Flanders
 
 * [Wapenhandel Podevijn](https://www.wapenhandelpodevijn.be/)
