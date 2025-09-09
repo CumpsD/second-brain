@@ -34,6 +34,7 @@
 * [Verrekijker Gigant](https://verrekijkergigant.nl/) *(Spotter scopes Vortex)*
 * [Decathlon](https://www.decathlon.be/nl/alle-sporten/jacht/wapenkasten) *(Gun safes)*
 * [Mantis](https://mantisx.com/)
+* [Down Range](https://www.down-range.be/)
   
 ## Flanders
 
@@ -73,6 +74,8 @@
 * [KVS Poppel](https://kvspoppel.be/)
 * [R.M. Vinck & Co](https://www.rmvinck.com/)
 * [Rubus-XL](https://rubus-xl.eu/)
+* [PRS - Precision Rifle Service](https://www.prsbelgium.be/)
+* [International Collectors Firearms Serviceshttps://www.icfs-delta.com/](https://www.icfs-delta.com/)
 * Masterarms Zelzate (no site)
 
 ## Brussels
