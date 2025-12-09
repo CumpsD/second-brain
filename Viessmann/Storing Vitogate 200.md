@@ -231,7 +231,7 @@ Hieronder is de tijdslijn van alles wat ondernomen is om deze storing te verhelp
 
 > Beste,
 >
-> Ik heb nergens beweerd dat ik geen KNX wil gebruiken. Integendeel, ik gebruik nu de Vitogate 200 KNX en deze is defect, vastgesteld door mening technieker die hier op bezoek geweest is. Ik wens dus graag onder mijn contract een vervangend onderdeel.
+> Ik heb nergens beweerd dat ik geen KNX wil gebruiken. Integendeel, ik gebruik nu de Vitogate 200 KNX en deze is defect, vastgesteld door menig technieker die hier op bezoek geweest is. Ik wens dus graag onder mijn contract een vervangend onderdeel.
 >
 > Ik heb enkel aangegeven dat ik akkoord zou zijn met een "Viessmann Wago KNX/TP-Gateway" of "Viessmann Wago MB/TCP-Gateway" als vervanging indien jullie geen Vitogate 200 meer in stock zouden liggen hebben. Aangezien dit dezelfde functie kan vervullen als het bestaande defecte onderdeel.
 >
